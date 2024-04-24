@@ -2,17 +2,27 @@
 
 Experienced business intelligence developer and full-stack engineer.
 
-I’m currently learning C, Go, TypeScript, and enterprise linux!
+I’m currently learning C, Go, TypeScript, and enterprise Linux!
 
 Say hi or fork a repo to help me out. 😊
 
 ## My Experiences
 
-Full-stack engineer in React/JavaScript/PHP/Python
+```
+Full-stack engineer
+React // JavaScript // PHP // Python
 3+ years
-
-Business Intelligence Developer in Tableau/PowerBI/Python/R 
+```
+```
+Business Intelligence Developer
+Tableau // PowerBI //Qlik // Python // R 
 2 years
+```
+## Education
+```
+BS in Economics and Philosophy
+A couple IT certifications
+```
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alteryx-motives&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
