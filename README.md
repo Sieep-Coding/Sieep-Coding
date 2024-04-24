@@ -15,13 +15,13 @@ React // JavaScript // PHP // Python
 ```
 ```
 Business Intelligence Developer
-Tableau // PowerBI //Qlik // Python // R 
+Tableau // PowerBI // Qlik // Python // R 
 2 years
 ```
 ## Education
 ```
 BS in Economics and Philosophy
-A couple IT certifications
+Two IT certifications
 ```
 
 ## Stats
