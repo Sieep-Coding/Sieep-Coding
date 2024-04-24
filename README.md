@@ -10,7 +10,7 @@ Say hi or fork a repo to help me out. 😊
 
 ```
 Full-stack engineer
-React // JavaScript // PHP // Python // NoSQL
+React // JavaScript // PHP // Python // NoSQL (MongoDB)
 3+ years
 ```
 ```
