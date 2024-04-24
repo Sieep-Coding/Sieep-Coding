@@ -1,8 +1,8 @@
 # ALTERYX-MOTIVES
 
-Experienced business intelligence developer and full-stack engineer.
+Experienced full-stack and embedded engineer.
 
-I’m currently learning C, Go, TypeScript, and enterprise Linux!
+Learning C, Go, TypeScript, and enterprise Linux!
 
 Say hi or fork a repo to help me out. 😊
 
