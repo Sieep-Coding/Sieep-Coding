@@ -1,6 +1,6 @@
 # ALTERYX-MOTIVES
 
-Experienced full-stack and embedded engineer. 🛠
+Experienced full-stack and embedded engineer specializing in data and business intelligence. 🛠
 
 Created websites, desktop applications, developer tools, and more! 💻
 
