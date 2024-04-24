@@ -6,7 +6,7 @@ Created websites, desktop applications, developer tools, and more! 💻
 
 Learning C, Go, TypeScript, and enterprise Linux! 🐧
 
-Say hi or fork a repo to help me out. 😊
+Say hi or fork a repo to help me out.😊
 
 ## Experience (Ask about projects!)
 
