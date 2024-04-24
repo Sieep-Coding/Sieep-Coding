@@ -1,1 +1,1 @@
-- 🌱 I’m currently learning C, Go, and Linux
+### I’m currently learning C, Go, and Linux!
