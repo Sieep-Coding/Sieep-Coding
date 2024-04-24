@@ -27,6 +27,8 @@ Two IT certifications
 ```
 
 ## Stats
+![](https://komarev.com/ghpvc/?username=alteryx-motives&color=grey&style=for-the-badge)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alteryx-motives&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 # Check my 🍚!
