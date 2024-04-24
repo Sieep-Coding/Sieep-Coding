@@ -10,12 +10,12 @@ Say hi or fork a repo to help me out. 😊
 
 ```
 Full-stack engineer
-React // JavaScript // PHP // Python
+React // JavaScript // PHP // Python // NoSQL
 3+ years
 ```
 ```
 Business Intelligence Developer
-Tableau // PowerBI // Qlik // Python // R 
+Tableau // PowerBI // Qlik // Python // R // SQL (SSMS)
 2 years
 ```
 ## Education
