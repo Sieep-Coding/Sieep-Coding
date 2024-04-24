@@ -26,6 +26,6 @@ Two IT certifications
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alteryx-motives&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
 # Check my 🍚!
 ![](https://github.com/Alteryx-Motives/Alteryx-Motives/blob/main/output-rice-exp-1200.gif)
