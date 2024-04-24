@@ -6,7 +6,7 @@ I’m currently learning C, Go, TypeScript, and enterprise Linux!
 
 Say hi or fork a repo to help me out. 😊
 
-## My Experiences
+## Experience (Ask about projects!)
 
 ```
 Full-stack engineer
