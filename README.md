@@ -6,13 +6,6 @@ I love to develop websites, dashboards, desktop applications, developer tools, a
 
 Say hi or fork a repo to help me out. 😊
 
-## Education
-```
-Pursuing MS in Computer Science
-BS in Economics and Philosophy
-Two IT certifications
-```
-
 ## Stats
 ![](https://komarev.com/ghpvc/?username=alteryx-motives&color=grey&style=for-the-badge)
 
