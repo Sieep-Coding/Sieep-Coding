@@ -1,14 +1,18 @@
 # Sieep
+## About me
 
+- Experienced full-stack & systems programmer.
+
+- I love to develop websites, dashboards, desktop applications, developer tools, and more! 💻
+
+- Say hi or fork a repo to help me out. 😊
+
+## Stats
 ![](https://komarev.com/ghpvc/?username=alteryx-motives&color=grey&style=for-the-badge)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=blue_navy)](https://github.com/anuraghazra/github-readme-stats)
 
-Experienced full-stack & systems programmer.
-
-I love to develop websites, dashboards, desktop applications, developer tools, and more! 💻
-
-Say hi or fork a repo to help me out. 😊
+## Tech
 
 🔭 Programming Languages I Love
   
