@@ -1,6 +1,6 @@
 # Sieep
 
-Experienced full-stack and embedded engineer specializing in data and business intelligence. 🛠
+Experienced full-stack engineer specializing in data and business intelligence. 🛠
 
 Professionally created websites, dashboards, desktop applications, developer tools, and more! 💻
 
