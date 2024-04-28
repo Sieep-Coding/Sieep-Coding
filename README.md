@@ -9,12 +9,12 @@ Say hi or fork a repo to help me out. 😊
 ## Experience (Ask about projects!)
 
 ```
-Full-stack engineer
+Full-stack engineer @ nickstambaugh.com
 React // JavaScript // PHP // Python // NoSQL (MongoDB)
 3+ years
 ```
 ```
-Business Intelligence Developer
+Business Intelligence Developer @ various companies
 Tableau // PowerBI // Qlik // Python // R // SQL (SSMS)
 2 years
 ```
