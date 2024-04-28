@@ -2,7 +2,7 @@
 
 Experienced full-stack engineer specializing in data and business intelligence. 🛠
 
-Professionally created websites, dashboards, desktop applications, developer tools, and more! 💻
+Led development of websites, dashboards, desktop applications, developer tools, and more! 💻
 
 Say hi or fork a repo to help me out. 😊
 
