@@ -1,23 +1,9 @@
 # Sieep
 
-Experienced full-stack developer specializing in data and business intelligence. 🛠
-
-Led development of websites, dashboards, desktop applications, developer tools, and more! 💻
+I love to develop websites, dashboards, desktop applications, developer tools, and more! 💻
 
 Say hi or fork a repo to help me out. 😊
 
-## Experience (Ask about projects!)
-
-```
-Full-stack developer 
-React // JavaScript // PHP // Python // NoSQL (MongoDB)
-3+ years
-```
-```
-Business Intelligence Developer @ various companies
-Tableau // PowerBI // Qlik // Python // R // SQL (SSMS)
-2 years
-```
 ## Education
 ```
 BS in Economics and Philosophy
