@@ -27,8 +27,6 @@ Say hi or fork a repo to help me out. 😊
   
 - 🌱 Currently Learning： ![Computer Science](https://img.shields.io/badge/-Computer%20Science-red?style=flat-circle&logo=computer-science)
 
-- <img align="center" src="https://raw.githubusercontent.com/Sieep-Coding/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
