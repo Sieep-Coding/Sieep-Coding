@@ -33,6 +33,7 @@ Say hi or fork a repo to help me out. 😊
 🛠️ Databases
 
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-blue?style=flat-circle&logo=sql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
   
 📊 Data Visualization
 
@@ -54,6 +55,7 @@ Say hi or fork a repo to help me out. 😊
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
+
 
 <!--
 # Check my 🍚!
