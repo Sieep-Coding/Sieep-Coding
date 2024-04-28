@@ -1,11 +1,14 @@
 # Sieep
 
+Experienced full-stack & systems programmer.
+
 I love to develop websites, dashboards, desktop applications, developer tools, and more! 💻
 
 Say hi or fork a repo to help me out. 😊
 
 ## Education
 ```
+Pursuing MS in Computer Science
 BS in Economics and Philosophy
 Two IT certifications
 ```
