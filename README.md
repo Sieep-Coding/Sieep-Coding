@@ -2,9 +2,7 @@
 
 Experienced full-stack and embedded engineer specializing in data and business intelligence. 🛠
 
-Created websites, desktop applications, developer tools, and more! 💻
-
-Learning C, Go, TypeScript, and enterprise Linux! 🐧
+Professionally created websites, dashboards, desktop applications, developer tools, and more! 💻
 
 Say hi or fork a repo to help me out. 😊
 
