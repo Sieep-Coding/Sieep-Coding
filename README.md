@@ -9,7 +9,7 @@ Say hi or fork a repo to help me out. 😊
 ## Stats
 ![](https://komarev.com/ghpvc/?username=alteryx-motives&color=grey&style=for-the-badge)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 Programming Languages I ♥️： ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript) ![Python](https://img.shields.io/badge/-Python-blue?style=flat-circle&logo=Python) ![Rust](https://img.shields.io/badge/-Rust-red?style=flat-circle&logo=rust) ![Go](https://img.shields.io/badge/-Go-blue?style=flat-circle&logo=go) ![C/C++](https://img.shields.io/badge/-C/C++-darkblue?style=flat-circle&logo=c%2B%2B)
 
