@@ -1,6 +1,6 @@
 # Sieep
 
-Experienced full-stack engineer specializing in data and business intelligence. 🛠
+Experienced full-stack developer specializing in data and business intelligence. 🛠
 
 Led development of websites, dashboards, desktop applications, developer tools, and more! 💻
 
@@ -9,7 +9,7 @@ Say hi or fork a repo to help me out. 😊
 ## Experience (Ask about projects!)
 
 ```
-Full-stack engineer @ nickstambaugh.com
+Full-stack developer 
 React // JavaScript // PHP // Python // NoSQL (MongoDB)
 3+ years
 ```
