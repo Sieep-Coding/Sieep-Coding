@@ -6,7 +6,7 @@
 
 - Say hi or fork a repo to help me out. 😊
 
-- I write about technology on my <a href="https://medium.com/@nick-stambaugh">Medium.</a>
+- I write about technology on my <a href="https://medium.com/@nick-stambaugh">blog.</a>
 
 ## Stats
 ![](https://komarev.com/ghpvc/?username=alteryx-motives&color=grey&style=for-the-badge)
