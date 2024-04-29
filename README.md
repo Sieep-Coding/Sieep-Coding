@@ -1,4 +1,3 @@
-# Sieep
 ## About Me
 
 - Experienced full-stack & systems programmer.
