@@ -55,8 +55,9 @@
 💻 IDEs/Editors
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-circle&logo=visual-studio-code)
+![RStudio](https://img.shields.io/badge/-RStudio-blue?style=flat-circle&logo=RStudio)
   
-🌱 Currently Learning
+🌱 Currently Studying
 
 ![Computer Science](https://img.shields.io/badge/-Computer%20Science-red?style=flat-circle&logo=computer-science)
 <p align="center">
