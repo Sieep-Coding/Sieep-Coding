@@ -1,6 +1,6 @@
 ## About Me
 
-- Experienced full-stack & system's programmer.
+- Experienced full-stack & systems programmer.
 
 - I love to develop websites, dashboards, desktop applications, developer tools, and more! 💻
 
