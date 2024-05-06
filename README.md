@@ -32,7 +32,7 @@
 
 ![React](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=react) 
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-circle&logo=html5) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-blue?style=flat-circle&logo=css3) 
+![Bootstrap](https://img.shields.io/badge/-Tailwind-blue?style=flat-circle&logo=tailwindcss) 
 ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-circle&logo=php)
   
 🛠️ Databases
