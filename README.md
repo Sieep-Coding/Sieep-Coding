@@ -9,7 +9,7 @@
 ## Stats
 ![](https://komarev.com/ghpvc/?username=alteryx-motives&color=grey&style=for-the-badge)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=dark&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=dark&hide=html,css,zig)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sieep-coding&theme=onestar&title=Stars,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
