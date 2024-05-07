@@ -1,3 +1,16 @@
+# Top Projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=snow-simulation&theme=dark)](https://github.com/Sieep-Coding/snow-simulation)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=web-crawler&theme=dark)](https://github.com/Sieep-Coding/web-crawler)
+
+
+## Stats
+![](https://komarev.com/ghpvc/?username=alteryx-motives&color=grey&style=for-the-badge) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=dark&hide=html,css,zig)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sieep-coding&theme=onestar&title=Stars,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## About Me
 
 - I love to develop websites, dashboards, desktop applications, developer tools, and more! 💻
@@ -5,13 +18,6 @@
 - Say hi or fork a repo to help me out. 😊
 
 - I write about technology on my <a href="https://medium.com/@nick-stambaugh">blog.</a>
-
-## Stats
-![](https://komarev.com/ghpvc/?username=alteryx-motives&color=grey&style=for-the-badge)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=dark&hide=html,css,zig)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sieep-coding&theme=onestar&title=Stars,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Tech
 
