@@ -1,7 +1,7 @@
 # Top Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=snow-simulation&theme=dark)](https://github.com/Sieep-Coding/snow-simulation)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=web-crawler&theme=dark)](https://github.com/Sieep-Coding/todo-htmx-alpine-go)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=todo-htmx-alpine-go&theme=dark)](https://github.com/Sieep-Coding/todo-htmx-alpine-go)
 
 
 ## Stats
