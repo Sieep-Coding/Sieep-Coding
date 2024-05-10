@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
+
 # Top Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=snow-simulation&theme=dark)](https://github.com/Sieep-Coding/snow-simulation)
