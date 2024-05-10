@@ -25,7 +25,7 @@
 
 ## Tech
 
-🔭 Programming Languages I Love
+### 🔭 Programming Languages I Love
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-blue?style=flat-circle&logo=Python)
@@ -33,40 +33,40 @@
   ![Go](https://img.shields.io/badge/-Go-blue?style=flat-circle&logo=go)
   ![C/C++](https://img.shields.io/badge/-C/C++-darkblue?style=flat-circle&logo=c%2B%2B)
 
-🕵🏻 Operating System
+### 🕵🏻 Operating System
 
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Redhat%20Enterprise-FCC624?style=flat&logo=linux&logoColor=black)
   
-👯 Web Development
+### 👯 Web Development
 
 ![React](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=react) 
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-circle&logo=html5) 
 ![Bootstrap](https://img.shields.io/badge/-Tailwind-blue?style=flat-circle&logo=tailwindcss) 
 ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-circle&logo=php)
   
-🛠️ Databases
+### 🛠️ Databases
 
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-blue?style=flat-circle&logo=sql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-grey?style=flat-circle&logo=Salesforce)
   
-📊 Data Visualization
+### 📊 Data Visualization
 
 ![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-circle&logo=tableau) 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-circle&logo=power-bi) 
 ![Qlik Sense](https://img.shields.io/badge/-Qlik%20Sense-grey?style=flat-circle&logo=qlik)
   
-⚙️ Version Control
+### ⚙️ Version Control
 
 ![Git](https://img.shields.io/badge/-Git-orange?style=flat-circle&logo=git)
   
-💻 IDEs/Editors
+### 💻 IDEs/Editors
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-circle&logo=visual-studio-code)
 ![RStudio](https://img.shields.io/badge/-RStudio-blue?style=flat-circle&logo=RStudio)
   
-🌱 Currently Studying
+### 🌱 Currently Studying
 
 ![Computer Science](https://img.shields.io/badge/-Computer%20Science-red?style=flat-circle&logo=computer-science)
 <p align="center">
