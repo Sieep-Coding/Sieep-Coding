@@ -9,7 +9,7 @@
 
 
 ## Stats
-![](https://komarev.com/ghpvc/?username=alteryx-motives&color=grey&style=for-the-badge) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
+![](https://komarev.com/ghpvc/?username=alteryx-motives&color=lightgrey&style=flat&base=6000&abbreviated=true) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=dark&hide=html,css,zig)](https://github.com/anuraghazra/github-readme-stats)
 
