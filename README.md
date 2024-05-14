@@ -20,7 +20,7 @@
   
 - I am a self-taught software engineer.
 
-- You can view my [My virtual resume.](https://sieep-coding.github.io/)
+- You can view my [virtual resume.](https://sieep-coding.github.io/)
 
 
 ```
