@@ -9,8 +9,8 @@
 
 </div>
 
-```
-About me:
+
+### About me:
 
 - I love to develop websites, dashboards, desktop applications, developer tools, and more! 
 
@@ -21,7 +21,6 @@ About me:
 - I am a self-taught software engineer.
 
 - You can view my [My virtual resume.](https://sieep-coding.github.io/)
-```
 
 
 ```
