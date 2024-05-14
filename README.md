@@ -20,21 +20,17 @@
 ```
 I can:
 
+   - Engineer web applications using React.js, JavaScript, SQL, and PHP within tight deadlines.
+
    - Develop critical API endpoints.
 
-   - Design and implement enterprise-level dashboards.
+   - Design and implement enterprise-level dashboards in Qlik Sense, Tableau, and PowerBI.
 
    - Lead and manage teams, oversee analysts in SQL/PowerBI tasks.
 
    - Automate ETL pipelines using Python and SQL, streamline report generation processes.
 
    - Present business intelligence findings to executives and team leaders.
-
-   - Engineer web applications using React.js, JavaScript, SQL, and PHP within tight deadlines.
-
-   - Create reports on local economic trends using Tableau, Python, and Excel.
-
-   - Develop insightful dashboards using Tableau and Salesforce for enterprise-level analysis.
 
    - Conduct extensive research and data analysis, utilizing R, SAS, and regression analysis techniques.
 ```
