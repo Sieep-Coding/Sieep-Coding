@@ -17,10 +17,9 @@
 
 - I write about technology on my <a href="https://medium.com/@nick-stambaugh">blog!</a>
 
-<div align='center'>
-
-#### I Can:
 ```
+I can:
+
    - Develop critical API endpoints.
 
    - Design and implement enterprise-level dashboards.
@@ -39,7 +38,7 @@
 
    - Conduct extensive research and data analysis, utilizing R, SAS, and regression analysis techniques.
 ```
-</div>
+
 
 ## Stats
 
