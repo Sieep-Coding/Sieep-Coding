@@ -9,11 +9,10 @@
 
 </div>
 
-## About Me
+```
+About me:
 
-- I love to develop websites, dashboards, desktop applications, developer tools, and more! 💻
-
-- Say hi or fork a repo to help me out. 😊
+- I love to develop websites, dashboards, desktop applications, developer tools, and more! 
 
 - I write about technology on my <a href="https://medium.com/@nick-stambaugh">blog!</a>
 
@@ -21,7 +20,9 @@
   
 - I am a self-taught software engineer.
 
-- [My virtual resume.](https://sieep-coding.github.io/)
+- You can view my [My virtual resume.](https://sieep-coding.github.io/)
+```
+
 
 ```
 I can:
