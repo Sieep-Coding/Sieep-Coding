@@ -1,9 +1,13 @@
+<div align='center'>
+
 ![](https://komarev.com/ghpvc/?username=alteryx-motives&color=lightgrey&style=flat&base=6000&abbreviated=true) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
 
 # Top Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=snow-simulation&theme=dark)](https://github.com/Sieep-Coding/snow-simulation)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=todo-htmx-alpine-go&theme=dark)](https://github.com/Sieep-Coding/todo-htmx-alpine-go)
+
+</div>
 
 ## About Me
 
@@ -12,6 +16,8 @@
 - Say hi or fork a repo to help me out. 😊
 
 - I write about technology on my <a href="https://medium.com/@nick-stambaugh">blog!</a>
+
+<div align='center'>
 
 #### I Can:
 ```
@@ -35,14 +41,14 @@
 
    - Conduct extensive research and data analysis, utilizing R, SAS, and regression analysis techniques.
 ```
-
+</div>
 
 ## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=dark&hide=html,css,zig)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sieep-coding&theme=onestar&title=MultiLanguage,Stars,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
-
+   
 ## Tech
 
 ### 🔭 Programming Languages I Love
@@ -91,11 +97,12 @@
 
 ![Computer Science](https://img.shields.io/badge/-Computer%20Science-red?style=flat-circle&logo=computer-science)
 ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-circle&logo=docker)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
 
-
 <!--
 # Check my 🍚!
 ![](https://github.com/Alteryx-Motives/Alteryx-Motives/blob/main/output-rice-exp-1200.gif)
+---!>
