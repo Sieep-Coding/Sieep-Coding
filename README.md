@@ -56,12 +56,13 @@
   ![Go](https://img.shields.io/badge/-Go-blue?style=flat-circle&logo=go)
   ![C/C++](https://img.shields.io/badge/-C/C++-darkblue?style=flat-circle&logo=c%2B%2B)
 
-### 🕵🏻 Operating System
+### 🕵🏻 Daily Operating System
 
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Redhat%20Enterprise-FCC624?style=flat&logo=linux&logoColor=black)
+![Red Hat](https://img.shields.io/badge/Redhat%20Enterprise-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-FCC624?style=flat&logo=Ubuntu&logoColor=black)
   
-### 👯 Web Development
+### 🕸️ Web Development
 
 ![React](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=react) 
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-circle&logo=html5) 
