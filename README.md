@@ -21,6 +21,8 @@
   
 - I am a self-taught software engineer.
 
+- [My virtual resume.](https://sieep-coding.github.io/)
+
 ```
 I can:
 
