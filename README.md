@@ -70,17 +70,17 @@
 
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-blue?style=flat-circle&logo=sql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Salesforce](https://img.shields.io/badge/-Salesforce-grey?style=flat-circle&logo=Salesforce)
+![Salesforce](https://img.shields.io/badge/-Salesforce-white?style=flat-circle&logo=Salesforce)
   
 ### 📊 Data Visualization
 
 ![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-circle&logo=tableau) 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-circle&logo=power-bi) 
-![Qlik Sense](https://img.shields.io/badge/-Qlik%20Sense-grey?style=flat-circle&logo=qlik)
+![Qlik Sense](https://img.shields.io/badge/-Qlik%20Sense-white?style=flat-circle&logo=qlik&logoColor=green)
   
 ### ⚙️ Version Control
 
-![Git](https://img.shields.io/badge/-Git-orange?style=flat-circle&logo=git)
+![Git](https://img.shields.io/badge/-Git-white?style=flat-circle&logo=git)
   
 ### 💻 IDEs/Editors
 
