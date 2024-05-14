@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=alteryx-motives&color=lightgrey&style=flat&base=6000&abbreviated=true) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
+
 # Top Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=snow-simulation&theme=dark)](https://github.com/Sieep-Coding/snow-simulation)
@@ -36,7 +38,6 @@
 
 
 ## Stats
-![](https://komarev.com/ghpvc/?username=alteryx-motives&color=lightgrey&style=flat&base=6000&abbreviated=true) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=dark&hide=html,css,zig)](https://github.com/anuraghazra/github-readme-stats)
 
