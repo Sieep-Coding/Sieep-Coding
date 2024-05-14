@@ -92,6 +92,7 @@
 ### 🌱 Currently Studying
 
 ![Computer Science](https://img.shields.io/badge/-Computer%20Science-red?style=flat-circle&logo=computer-science)
+![Docker](https://img.shields.io/badge/-Docker-white?style=flat-circle&logo=docker)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
