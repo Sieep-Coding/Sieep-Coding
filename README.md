@@ -7,14 +7,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=snow-simulation&theme=dark)](https://github.com/Sieep-Coding/snow-simulation)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=todo-htmx-alpine-go&theme=dark)](https://github.com/Sieep-Coding/todo-htmx-alpine-go)
 
-
-## Stats
-![](https://komarev.com/ghpvc/?username=alteryx-motives&color=lightgrey&style=flat&base=6000&abbreviated=true) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=dark&hide=html,css,zig)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sieep-coding&theme=onestar&title=MultiLanguage,Stars,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## About Me
 
 - I love to develop websites, dashboards, desktop applications, developer tools, and more! 💻
@@ -22,6 +14,37 @@
 - Say hi or fork a repo to help me out. 😊
 
 - I write about technology on my <a href="https://medium.com/@nick-stambaugh">blog!</a>
+
+#### I Can:
+```
+   - Develop critical API endpoints for websites using technologies such as Laravel,
+    PHP, JavaScript (including Magento and GraphQL).
+
+   - Design and implement enterprise-level dashboards using Qlik Sense, SQL, and PowerBI.
+
+   - Lead and manage teams, overseeing analysts in SQL/PowerBI tasks.
+
+   - Automate ETL pipelines using Python and SQL, streamlining report generation processes.
+
+   - Present business intelligence findings to executives and team leaders..
+
+   - Engineer web applications using React.js, JavaScript, SQL,
+    and PHP within tight deadlines.
+
+   - Create reports on local economic trends using Tableau, Python, and Excel, earning recognition from news outlets.
+
+   - Develop insightful dashboards using Tableau and Salesforce for enterprise-level analysis.
+
+   - Conduct extensive research and data analysis, utilizing R, SAS, and regression analysis techniques.
+```
+
+
+## Stats
+![](https://komarev.com/ghpvc/?username=alteryx-motives&color=lightgrey&style=flat&base=6000&abbreviated=true) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=dark&hide=html,css,zig)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sieep-coding&theme=onestar&title=MultiLanguage,Stars,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Tech
 
