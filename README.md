@@ -21,8 +21,7 @@
 
 #### I Can:
 ```
-   - Develop critical API endpoints for websites using technologies such as Laravel,
-    PHP, JavaScript (including Magento and GraphQL).
+   - Develop critical API endpoints for websites using technologies such as Laravel, PHP, JavaScript (including Magento and GraphQL).
 
    - Design and implement enterprise-level dashboards using Qlik Sense, SQL, and PowerBI.
 
@@ -30,10 +29,9 @@
 
    - Automate ETL pipelines using Python and SQL, streamlining report generation processes.
 
-   - Present business intelligence findings to executives and team leaders..
+   - Present business intelligence findings to executives and team leaders.
 
-   - Engineer web applications using React.js, JavaScript, SQL,
-    and PHP within tight deadlines.
+   - Engineer web applications using React.js, JavaScript, SQL, and PHP within tight deadlines.
 
    - Create reports on local economic trends using Tableau, Python, and Excel, earning recognition from news outlets.
 
