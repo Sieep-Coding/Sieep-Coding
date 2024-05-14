@@ -44,7 +44,7 @@ I can:
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=gruvbox&hide=html,css,zig)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=gruvbox&hide=html,css,zig,powershell)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieep-coding&show_icons=true&theme=gruvbox&hide=contribs,prs)
 
