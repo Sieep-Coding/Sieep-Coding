@@ -18,6 +18,8 @@
 - I write about technology on my <a href="https://medium.com/@nick-stambaugh">blog!</a>
 
 - I have a degree in Economics and Philosophy.
+  
+- I am a self-taught software engineer.
 
 ```
 I can:
