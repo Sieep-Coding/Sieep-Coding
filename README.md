@@ -18,7 +18,7 @@
 
 - I have a degree in Economics and Philosophy.
   
-- I am a self-taught software engineer.
+- I am a self-taught developer.
 
 - You can view my [virtual resume.](https://sieep-coding.github.io/)
 
