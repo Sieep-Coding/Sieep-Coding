@@ -55,15 +55,14 @@ I can:
 ### 🔭 Programming Languages I Love
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
-  ![Python](https://img.shields.io/badge/-Python-blue?style=flat-circle&logo=Python)
+  ![Python](https://img.shields.io/badge/-Python-white?style=flat-circle&logo=Python)
   ![Rust](https://img.shields.io/badge/-Rust-red?style=flat-circle&logo=rust)
-  ![Go](https://img.shields.io/badge/-Go-blue?style=flat-circle&logo=go)
+  ![Go](https://img.shields.io/badge/-Go-white?style=flat-circle&logo=go)
   ![C/C++](https://img.shields.io/badge/-C/C++-darkblue?style=flat-circle&logo=c%2B%2B)
 
 ### 🕵🏻 Daily Operating System
 
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Red Hat](https://img.shields.io/badge/Redhat%20Enterprise-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-FCC624?style=flat&logo=Ubuntu&logoColor=black)
   
 ### 🕸️ Web Development
@@ -81,7 +80,7 @@ I can:
   
 ### 📊 Data Visualization
 
-![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-circle&logo=tableau) 
+![Tableau](https://img.shields.io/badge/-Tableau-white?style=flat-circle&logo=tableau) 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-circle&logo=power-bi) 
 ![Qlik Sense](https://img.shields.io/badge/-Qlik%20Sense-white?style=flat-circle&logo=qlik&logoColor=green)
   
@@ -92,7 +91,7 @@ I can:
 ### 💻 IDEs/Editors
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-circle&logo=visual-studio-code)
-![RStudio](https://img.shields.io/badge/-RStudio-blue?style=flat-circle&logo=RStudio)
+![RStudio](https://img.shields.io/badge/-RStudio-white?style=flat-circle&logo=RStudio)
   
 ### 🌱 Currently Studying
 
