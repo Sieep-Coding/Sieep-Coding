@@ -28,8 +28,6 @@ I can:
 
    - Engineer web applications using React.js, JavaScript, SQL, and PHP within tight deadlines.
 
-   - Develop critical API endpoints.
-
    - Design and implement enterprise-level dashboards in Qlik Sense, Tableau, and PowerBI.
 
    - Lead and manage teams, oversee analysts in SQL/PowerBI tasks.
