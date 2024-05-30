@@ -9,20 +9,6 @@
 
 </div>
 
-
-### About me:
-
-- I love to develop websites, dashboards, desktop applications, developer tools, and more! 
-
-- I write about technology on my <a href="https://medium.com/@nick-stambaugh">blog!</a>
-
-- I have a degree in Economics and Philosophy.
-  
-- I am a self-taught developer.
-
-- You can view my [virtual resume.](https://sieep-coding.github.io/)
-
-
 ```
 I can:
 
@@ -96,11 +82,13 @@ I can:
 ![Computer Science](https://img.shields.io/badge/-Computer%20Science-red?style=flat-circle&logo=computer-science)
 ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-circle&logo=docker)
 
+### More Info:
+
+- Read my <a href="https://medium.com/@nick-stambaugh">blog.</a>
+
+- View my [virtual resume.](https://sieep-coding.github.io/)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
 
-<!--
-# Check my 🍚!
-![](https://github.com/Alteryx-Motives/Alteryx-Motives/blob/main/output-rice-exp-1200.gif)
----!>
