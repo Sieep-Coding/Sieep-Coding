@@ -84,7 +84,7 @@ I can:
 
 ### More Info:
 
-- Read my <a href="https://medium.com/@nick-stambaugh">blog.</a>
+- Read my <a href="https://codewithnick.beehiiv.com">blog.</a>
 
 - View my [virtual resume.](https://sieep-coding.github.io/)
 
