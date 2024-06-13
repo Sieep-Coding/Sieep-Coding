@@ -9,30 +9,26 @@
 
 </div>
 
-```
-I can:
-
-   - Engineer web applications using React.js, JavaScript, SQL, and PHP within tight deadlines.
-
-   - Design and implement enterprise-level dashboards in Qlik Sense, Tableau, and PowerBI.
-
-   - Lead and manage teams, oversee analysts in SQL/PowerBI tasks.
-
-   - Automate ETL pipelines using Python and SQL, streamline report generation processes.
-
-   - Present business intelligence findings to executives and team leaders.
-
-   - Conduct extensive research and data analysis, utilizing R, SAS, and regression analysis techniques.
-```
-
-
 ## Stats
+<details>
+<summary> Data Cards 📈 </summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=gruvbox&hide=html,css,zig,powershell)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieep-coding&show_icons=true&theme=gruvbox&hide=contribs,prs&rank_icon=github)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sieep-coding&theme=gruvbox&title=MultiLanguage,Stars,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+</details>
+
+<details>
+  <summary>Latest Activity Graph 📈</summary>
+  <br>
+  <h2 align="center">Latest Contribution</h2>
+  <a href="https://github.com/Sieep-Coding">
+    <img alt="Sieep-Coding's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sieep-Coding&theme=github-compact&hide_border=true">
+  </a>
+  <br>
+</details>
    
 ## Tech
 
@@ -81,6 +77,22 @@ I can:
 
 ![Computer Science](https://img.shields.io/badge/-Computer%20Science-red?style=flat-circle&logo=computer-science)
 ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-circle&logo=docker)
+
+```
+I can:
+
+   - Engineer web applications using React.js, JavaScript, SQL, and PHP within tight deadlines.
+
+   - Design and implement enterprise-level dashboards in Qlik Sense, Tableau, and PowerBI.
+
+   - Lead and manage teams, oversee analysts in SQL/PowerBI tasks.
+
+   - Automate ETL pipelines using Python and SQL, streamline report generation processes.
+
+   - Present business intelligence findings to executives and team leaders.
+
+   - Conduct extensive research and data analysis, utilizing R, SAS, and regression analysis techniques.
+```
 
 ### More Info:
 
