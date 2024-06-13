@@ -32,54 +32,86 @@
    
 ## Tech
 
-### 🔭 Programming Languages I Love
+<details>
+  <summary>
+🔭 Programming Languages I Love
+    </summary> 
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-white?style=flat-circle&logo=Python)
   ![Rust](https://img.shields.io/badge/-Rust-red?style=flat-circle&logo=rust)
   ![Go](https://img.shields.io/badge/-Go-white?style=flat-circle&logo=go)
   ![C/C++](https://img.shields.io/badge/-C/C++-darkblue?style=flat-circle&logo=c%2B%2B)
-
-### 🕵🏻 Daily Operating System
-
+  </details> 
+  
+  <details>
+  <summary>
+🕵🏻 Daily Operating System
+    </summary> 
+    
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-FCC624?style=flat&logo=Ubuntu&logoColor=black)
-  
-### 🕸️ Web Development
+</details> 
+
+  <details>
+  <summary>
+🕸️ Web Development
+    </summary> 
 
 ![React](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=react) 
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-circle&logo=html5) 
 ![Bootstrap](https://img.shields.io/badge/-Tailwind-blue?style=flat-circle&logo=tailwindcss) 
 ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-circle&logo=php)
-  
-### 🛠️ Databases
+</details> 
 
+<details>
+  <summary>
+🛠️ Databases
+    </summary> 
+  
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-blue?style=flat-circle&logo=sql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-white?style=flat-circle&logo=Salesforce)
-  
-### 📊 Data Visualization
+</details>
 
+<details>
+  <summary>
+📊 Data Visualization
+    </summary> 
+  
 ![Tableau](https://img.shields.io/badge/-Tableau-white?style=flat-circle&logo=tableau) 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-circle&logo=power-bi) 
 ![Qlik Sense](https://img.shields.io/badge/-Qlik%20Sense-white?style=flat-circle&logo=qlik&logoColor=green)
-  
-### ⚙️ Version Control
-
+</details>
+  <details>
+  <summary>
+⚙️ Version Control
+    </summary> 
+    
 ![Git](https://img.shields.io/badge/-Git-white?style=flat-circle&logo=git)
-  
-### 💻 IDEs/Editors
+</details>
+  <details>
+  <summary>
+💻 IDEs/Editors
+    </summary> 
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-circle&logo=visual-studio-code)
 ![RStudio](https://img.shields.io/badge/-RStudio-white?style=flat-circle&logo=RStudio)
-  
-### 🌱 Currently Studying
+</details>
+<details>
+  <summary>
+🌱 Currently Studying
+    </summary> 
 
 ![Computer Science](https://img.shields.io/badge/-Computer%20Science-red?style=flat-circle&logo=computer-science)
 ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-circle&logo=docker)
+</details>
+
+<details>
+
+<summary>I can:</summary>
 
 ```
-I can:
 
    - Engineer web applications using React.js, JavaScript, SQL, and PHP within tight deadlines.
 
@@ -92,7 +124,10 @@ I can:
    - Present business intelligence findings to executives and team leaders.
 
    - Conduct extensive research and data analysis, utilizing R, SAS, and regression analysis techniques.
+
 ```
+
+</details>
 
 ### More Info:
 
