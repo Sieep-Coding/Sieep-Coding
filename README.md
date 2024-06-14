@@ -73,7 +73,7 @@
     </summary> 
    <br>
   
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-blue?style=flat-circle&logo=sql)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-blue?style=flat-circle&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-white?style=flat-circle&logo=Salesforce)
 </details>
