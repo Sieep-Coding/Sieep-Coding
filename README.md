@@ -134,6 +134,8 @@
 
    - Engineer web applications using React.js, JavaScript, SQL, and PHP within tight deadlines.
 
+   - Develop cross-platform applications in Flutter/Dart. 
+
    - Design and implement enterprise-level dashboards in Qlik Sense, Tableau, and PowerBI.
 
    - Lead and manage teams, oversee analysts in SQL/PowerBI tasks.
