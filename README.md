@@ -36,6 +36,7 @@
   <summary>
 🔭 Programming Languages I Love
     </summary> 
+  <br>
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-white?style=flat-circle&logo=Python)
@@ -48,7 +49,8 @@
   <summary>
 🕵🏻 Daily Operating System
     </summary> 
-    
+     <br>
+  
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-FCC624?style=flat&logo=Ubuntu&logoColor=black)
 </details> 
@@ -57,7 +59,8 @@
   <summary>
 🕸️ Web Development
     </summary> 
-
+ <br>
+  
 ![React](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=react) 
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-circle&logo=html5) 
 ![Bootstrap](https://img.shields.io/badge/-Tailwind-blue?style=flat-circle&logo=tailwindcss) 
@@ -68,6 +71,7 @@
   <summary>
 🛠️ Databases
     </summary> 
+   <br>
   
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-blue?style=flat-circle&logo=sql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
@@ -78,6 +82,7 @@
   <summary>
 📊 Data Visualization
     </summary> 
+   <br>
   
 ![Tableau](https://img.shields.io/badge/-Tableau-white?style=flat-circle&logo=tableau) 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-circle&logo=power-bi) 
@@ -87,14 +92,16 @@
   <summary>
 ⚙️ Version Control
     </summary> 
-    
+     <br>
+  
 ![Git](https://img.shields.io/badge/-Git-white?style=flat-circle&logo=git)
 </details>
   <details>
   <summary>
 💻 IDEs/Editors
     </summary> 
-
+ <br>
+  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-circle&logo=visual-studio-code)
 ![RStudio](https://img.shields.io/badge/-RStudio-white?style=flat-circle&logo=RStudio)
 </details>
@@ -102,7 +109,8 @@
   <summary>
 🌱 Currently Studying
     </summary> 
-
+ <br>
+  
 ![Computer Science](https://img.shields.io/badge/-Computer%20Science-red?style=flat-circle&logo=computer-science)
 ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-circle&logo=docker)
 </details>
