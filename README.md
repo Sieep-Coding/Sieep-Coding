@@ -69,6 +69,17 @@
 
 <details>
   <summary>
+📚 Full-Stack
+    </summary> 
+ <br>
+  
+![Flutter](https://img.shields.io/badge/-Flutter-white?style=flat-circle&logo=flutter&logoColor=blue)
+![Dart](https://img.shields.io/badge/-Dart-white?style=flat-circle&logo=dart&logoColor=blue)
+![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-circle&logo=TypeScript)
+</details> 
+
+<details>
+  <summary>
 🛠️ Databases
     </summary> 
    <br>
