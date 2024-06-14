@@ -38,11 +38,11 @@
     </summary> 
   <br>
   
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-circle&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-white?style=flat-circle&logo=Python)
-  ![Rust](https://img.shields.io/badge/-Rust-red?style=flat-circle&logo=rust)
+  ![Rust](https://img.shields.io/badge/-Rust-white?style=flat-circle&logo=rust&logoColor=black)
   ![Go](https://img.shields.io/badge/-Go-white?style=flat-circle&logo=go)
-  ![C/C++](https://img.shields.io/badge/-C/C++-darkblue?style=flat-circle&logo=c%2B%2B)
+  ![C/C++](https://img.shields.io/badge/-C/C++-white?style=flat-circle&logo=c%2B%2B&logoColor=black)
   </details> 
   
   <details>
@@ -61,10 +61,10 @@
     </summary> 
  <br>
   
-![React](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=react) 
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-circle&logo=html5) 
-![Bootstrap](https://img.shields.io/badge/-Tailwind-blue?style=flat-circle&logo=tailwindcss) 
-![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-circle&logo=php)
+![React](https://img.shields.io/badge/-React-white?style=flat-circle&logo=react) 
+![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat-circle&logo=html5) 
+![Bootstrap](https://img.shields.io/badge/-Tailwind-white?style=flat-circle&logo=tailwindcss) 
+![PHP](https://img.shields.io/badge/-PHP-white?style=flat-circle&logo=php)
 </details> 
 
 <details>
@@ -84,8 +84,8 @@
     </summary> 
    <br>
   
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-blue?style=flat-circle&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-white?style=flat-circle&logo=microsoft-sql-server&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-white?style=flat&logo=mongodb&logoColor=green)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-white?style=flat-circle&logo=Salesforce)
 </details>
 
@@ -96,7 +96,7 @@
    <br>
   
 ![Tableau](https://img.shields.io/badge/-Tableau-white?style=flat-circle&logo=tableau) 
-![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-circle&logo=power-bi) 
+![Power BI](https://img.shields.io/badge/-Power%20BI-white?style=flat-circle&logo=power-bi) 
 ![Qlik Sense](https://img.shields.io/badge/-Qlik%20Sense-white?style=flat-circle&logo=qlik&logoColor=green)
 </details>
   <details>
@@ -113,7 +113,7 @@
     </summary> 
  <br>
   
-![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-circle&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/-VS%20Code-white?style=flat-circle&logo=visual-studio-code&logoColor=blue)
 ![RStudio](https://img.shields.io/badge/-RStudio-white?style=flat-circle&logo=RStudio)
 </details>
 <details>
@@ -122,7 +122,7 @@
     </summary> 
  <br>
   
-![Computer Science](https://img.shields.io/badge/-Computer%20Science-red?style=flat-circle&logo=computer-science)
+![Computer Science](https://img.shields.io/badge/-Computer%20Science-white?style=flat-circle&logo=computer-science)
 ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-circle&logo=docker)
 </details>
 
