@@ -69,6 +69,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat-circle&logo=html5) 
 ![Bootstrap](https://img.shields.io/badge/-Tailwind-white?style=flat-circle&logo=tailwindcss) 
 ![PHP](https://img.shields.io/badge/-PHP-white?style=flat-circle&logo=php)
+![Vercel](https://img.shields.io/badge/-Vercel-white?style=flat-circle&logo=Vercel&logoColor=black)
+![Netlify](https://img.shields.io/badge/-Netlify-white?style=flat-circle&logo=Netlify)
 </details> 
 
 <details>
@@ -91,6 +93,7 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-white?style=flat-circle&logo=microsoft-sql-server&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=flat&logo=mongodb&logoColor=green)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-white?style=flat-circle&logo=Salesforce)
+![Zoho](https://img.shields.io/badge/-Zoho-white?style=flat-circle&logo=Zoho&logoColor=black)
 </details>
 
 <details>
