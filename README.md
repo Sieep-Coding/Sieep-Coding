@@ -21,7 +21,7 @@
 
 [![roadmap.sh](https://roadmap.sh/card/wide/667b1494c19525099e698db6?variant=dark&roadmaps=data-analyst%2Csql)](https://roadmap.sh)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/sieep-coding?theme=wtf)
+![Leetcode Stats](https://leetcard.jacoblin.cool/sieep-coding?theme=dark)
 </details>
 
 <details>
