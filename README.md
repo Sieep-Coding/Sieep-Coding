@@ -18,6 +18,8 @@
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieep-coding&show_icons=true&theme=gruvbox&hide=contribs,prs&rank_icon=github)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sieep-coding&theme=gruvbox&title=MultiLanguage,Stars,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![roadmap.sh](https://roadmap.sh/card/wide/667b1494c19525099e698db6?variant=dark&roadmaps=data-analyst%2Csql)](https://roadmap.sh)
 </details>
 
 <details>
