@@ -19,7 +19,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sieep-coding&theme=gruvbox&title=MultiLanguage,Stars,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![roadmap.sh](https://roadmap.sh/card/wide/667b1494c19525099e698db6?variant=dark&roadmaps=sql%2Cdata-analyst)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/667b1494c19525099e698db6?variant=dark)](https://roadmap.sh)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sieep-coding?theme=dark)
 </details>
