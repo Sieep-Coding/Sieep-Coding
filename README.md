@@ -36,19 +36,6 @@
    
 ## Tech
 
-<details>
-  <summary>
-🔭 Programming Languages I Love
-    </summary> 
-  <br>
-  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-circle&logo=javascript)
-  ![Python](https://img.shields.io/badge/-Python-white?style=flat-circle&logo=Python)
-  ![Rust](https://img.shields.io/badge/-Rust-white?style=flat-circle&logo=rust&logoColor=black)
-  ![Go](https://img.shields.io/badge/-Go-white?style=flat-circle&logo=go)
-  ![C/C++](https://img.shields.io/badge/-C/C++-white?style=flat-circle&logo=c%2B%2B&logoColor=black)
-  </details> 
-  
   <details>
   <summary>
 🕵🏻 Daily Operating System
