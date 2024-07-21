@@ -7,6 +7,10 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=todo-htmx-alpine-go&theme=gruvbox)](https://github.com/Sieep-Coding/todo-htmx-alpine-go)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=snow-simulation&theme=gruvbox)](https://github.com/Sieep-Coding/snow-simulation)
 
+# My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,c,python,typescript,go,sqlite&perline=3)](https://skillicons.dev)
+
 </div>
 
 ## Stats
