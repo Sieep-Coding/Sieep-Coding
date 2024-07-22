@@ -1,11 +1,11 @@
 <div align='center'>
 
-![](https://komarev.com/ghpvc/?username=alteryx-motives&color=lightgrey&style=flat&base=6000&abbreviated=true) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
+![](https://komarev.com/ghpvc/?username=alteryx-motives&color=orange&style=flat&base=6000&abbreviated=true) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
 
 # Top Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=todo-htmx-alpine-go&theme=gruvbox)](https://github.com/Sieep-Coding/todo-htmx-alpine-go)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=snow-simulation&theme=gruvbox)](https://github.com/Sieep-Coding/snow-simulation)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=todo-htmx-alpine-go&theme=ambient_gradient)](https://github.com/Sieep-Coding/todo-htmx-alpine-go)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=snow-simulation&theme=ambient_gradient)](https://github.com/Sieep-Coding/snow-simulation)
 
 </div>
 
@@ -31,11 +31,11 @@
 <details>
 <summary> Data Cards 📈 </summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=gruvbox&hide=html,css,zig,powershell,python)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=ambient_gradient&hide=html,css,zig,powershell,python)](https://github.com/anuraghazra/github-readme-stats)
 
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieep-coding&show_icons=true&theme=gruvbox&hide=contribs,prs&rank_icon=github)
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieep-coding&show_icons=true&theme=ambient_gradient&hide=contribs,prs&rank_icon=github)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sieep-coding&theme=gruvbox&title=MultiLanguage,Stars,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sieep-coding&theme=ambient_gradient&title=MultiLanguage,Stars,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![roadmap.sh](https://roadmap.sh/card/wide/667b1494c19525099e698db6?variant=dark)](https://roadmap.sh/u/nicks)
 
