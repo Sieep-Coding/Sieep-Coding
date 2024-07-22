@@ -7,15 +7,25 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=todo-htmx-alpine-go&theme=gruvbox)](https://github.com/Sieep-Coding/todo-htmx-alpine-go)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=snow-simulation&theme=gruvbox)](https://github.com/Sieep-Coding/snow-simulation)
 
-# My Skills
+</div>
+
+## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,c,python,typescript,go,sqlite&perline=3)](https://skillicons.dev)
+
 
 ### Connect With Me
 
 [![My Skills](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
 
-</div>
+### Currently...
+
+- A data analyst in Grand Rapids.
+
+- Studying Computer Science.
+
+- Looking for new opportunities in business intelligence and software development. 
+
 
 ## Stats
 <details>
