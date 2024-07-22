@@ -11,6 +11,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,c,python,typescript,go,sqlite&perline=3)](https://skillicons.dev)
 
+### Connect With Me
+
+[![My Skills](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
+
 </div>
 
 ## Stats
