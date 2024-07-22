@@ -151,6 +151,7 @@
  <br>
   
 ![VS Code](https://img.shields.io/badge/-VS%20Code-white?style=flat-circle&logo=visual-studio-code&logoColor=blue)
+![VS Code](https://img.shields.io/badge/-Neovim-white?style=flat-circle&logo=neovim&logoColor=green)
 ![RStudio](https://img.shields.io/badge/-RStudio-white?style=flat-circle&logo=RStudio)
 </details>
 <details>
