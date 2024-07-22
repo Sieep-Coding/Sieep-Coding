@@ -11,7 +11,32 @@
 
 ## My Skills
 
+<details>
+
+<summary>I can:</summary>
+
+```
+
+   - Engineer web applications using React.js, JavaScript, SQL, and PHP within tight deadlines.
+
+   - Develop cross-platform applications in Flutter/Dart. 
+
+   - Design and implement enterprise-level dashboards in Qlik Sense, Tableau, and PowerBI.
+
+   - Lead and manage teams, oversee analysts in SQL/PowerBI tasks.
+
+   - Automate ETL pipelines using Python and SQL, streamline report generation processes.
+
+   - Present business intelligence findings to executives and team leaders.
+
+   - Conduct extensive research and data analysis, utilizing R, SAS, and regression analysis techniques.
+
+```
+
+</details>
+
 [![My Skills](https://skillicons.dev/icons?i=flutter,c,python,typescript,go,sqlite&perline=3)](https://skillicons.dev)
+
 
 
 ### Connect With Me
@@ -136,30 +161,6 @@
   
 ![Computer Science](https://img.shields.io/badge/-Computer%20Science-white?style=flat-circle&logo=computer-science)
 ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-circle&logo=docker)
-</details>
-
-<details>
-
-<summary>I can:</summary>
-
-```
-
-   - Engineer web applications using React.js, JavaScript, SQL, and PHP within tight deadlines.
-
-   - Develop cross-platform applications in Flutter/Dart. 
-
-   - Design and implement enterprise-level dashboards in Qlik Sense, Tableau, and PowerBI.
-
-   - Lead and manage teams, oversee analysts in SQL/PowerBI tasks.
-
-   - Automate ETL pipelines using Python and SQL, streamline report generation processes.
-
-   - Present business intelligence findings to executives and team leaders.
-
-   - Conduct extensive research and data analysis, utilizing R, SAS, and regression analysis techniques.
-
-```
-
 </details>
 
 ### More Info:
