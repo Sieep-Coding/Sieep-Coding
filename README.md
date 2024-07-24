@@ -6,7 +6,7 @@ Over the past four years, I have successfully provided valuable intelligence and
 
 My focus has recently shifted towards systems programming and full-stack development, where I continue to leverage my skills to create solutions.
 
-<div align='center'>
+
 
 # Top Projects
 
@@ -21,7 +21,6 @@ My focus has recently shifted towards systems programming and full-stack develop
 [![Steam](https://img.shields.io/badge/Steam-white?style=for-the-badge&logo=steam&logoColor=black)](steamcommunity.com/id/fieaoe98034512u5901)
 
 
-</div>
 
 # Skills
 
