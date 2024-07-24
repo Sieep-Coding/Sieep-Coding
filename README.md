@@ -1,21 +1,30 @@
 <div align='center'>
 
-![](https://komarev.com/ghpvc/?username=alteryx-motives&color=orange&style=flat&base=6000&abbreviated=true) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
-
 # Top Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=todo-htmx-alpine-go&theme=ambient_gradient)](https://github.com/Sieep-Coding/todo-htmx-alpine-go)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=snow-simulation&theme=ambient_gradient)](https://github.com/Sieep-Coding/snow-simulation)
 
+#### Connect With Me
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
+[![Linkedin](https://img.shields.io/badge/beehiiv-0077B5?style=for-the-badge&logo=beehiiv&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
+
 </div>
 
-## My Skills
+# My Skills
+
+### Tech
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,c,python,typescript,go,sqlite&perline=3)](https://skillicons.dev)
+
 
 <details>
 
-<summary>I can:</summary>
+<summary>Click Me</summary>
 
 ```
+   I can...
 
    - Engineer web applications using React.js, JavaScript, SQL, and PHP within tight deadlines.
 
@@ -35,24 +44,24 @@
 
 </details>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,c,python,typescript,go,sqlite&perline=3)](https://skillicons.dev)
+<details>
 
+<summary>Currently...</summary>
 
-
-### Connect With Me
-
-[![My Skills](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
-
-### Currently...
-
+```
 - A data analyst in Grand Rapids.
 
 - Studying Computer Science.
 
 - Looking for new opportunities in business intelligence and software development. 
+```
 
+</details>
 
 ## Stats
+
+![](https://komarev.com/ghpvc/?username=alteryx-motives&color=orange&style=flat&base=6000&abbreviated=true) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
+
 <details>
 <summary> Data Cards 📈 </summary>
 
