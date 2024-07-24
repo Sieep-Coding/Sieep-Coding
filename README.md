@@ -9,12 +9,13 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
 [![Medium](https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@nick-stambaugh)
+[![Resume](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sieep-coding.github.io/)
 
 </div>
 
 # My Skills
 
-### Tech
+### Programming
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,c,python,typescript,go,sqlite&perline=3)](https://skillicons.dev)
 
@@ -173,9 +174,25 @@
 ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-circle&logo=docker)
 </details>
 
+### My builds
+#### Desktop
+ 
+![](https://img.shields.io/badge/NVIDIA-RTX2070S-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
+
+![](https://img.shields.io/badge/AMD-Ryzen_5_3600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white) 
+
+![](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)
+
+#### Laptop
+![](https://img.shields.io/badge/NVIDIA-RTX3050Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
+
+![](https://img.shields.io/badge/Intel-Core_i7_11800H-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
+
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 ### More Info:
 
-- Read my <a href="https://codewithnick.beehiiv.com">blog.</a>
+- Join my <a href="https://codewithnick.beehiiv.com">newsletter.</a>
 
 - View my [virtual resume.](https://sieep-coding.github.io/)
 
