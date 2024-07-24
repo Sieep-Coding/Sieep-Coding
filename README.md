@@ -121,21 +121,17 @@
 #### Desktop
  
 ![](https://img.shields.io/badge/NVIDIA-RTX2070S-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
-
 ![](https://img.shields.io/badge/AMD-Ryzen_5_3600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white) 
-
 ![](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)
 
 #### Laptop
 ![](https://img.shields.io/badge/NVIDIA-RTX3050Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
-
 ![](https://img.shields.io/badge/Intel-Core_i7_11800H-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
-
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### More Info:
 
-- Join my <a href="https://codewithnick.beehiiv.com">newsletter.</a>
+- Join & read my weekly <a href="https://codewithnick.beehiiv.com">newsletter</a> on technology.
 
 - View my [virtual resume.](https://sieep-coding.github.io/)
 
