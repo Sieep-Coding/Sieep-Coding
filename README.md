@@ -8,7 +8,7 @@
 #### Connect With Me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
-[![Linkedin](https://img.shields.io/badge/beehiiv-0077B5?style=for-the-badge&logo=beehiiv&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
+[![Medium](https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@nick-stambaugh)
 
 </div>
 
