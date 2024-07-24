@@ -6,7 +6,7 @@ Over the past four years, I have successfully provided valuable intelligence and
 
 My focus has recently shifted towards systems programming and full-stack development, where I continue to leverage my skills to create solutions.
 
-
+[![Resume](https://img.shields.io/badge/website/resume-blue?style=for-the-badge&logo=About.me&logoColor=white)](https://sieep-coding.github.io/)
 
 # Top Projects
 
@@ -16,7 +16,6 @@ My focus has recently shifted towards systems programming and full-stack develop
 #### Connect With Me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
-[![Resume](https://img.shields.io/badge/website/resume-blue?style=for-the-badge&logo=About.me&logoColor=white)](https://sieep-coding.github.io/)
 [![Medium](https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@nick-stambaugh)
 [![Steam](https://img.shields.io/badge/Steam-white?style=for-the-badge&logo=steam&logoColor=black)](steamcommunity.com/id/fieaoe98034512u5901)
 
