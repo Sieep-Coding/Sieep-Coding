@@ -115,7 +115,7 @@ My focus has recently shifted towards systems programming and full-stack develop
   <br>
   <h2 align="center">Latest Contribution</h2>
   <a href="https://github.com/Sieep-Coding">
-    <img alt="Sieep-Coding's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sieep-Coding&theme=rogue&hide_border=true">
+    <img alt="Sieep-Coding's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sieep-Coding&theme=rogue&hide_border=true&area=true&area_color=c924b6">
   </a>
   <br>
 </details>
