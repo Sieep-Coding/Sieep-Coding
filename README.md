@@ -52,6 +52,7 @@ My focus has recently shifted towards systems programming and full-stack develop
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/Ableton-FCC624?.svg?&style=for-the-badge&logo=Ableton&logoColor=white)
 
 <details>
 
