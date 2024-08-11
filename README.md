@@ -99,7 +99,7 @@ My focus has recently shifted towards systems programming and full-stack develop
 <details>
 <summary> Data Cards 📈 </summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=gruvbox&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=gruvbox&langs_count=22)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieep-coding&show_icons=true&theme=gruvbox&hide=contribs,prs&rank_icon=github)
 
