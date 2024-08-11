@@ -1,8 +1,8 @@
 ## Hello! My name is Nick Stambaugh. 
 
-I am a seasoned data analyst and software developer based in Grand Rapids, Michigan, with proficiency in business intelligence, data analytics, and market research. 
+I am a data analyst and software developer based in Grand Rapids, Michigan, with proficiency in business intelligence, data analytics, and market research. 
 
-Over the past four years, I have provided valuable intelligence and analytics across diverse sectors including economic development, healthcare, and manufacturing. 
+Over the past four years, I have provided intelligence and analytics across diverse sectors including economic development, healthcare, and manufacturing. 
 
 My focus has recently shifted towards systems programming and full-stack development, where I continue to leverage my skills to create solutions.
 
