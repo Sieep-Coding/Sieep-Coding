@@ -2,7 +2,7 @@
 
 I am a seasoned data analyst and software developer based in Grand Rapids, Michigan, with proficiency in business intelligence, data analytics, and market research. 
 
-Over the past four years, I have successfully provided valuable intelligence and analytics across diverse sectors including economic development, healthcare, and manufacturing. 
+Over the past four years, I have provided valuable intelligence and analytics across diverse sectors including economic development, healthcare, and manufacturing. 
 
 My focus has recently shifted towards systems programming and full-stack development, where I continue to leverage my skills to create solutions.
 
@@ -10,8 +10,8 @@ My focus has recently shifted towards systems programming and full-stack develop
 
 # Top Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=todo-htmx-alpine-go&theme=ambient_gradient)](https://github.com/Sieep-Coding/todo-htmx-alpine-go)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=snow-simulation&theme=ambient_gradient)](https://github.com/Sieep-Coding/snow-simulation)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=todo-htmx-alpine-go&theme=gruvbox)](https://github.com/Sieep-Coding/todo-htmx-alpine-go)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=snow-simulation&theme=gruvbox)](https://github.com/Sieep-Coding/snow-simulation)
 
 #### Connect With Me
 
@@ -66,9 +66,9 @@ My focus has recently shifted towards systems programming and full-stack develop
 
    - Design and implement enterprise-level dashboards in Qlik Sense, Tableau, and PowerBI.
 
-   - Lead and manage teams, oversee analysts in SQL/PowerBI tasks.
+   - Lead and manage teams, and oversee analysts in SQL/PowerBI tasks.
 
-   - Automate ETL pipelines using Python and SQL, streamline report generation processes.
+   - Automate ETL pipelines using Python and SQL, and streamline report generation processes.
 
    - Present business intelligence findings to executives and team leaders.
 
@@ -99,11 +99,11 @@ My focus has recently shifted towards systems programming and full-stack develop
 <details>
 <summary> Data Cards 📈 </summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=ambient_gradient&hide=html,css,zig,powershell,python)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=gruvbox&hide=html,css,zig,powershell,python&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieep-coding&show_icons=true&theme=ambient_gradient&hide=contribs,prs&rank_icon=github)
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieep-coding&show_icons=true&theme=gruvbox&hide=contribs,prs&rank_icon=github)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sieep-coding&theme=ambient_gradient&title=MultiLanguage,Stars,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sieep-coding&theme=gruvbox&title=MultiLanguage,Stars,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![roadmap.sh](https://roadmap.sh/card/wide/667b1494c19525099e698db6?variant=dark)](https://roadmap.sh/u/nicks)
 
