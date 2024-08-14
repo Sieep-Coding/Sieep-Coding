@@ -6,17 +6,14 @@ Over the past four years, I have provided intelligence and analytics across dive
 
 My focus has recently shifted towards systems programming and full-stack development, where I continue to leverage my skills to create solutions.
 
-[![Resume](https://img.shields.io/badge/website/resume-blue?style=for-the-badge&logo=About.me&logoColor=white)](https://sieep-coding.github.io/)
+[![Resume](https://img.shields.io/badge/website/resume-blue?style=for-the-badge&logo=About.me&logoColor=white)](https://sieep-coding.github.io/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
+[![Medium](https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@nick-stambaugh)
 
 # Top Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=todo-htmx-alpine-go&theme=gruvbox)](https://github.com/Sieep-Coding/todo-htmx-alpine-go)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=snow-simulation&theme=gruvbox)](https://github.com/Sieep-Coding/snow-simulation)
-
-#### Connect With Me
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
-[![Medium](https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@nick-stambaugh)
 
 
 
@@ -100,9 +97,11 @@ My focus has recently shifted towards systems programming and full-stack develop
 <details>
 <summary> Data Cards 📈 </summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=gruvbox&langs_count=22)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sieep-coding&theme=gruvbox)](https://git.io/streak-stats)
 
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieep-coding&show_icons=true&theme=gruvbox&hide=contribs,prs&rank_icon=github)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=gruvbox&langs_count=22)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sieep-coding&theme=gruvbox&title=MultiLanguage,Stars,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -112,7 +111,7 @@ My focus has recently shifted towards systems programming and full-stack develop
 </details>
 
 <details>
-  <summary>Latest Activity Graph 📈</summary>
+  <summary>Latest Activity Graph 📈 </summary>
   <br>
   <h2 align="center">Latest Contribution</h2>
   <a href="https://github.com/Sieep-Coding">
