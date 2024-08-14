@@ -103,7 +103,7 @@ My focus has recently shifted towards systems programming and full-stack develop
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=gruvbox&langs_count=22)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sieep-coding&theme=gruvbox&title=MultiLanguage,Stars,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sieep-coding&theme=gruvbox&title=MultiLanguage,Stars,Commits,Repositories,PullRequest,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![roadmap.sh](https://roadmap.sh/card/wide/667b1494c19525099e698db6?variant=dark)](https://roadmap.sh/u/nicks)
 
