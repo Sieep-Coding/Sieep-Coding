@@ -11,8 +11,8 @@ My focus has recently shifted towards systems programming and full-stack develop
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
 [![Medium](https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@nick-stambaugh)
 
-### Contact Me
-[![Resume](https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:nickstambaugh@proton.me)
+### Want to Hire Me?
+[![Email](https://img.shields.io/badge/Send_Me_An_Email-purple?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:nickstambaugh@proton.me)
 
 # Top Projects
 
