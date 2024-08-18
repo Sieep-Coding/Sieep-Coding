@@ -6,7 +6,8 @@ Over the past four years, I have provided intelligence and analytics across dive
 
 My focus has recently shifted towards systems programming and full-stack development, where I continue to leverage my skills to create solutions.
 
-[![Resume](https://img.shields.io/badge/website/resume-blue?style=for-the-badge&logo=About.me&logoColor=white)](https://sieep-coding.github.io/) 
+[![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=About.me&logoColor=white)](https://sieep-coding.github.io/)
+[![Resume](https://img.shields.io/badge/Resume-purple?style=for-the-badge&logo=ProtonDrive&logoColor=white)](https://drive.proton.me/urls/MXSEQER61W#vo0LEDjfYexU)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
 [![Medium](https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@nick-stambaugh)
 
