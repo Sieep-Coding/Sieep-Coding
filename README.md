@@ -126,8 +126,7 @@ My focus has recently shifted towards systems programming and full-stack develop
 ### More Info:
 
 - Join & read my weekly <a href="https://codewithnick.beehiiv.com">newsletter</a> on technology.
-
-- View my [virtual resume.](https://sieep-coding.github.io/)
+- Visit my <a href="https://sieep-coding.github.io">website.</a> 
 
 #### Always...
 ![Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
