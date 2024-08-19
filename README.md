@@ -1,10 +1,18 @@
-## Hello! My name is Nick Stambaugh. 
+## 👋 Hi! I'm Nick Stambaugh
 
-I am a data analyst and software developer based in Grand Rapids, Michigan, with proficiency in business intelligence, data analytics, and market research. 
+I am an experienced full-stack & business intelligence developer. 
 
-Over the past four years, I have provided intelligence and analytics across diverse sectors including economic development, healthcare, and manufacturing. 
+I have over 4 years of experience as an analyst/developer coupled with a BS in Economics & Philosophy from Grand Valley State University.
 
-My focus has recently shifted towards systems programming and full-stack development, where I continue to leverage my skills to create solutions.
+I've built solutions for organizations spanning industries such as manufacturing, healthcare, and economic development. 
+
+My long term objective is to strategically lead the user experience of business-critical applications, working with likeminded free-thinkers who do what they love. 
+
+My interests include systems programming and full-stack development using TypeScript, Neovim, Go, SQLite, MySQL, Python & more.
+
+Outside of programming, I love to go for long runs & be outside with my dog, occasionally writing, finding new literature, playing video games, and spending time with friends/family.
+
+☕ Always down for a chat
 
 [![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=About.me&logoColor=white)](https://sieep-coding.github.io/)
 [![Resume](https://img.shields.io/badge/Resume-purple?style=for-the-badge&logo=ProtonDrive&logoColor=white)](https://drive.proton.me/urls/MXSEQER61W#vo0LEDjfYexU)
