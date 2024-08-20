@@ -136,7 +136,7 @@ Outside of programming, I love to go for long runs & be outside with my dog, occ
 ### More Info:
 
 - Join & read my weekly <a href="https://codewithnick.beehiiv.com">newsletter</a> on technology.
-- Visit my <a href="https://sieep-coding.github.io">website.</a> 
+- Visit my <a href="https://sieep-coding.github.io">website.</a>
 
 #### Always...
 ![Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
