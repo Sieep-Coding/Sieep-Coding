@@ -1,14 +1,10 @@
 # 👋 Hi! I'm Nick Stambaugh
 
-I am an experienced full-stack & business intelligence developer. 
+I have over 4 YoE as an analyst/developer with a BS in Economics & Philosophy from Grand Valley State University.
 
-I have over 4 years of experience as an analyst/developer coupled with a BS in Economics & Philosophy from Grand Valley State University.
+I've built solutions spanning industries such as manufacturing, healthcare, and economic development. 
 
-I've built solutions for organizations spanning industries such as manufacturing, healthcare, and economic development. 
-
-My long term objective is to strategically lead the user experience of business-critical applications, working with likeminded free-thinkers who do what they love. 
-
-My interests include systems programming and full-stack development using TypeScript, Neovim, Go, SQLite, MySQL, Python & more.
+My long term objective is to strategically lead the user experience of business-critical applications.
 
 Outside of programming, I love to go for long runs & be outside with my dog, occasionally writing, finding new literature, playing video games, and spending time with friends/family.
 
