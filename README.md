@@ -134,12 +134,10 @@ Outside of programming, I love to go for long runs & be outside with my dog, occ
 - Join & read my weekly <a href="https://codewithnick.beehiiv.com">newsletter</a> on technology.
 - Visit my <a href="https://sieep-coding.github.io">website.</a>
 
-#### Always...
 ![Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
+![](https://github.com/Sieep-Coding/Sieep-Coding/blob/main/gopher-dance.gif)   ![](https://github.com/Sieep-Coding/Sieep-Coding/blob/main/morning-beer.gif)
 
 <p align="center">
-   
-   ![](https://github.com/Sieep-Coding/Sieep-Coding/blob/main/gopher-dance.gif)
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
