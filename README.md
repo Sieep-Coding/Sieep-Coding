@@ -137,6 +137,9 @@ Outside of programming, I love to go for long runs & be outside with my dog, occ
 #### Always...
 ![Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
+
 <p align="center">
+   
+   ![](https://github.com/Sieep-Coding/Sieep-Coding/blob/main/gopher-dance.gif)
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
