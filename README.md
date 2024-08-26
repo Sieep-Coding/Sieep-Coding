@@ -136,7 +136,7 @@ Outside of programming, I love to go for long runs & be outside with my dog, occ
 
 ![Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
-![](https://github.com/Sieep-Coding/Sieep-Coding/blob/main/gopher-dance.gif)   ![](https://github.com/Sieep-Coding/Sieep-Coding/blob/main/morning-beer2.gif)  ![](https://github.com/Sieep-Coding/Sieep-Coding/blob/main/ninja.gif)
+![](https://github.com/Sieep-Coding/Sieep-Coding/blob/main/gopher-dance.gif)   ![](https://github.com/Sieep-Coding/Sieep-Coding/blob/main/morning-beer2.gif)  ![](https://github.com/Sieep-Coding/Sieep-Coding/blob/main/ninja.gif)  ![](https://github.com/Sieep-Coding/Sieep-Coding/blob/main/gopher-dance.gif) 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
