@@ -32,7 +32,7 @@ Outside of programming, I love to go for long runs & be outside with my dog, occ
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-### Tech I've Worked With Professionally
+## Tech I've Worked With Professionally
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Cmake](https://img.shields.io/badge/cmake-6D00CC?.svg?&style=for-the-badge&logo=cmake&logoColor=white)
@@ -65,10 +65,10 @@ Outside of programming, I love to go for long runs & be outside with my dog, occ
 ![Ableton](https://img.shields.io/badge/Ableton-FCC624?.svg?&style=for-the-badge&logo=Ableton&logoColor=white)
 ![Zoho](https://img.shields.io/badge/Zoho-E42527?style=for-the-badge&logo=Zoho&logoColor=white)
 
+### More about me
+
 <details>
 
-
-#### More about me
 
 <summary>Click Me</summary>
 
