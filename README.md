@@ -6,9 +6,33 @@ I've built solutions spanning industries such as manufacturing, healthcare, and 
 
 My long term objective is to strategically lead the user experience of business-critical applications.
 
-Outside of programming, I love to go for long runs & be outside with my dog, occasionally writing, finding new literature, playing video games, and spending time with friends/family.
+<details>
+   
+<summary>☕ Always down for an encrypted chat ⬇️</summary>
 
-☕ Always down for a chat
+   ```
+📧 nickstambaugh@proton.me
+
+The key below is used to verify my identy over email.
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+xjMEZsCWCxYJKwYBBAHaRw8BAQdA+04wVDSUEcmRGxqjxSH/xPICaSGiDnpq
+754l8ueKRE/NMW5pY2tzdGFtYmF1Z2hAcHJvdG9uLm1lIDxuaWNrc3RhbWJh
+dWdoQHByb3Rvbi5tZT7CjwQTFggAQQUCZsCWCwkQfrm/tyh+WkAWIQR9zENr
+Y/Smx6dxstF+ub+3KH5aQAIbAwIeAQIZAQMLCQcCFQgDFgACBScJAgcCAADA
+TgD9Hgl5oNI3Tw1uUEJSHXKY51z84tkQ/Y1it/6YY4p4lw0A/jRwJv0c1ZJS
+ODufpBiB8ywE8YnFVfXOKHuEdoQDQLQFzjgEZsCWCxIKKwYBBAGXVQEFAQEH
+QGrQYOb+/kt4nOHVDjbH6TOJyXccHhQNsOhGjnqRgaIkAwEKCcJ4BBgWCAAq
+BQJmwJYLCRB+ub+3KH5aQBYhBH3MQ2tj9KbHp3Gy0X65v7coflpAAhsMAAAM
+xwD+LRNaGutsoVoKVf+rLmBgAA3DSwsvAY8aJwDVV6gJjWQA/jgFrZz+qFEH
+qhfXtaR2I05GW/po8vxdkJOmQg485ksE
+=uykQ
+
+-----END PGP PUBLIC KEY BLOCK-----
+   ```
+
+</details>
 
 ## Links
 
