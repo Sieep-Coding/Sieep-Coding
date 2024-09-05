@@ -94,9 +94,7 @@ Outside of programming, I love to go for long runs & be outside with my dog, occ
 
 ```
 - A data analyst in Grand Rapids.
-
-- Studying Computer Science.
-
+- Studying for my Master's in Computer Science.
 - Looking for new opportunities in business intelligence and software development. 
 ```
 
