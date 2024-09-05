@@ -2,13 +2,13 @@
 
 I've spent 4+ years as an analyst/developer with a BS in Economics & Philosophy from Grand Valley State University.
 
-I've built solutions spanning industries such as manufacturing, healthcare, and economic development. 
+I've built solutions for manufacturing, healthcare, and economic development. 
 
-My long term objective is to strategically lead the user experience of business-critical applications.
+My long-term objective is to strategically lead the user experience of business-critical applications.
 
 <details>
    
-<summary>☕ Always down for an encrypted chat</summary>
+<summary>☕ Always down for ti chat</summary>
 
    ```
 📧 nickstambaugh@proton.me
