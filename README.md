@@ -75,19 +75,14 @@ Outside of programming, I love to go for long runs & be outside with my dog, occ
 ```
    I can...
 
-   - Engineer web applications using React.js, JavaScript, SQL, and PHP within tight deadlines.
-
-   - Develop cross-platform applications in Flutter/Dart. 
-
+   - Engineer web applications using React.js, TypeScript, Go, SQL, and PHP, consistently meeting tight deadlines.
+   - Develop cross-platform applications with Flutter/Dart/C for diverse platforms.
+   - Conduct in-depth research and data analysis, employing R, SAS, and advanced regression techniques
+     to drive strategic initiatives.
    - Design and implement enterprise-level dashboards in Qlik Sense, Tableau, and PowerBI.
-
-   - Lead and manage teams, and oversee analysts in SQL/PowerBI tasks.
-
-   - Automate ETL pipelines using Python and SQL, and streamline report generation processes.
-
-   - Present business intelligence findings to executives and team leaders.
-
-   - Conduct extensive research and data analysis, utilizing R, SAS, and regression analysis techniques.
+   - Lead and manage teams of analysts, overseeing SQL and PowerBI projects and ensuring effective delivery.
+   - Automate ETL pipelines using Python and SQL, enhancing the efficiency of report generation.
+   - Present business intelligence insights to executives and team leaders, promoting data-driven decision-making.
 
 ```
 
