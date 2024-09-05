@@ -13,7 +13,7 @@ My long term objective is to strategically lead the user experience of business-
    ```
 📧 nickstambaugh@proton.me
 
-The key below is used to verify my identy over email.
+The key below is used to verify my identity over email.
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
