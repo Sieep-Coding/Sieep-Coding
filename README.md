@@ -8,7 +8,7 @@ My long term objective is to strategically lead the user experience of business-
 
 <details>
    
-<summary>☕ Always down for an encrypted chat ⬇️</summary>
+<summary>☕ Always down for an encrypted chat</summary>
 
    ```
 📧 nickstambaugh@proton.me
