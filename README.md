@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Nick Stambaugh
 
-I have over 4 YoE as an analyst/developer with a BS in Economics & Philosophy from Grand Valley State University.
+I've spent 4+ years as an analyst/developer with a BS in Economics & Philosophy from Grand Valley State University.
 
 I've built solutions spanning industries such as manufacturing, healthcare, and economic development. 
 
