@@ -53,6 +53,7 @@ Fingerprint: 7dcc436b63f4a6c7a771b2d17eb9bfb7287e5a40
 
 # My Focus
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Linux_Mint-86BE43?style=for-the-badge&logo=Linux-Mint&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
