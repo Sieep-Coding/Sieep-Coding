@@ -34,7 +34,7 @@ My long-term objective is to strategically lead the user experience of business-
 
 <details>
    
-<summary><b>Tech I Enjoy A lot</b></summary>
+<summary><b>Tech I Enjoy A Lot</b></summary>
 <br>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
