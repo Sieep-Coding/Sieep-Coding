@@ -75,7 +75,7 @@ My long-term objective is to strategically lead the user experience of business-
 <details>
 
 
-<summary>Click Me</summary>
+<summary><b>Click Me</b></summary>
 
 ```
    I can...
@@ -94,7 +94,7 @@ My long-term objective is to strategically lead the user experience of business-
 
 <details>
 
-<summary>Currently...</summary>
+<summary><b>Currently...</b></summary>
 
 ```
 - A data analyst in Grand Rapids.
@@ -103,8 +103,6 @@ My long-term objective is to strategically lead the user experience of business-
 ```
 
 </details>
-
-## More Info:
 
 <details>
 <summary><b> Data Cards 📈 </b></summary>
