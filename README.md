@@ -22,12 +22,21 @@ My long-term objective is to strategically lead the user experience of business-
 [![Email](https://img.shields.io/badge/Send_Me_An_Email-purple?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:nickstambaugh@proton.me)
 </div>
 
-# Top Projects
+<details>
+
+<summary><b>Top Projects</b></summary>
+<br>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=todo-htmx-alpine-go&theme=gruvbox)](https://github.com/Sieep-Coding/todo-htmx-alpine-go)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=snow-simulation&theme=gruvbox)](https://github.com/Sieep-Coding/snow-simulation)
 
-# My Focus
+</details>
+
+<details>
+   
+<summary><b>Tech I Enjoy A lot</b></summary>
+<br>
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/Linux_Mint-86BE43?style=for-the-badge&logo=Linux-Mint&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -36,7 +45,14 @@ My long-term objective is to strategically lead the user experience of business-
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white)
-## Tech I've Worked With
+
+</details>
+
+<details>
+   
+<summary><b> Tech I've Worked With In The Past</b></summary>
+<br>
+
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Cmake](https://img.shields.io/badge/cmake-6D00CC?.svg?&style=for-the-badge&logo=cmake&logoColor=white)
@@ -69,6 +85,8 @@ My long-term objective is to strategically lead the user experience of business-
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Ableton](https://img.shields.io/badge/Ableton-FCC624?.svg?&style=for-the-badge&logo=Ableton&logoColor=white)
 ![Zoho](https://img.shields.io/badge/Zoho-E42527?style=for-the-badge&logo=Zoho&logoColor=white)
+
+</details>
 
 ### More about me
 
