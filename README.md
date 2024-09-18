@@ -14,6 +14,7 @@ My long-term objective is to strategically lead the user experience of business-
 
 [![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=About.me&logoColor=white)](https://nickstambaugh.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-purple?style=for-the-badge&logo=ProtonDrive&logoColor=white)](https://github.com/Sieep-Coding/sieep-coding.github.io/blob/main/public/resume.pdf)
+[![Steam](https://img.shields.io/badge/steam-white?style=for-the-badge&logo=steam&logoColor=black)](https://steamcommunity.com/id/fieaoe98034512u5901)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
 [![Medium](https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@nick-stambaugh)
 
@@ -45,6 +46,7 @@ My long-term objective is to strategically lead the user experience of business-
 ![Stripe](https://img.shields.io/badge/stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Obs](https://img.shields.io/badge/Obs_Studio-302E31?style=for-the-badge&logo=Obs-Studio&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
