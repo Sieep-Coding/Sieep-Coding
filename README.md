@@ -80,14 +80,13 @@ My long-term objective is to strategically lead the user experience of business-
 ```
    I can...
 
-   - Engineer web applications using React.js, TypeScript, Go, SQL, and PHP, consistently meeting tight deadlines.
-   - Develop cross-platform applications with Flutter/Dart/C for diverse platforms.
-   - Conduct in-depth research and data analysis, employing R, SAS, and advanced regression techniques
-     to drive strategic initiatives.
-   - Design and implement enterprise-level dashboards in Qlik Sense, Tableau, and PowerBI.
-   - Lead and manage teams of analysts, overseeing SQL and PowerBI projects and ensuring effective delivery.
-   - Automate ETL pipelines using Python and SQL, enhancing the efficiency of report generation.
-   - Present business intelligence insights to executives and team leaders, promoting data-driven decision-making.
+   - Develop web applications using React.js, TypeScript, Go, SQL, and PHP, meeting tight deadlines.
+   - Build cross-platform apps with Flutter/Dart/C.
+   - Perform data analysis with Python, R, SAS, and advanced regression techniques for strategic initiatives.
+   - Create enterprise dashboards in Qlik Sense, Tableau, and PowerBI.
+   - Lead analyst teams on SQL and PowerBI projects, ensuring effective delivery.
+   - Automate ETL pipelines with Python and SQL to improve report generation efficiency.
+   - Present business intelligence insights to executives, fostering data-driven decisions.
 
 ```
 
@@ -100,7 +99,7 @@ My long-term objective is to strategically lead the user experience of business-
 ```
 - A data analyst in Grand Rapids.
 - Studying for my Master's in Computer Science.
-- Looking for new opportunities in business intelligence and software development. 
+- Looking for new opportunities in software development. 
 ```
 
 </details>
