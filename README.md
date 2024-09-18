@@ -1,50 +1,25 @@
-# 👋 Hi! I'm Nick Stambaugh
+<div align="center">
 
+![](https://komarev.com/ghpvc/?username=alteryx-motives&color=orange&style=flat&base=6000&abbreviated=true)<img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars"> 
+   
+# 👋 Hi! I'm Nick Stambaugh
+#### Join & read my weekly <a href="https://codewithnick.beehiiv.com">newsletter</a> on technology. 📖
+
+## About Me
 I've spent 4+ years as an analyst/developer with a BS in Economics & Philosophy from Grand Valley State University.
 
 I've built solutions for manufacturing, healthcare, and economic development. 
 
 My long-term objective is to strategically lead the user experience of business-critical applications.
 
-<details>
-   
-<summary>☕ Always down to chat</summary>
-
-   ```
-📧 nickstambaugh@proton.me
-
-The key/fingerprint below is used to verify my identity over email.
-
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-xjMEZsCWCxYJKwYBBAHaRw8BAQdA+04wVDSUEcmRGxqjxSH/xPICaSGiDnpq
-754l8ueKRE/NMW5pY2tzdGFtYmF1Z2hAcHJvdG9uLm1lIDxuaWNrc3RhbWJh
-dWdoQHByb3Rvbi5tZT7CjwQTFggAQQUCZsCWCwkQfrm/tyh+WkAWIQR9zENr
-Y/Smx6dxstF+ub+3KH5aQAIbAwIeAQIZAQMLCQcCFQgDFgACBScJAgcCAADA
-TgD9Hgl5oNI3Tw1uUEJSHXKY51z84tkQ/Y1it/6YY4p4lw0A/jRwJv0c1ZJS
-ODufpBiB8ywE8YnFVfXOKHuEdoQDQLQFzjgEZsCWCxIKKwYBBAGXVQEFAQEH
-QGrQYOb+/kt4nOHVDjbH6TOJyXccHhQNsOhGjnqRgaIkAwEKCcJ4BBgWCAAq
-BQJmwJYLCRB+ub+3KH5aQBYhBH3MQ2tj9KbHp3Gy0X65v7coflpAAhsMAAAM
-xwD+LRNaGutsoVoKVf+rLmBgAA3DSwsvAY8aJwDVV6gJjWQA/jgFrZz+qFEH
-qhfXtaR2I05GW/po8vxdkJOmQg485ksE
-=uykQ
-
------END PGP PUBLIC KEY BLOCK-----
-
-Fingerprint: 7dcc436b63f4a6c7a771b2d17eb9bfb7287e5a40
-   ```
-
-</details>
-
-## Links
-
 [![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=About.me&logoColor=white)](https://nickstambaugh.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-purple?style=for-the-badge&logo=ProtonDrive&logoColor=white)](https://github.com/Sieep-Coding/sieep-coding.github.io/blob/main/public/resume.pdf)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
 [![Medium](https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@nick-stambaugh)
 
-#### Want to Hire Me?
+### Want to Hire Me?
 [![Email](https://img.shields.io/badge/Send_Me_An_Email-purple?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:nickstambaugh@proton.me)
+</div>
 
 # Top Projects
 
@@ -60,7 +35,7 @@ Fingerprint: 7dcc436b63f4a6c7a771b2d17eb9bfb7287e5a40
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white)
-## Tech I've Worked With Professionally
+## Tech I've Worked With
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Cmake](https://img.shields.io/badge/cmake-6D00CC?.svg?&style=for-the-badge&logo=cmake&logoColor=white)
@@ -128,18 +103,14 @@ Fingerprint: 7dcc436b63f4a6c7a771b2d17eb9bfb7287e5a40
 
 </details>
 
-## Stats
-
-![](https://komarev.com/ghpvc/?username=alteryx-motives&color=orange&style=flat&base=6000&abbreviated=true) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars"> 
+## More Info:
 
 <details>
-<summary> Data Cards 📈 </summary>
+<summary><b> Data Cards 📈 </b></summary>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sieep-coding&theme=gruvbox)](https://git.io/streak-stats)
 
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieep-coding&show_icons=true&theme=gruvbox&hide=contribs,prs&rank_icon=github)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=gruvbox&langs_count=14)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sieep-coding&theme=gruvbox&title=MultiLanguage,Stars,Commits,Repositories,PullRequest,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -149,7 +120,22 @@ Fingerprint: 7dcc436b63f4a6c7a771b2d17eb9bfb7287e5a40
 </details>
 
 <details>
-  <summary>Latest Activity Graph 📈 </summary>
+  <summary><b> Languages stats 📈 </b></summary>
+  <br/>
+  <picture align="left">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sieep-coding&theme=gruvbox">
+    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sieep-coding&theme=gruvbox">
+    <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sieep-coding&theme=gruvbox">
+  </picture>
+  <picture align="right">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sieep-coding&theme=gruvbox">
+    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sieep-coding&theme=gruvbox">
+    <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sieep-coding&theme=gruvbox">
+  </picture>
+</details>
+
+<details>
+  <summary><b> Latest Activity Graph 📈 </b></summary>
   <br>
   <h2 align="center">Latest Contribution</h2>
   <a href="https://github.com/Sieep-Coding">
@@ -158,12 +144,39 @@ Fingerprint: 7dcc436b63f4a6c7a771b2d17eb9bfb7287e5a40
   <br>
 </details>
 
-### More Info:
+<details>
+<summary><b> Always down to chat ☕ </b></summary>
 
-- Join & read my weekly <a href="https://codewithnick.beehiiv.com">newsletter</a> on technology.
-- Visit my <a href="https://sieep-coding.github.io">website.</a>
+   ```
+📧 nickstambaugh@proton.me
 
-![Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
+The key/fingerprint below is used to verify my identity over email.
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+xjMEZsCWCxYJKwYBBAHaRw8BAQdA+04wVDSUEcmRGxqjxSH/xPICaSGiDnpq
+754l8ueKRE/NMW5pY2tzdGFtYmF1Z2hAcHJvdG9uLm1lIDxuaWNrc3RhbWJh
+dWdoQHByb3Rvbi5tZT7CjwQTFggAQQUCZsCWCwkQfrm/tyh+WkAWIQR9zENr
+Y/Smx6dxstF+ub+3KH5aQAIbAwIeAQIZAQMLCQcCFQgDFgACBScJAgcCAADA
+TgD9Hgl5oNI3Tw1uUEJSHXKY51z84tkQ/Y1it/6YY4p4lw0A/jRwJv0c1ZJS
+ODufpBiB8ywE8YnFVfXOKHuEdoQDQLQFzjgEZsCWCxIKKwYBBAGXVQEFAQEH
+QGrQYOb+/kt4nOHVDjbH6TOJyXccHhQNsOhGjnqRgaIkAwEKCcJ4BBgWCAAq
+BQJmwJYLCRB+ub+3KH5aQBYhBH3MQ2tj9KbHp3Gy0X65v7coflpAAhsMAAAM
+xwD+LRNaGutsoVoKVf+rLmBgAA3DSwsvAY8aJwDVV6gJjWQA/jgFrZz+qFEH
+qhfXtaR2I05GW/po8vxdkJOmQg485ksE
+=uykQ
+
+-----END PGP PUBLIC KEY BLOCK-----
+
+Fingerprint: 7dcc436b63f4a6c7a771b2d17eb9bfb7287e5a40
+   ```
+</details>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sieep-coding&theme=gruvbox">
+  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sieep-coding&theme=gruvbox">
+  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sieep-Coding&theme=gruvbox">
+</picture>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
