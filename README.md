@@ -109,6 +109,13 @@ My long-term objective is to strategically lead the user experience of business-
 <details>
 <summary><b> Data Cards 📈 </b></summary>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sieep-coding&theme=gruvbox">
+  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sieep-coding&theme=gruvbox">
+  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sieep-Coding&theme=gruvbox">
+</picture>
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sieep-coding&theme=gruvbox)](https://git.io/streak-stats)
 
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieep-coding&show_icons=true&theme=gruvbox&hide=contribs,prs&rank_icon=github)
@@ -172,12 +179,6 @@ qhfXtaR2I05GW/po8vxdkJOmQg485ksE
 Fingerprint: 7dcc436b63f4a6c7a771b2d17eb9bfb7287e5a40
    ```
 </details>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sieep-coding&theme=gruvbox">
-  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sieep-coding&theme=gruvbox">
-  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sieep-Coding&theme=gruvbox">
-</picture>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
