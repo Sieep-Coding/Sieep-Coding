@@ -27,7 +27,7 @@ My long-term objective is to strategically lead the user experience of business-
 
 <details>
 
-<summary><b>Top Projects</b></summary>
+<summary><b>Top Projects 🥇 </b></summary>
 <br>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=todo-htmx-alpine-go&theme=gruvbox)](https://github.com/Sieep-Coding/todo-htmx-alpine-go)
@@ -37,7 +37,7 @@ My long-term objective is to strategically lead the user experience of business-
 
 <details>
    
-<summary><b>Tech I Enjoy A Lot</b></summary>
+<summary><b>Tech I Enjoy A Lot 💻 </b></summary>
 <br>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -53,7 +53,7 @@ My long-term objective is to strategically lead the user experience of business-
 
 <details>
    
-<summary><b> Tech I've Worked With In The Past</b></summary>
+<summary><b> Tech I've Worked With In The Past 🔄 </b></summary>
 <br>
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
@@ -96,7 +96,7 @@ My long-term objective is to strategically lead the user experience of business-
 <details>
 
 
-<summary><b>Click Me</b></summary>
+<summary><b>Value I Offer 🖱️ </b></summary>
 
 ```
    I can...
@@ -115,7 +115,7 @@ My long-term objective is to strategically lead the user experience of business-
 
 <details>
 
-<summary><b>Currently...</b></summary>
+<summary><b>Currently... ⏰</b></summary>
 
 ```
 - A data analyst in Grand Rapids.
