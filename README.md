@@ -1,6 +1,8 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=alteryx-motives&color=orange&style=flat&base=6000&abbreviated=true) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars"> 
+![](https://komarev.com/ghpvc/?username=alteryx-motives&color=orange&style=flat&base=6000&abbreviated=true) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
+
+![License: UNLICENSE](https://img.shields.io/badge/License-UNLICENSE-blue.svg)
    
 # 👋 Hi! I'm Nick Stambaugh
 #### Join & read my weekly <a href="https://codewithnick.beehiiv.com">newsletter</a> on technology. 📖
