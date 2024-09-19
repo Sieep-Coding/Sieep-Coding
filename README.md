@@ -6,6 +6,7 @@
    
 # 👋 Hi! I'm Nick Stambaugh
 #### Join & read my weekly <a href="https://codewithnick.beehiiv.com">newsletter</a> on technology. 📖
+#### I work for [NxGen MDx](https://nxgenmdx.com/) as a data analyst and run a non-profit called [AccessGR](https://accessgr.vercel.app/).
 
 ## About Me
 I've spent 4+ years as an analyst/developer with a BS in Economics & Philosophy from Grand Valley State University.
