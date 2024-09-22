@@ -5,7 +5,6 @@
 ![License: UNLICENSE](https://img.shields.io/badge/License-UNLICENSE-blue.svg)
    
 # 👋 Hi! I'm Nick Stambaugh
-#### Join & read my weekly <a href="https://codewithnick.beehiiv.com">newsletter</a> on technology. 📖
 #### I work for [NxGen MDx](https://nxgenmdx.com/) as a data analyst and run a non-profit called [AccessGR](https://accessgr.vercel.app/).
 
 ## About Me
