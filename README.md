@@ -8,7 +8,7 @@
 #### I work for [NxGen MDx](https://nxgenmdx.com/) as a data analyst and run a non-profit called [AccessGR](https://accessgr.vercel.app/).
 
 ## About Me
-I've spent 4+ years as an analyst/developer with a BS in Economics & Philosophy from Grand Valley State University.
+I've spent 4+ years as an analyst/developer after finishing a BS in Economics & Philosophy.
 
 I've built solutions for manufacturing, healthcare, and economic development. 
 
@@ -178,7 +178,7 @@ My long-term objective is to strategically lead the user experience of business-
    ```
 📧 nickstambaugh@proton.me
 
-The key/fingerprint below is used to verify my identity over email.
+Fingerprint: 7dcc436b63f4a6c7a771b2d17eb9bfb7287e5a40
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -195,8 +195,6 @@ qhfXtaR2I05GW/po8vxdkJOmQg485ksE
 =uykQ
 
 -----END PGP PUBLIC KEY BLOCK-----
-
-Fingerprint: 7dcc436b63f4a6c7a771b2d17eb9bfb7287e5a40
    ```
 </details>
 
