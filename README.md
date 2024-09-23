@@ -103,7 +103,8 @@ My long-term objective is to strategically lead the user experience of business-
    I can...
 
    - Develop web applications using React.js, TypeScript, Go, SQL, and PHP, meeting tight deadlines.
-   - Build cross-platform apps with Flutter/Dart/C.
+   - Write scripts in Lua and Python.
+   - Build cross-platform apps with Dart and C.
    - Perform data analysis with Python, R, SAS, and advanced regression techniques for strategic initiatives.
    - Create enterprise dashboards in Qlik Sense, Tableau, and PowerBI.
    - Lead analyst teams on SQL and PowerBI projects, ensuring effective delivery.
