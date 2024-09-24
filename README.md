@@ -41,14 +41,15 @@ My long-term objective is to strategically lead the user experience of business-
 <summary><b>Tech I Enjoy A Lot 💻 </b></summary>
 <br>
 
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Go](https://img.shields.io/badge/Linux_Mint-86BE43?style=for-the-badge&logo=Linux-Mint&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white)
 
 </details>
 
@@ -98,6 +99,7 @@ My long-term objective is to strategically lead the user experience of business-
 
 
 <summary><b>Value I Offer 🖱️ </b></summary>
+<br>
 
 ```
    I can...
@@ -118,6 +120,7 @@ My long-term objective is to strategically lead the user experience of business-
 <details>
 
 <summary><b>Currently... ⏰</b></summary>
+<br>
 
 ```
 - A data analyst in Grand Rapids.
@@ -129,7 +132,8 @@ My long-term objective is to strategically lead the user experience of business-
 
 <details>
 <summary><b> Data Cards 📈 </b></summary>
-
+<br>
+ 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sieep-coding&theme=gruvbox">
   <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sieep-coding&theme=gruvbox">
@@ -175,6 +179,7 @@ My long-term objective is to strategically lead the user experience of business-
 
 <details>
 <summary><b> Always down to chat ☕ </b></summary>
+<br>
 
    ```
 📧 nickstambaugh@proton.me
