@@ -1,13 +1,11 @@
  <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=alteryx-motives&color=orange&style=flat&base=6000&abbreviated=true) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
-
-![License: UNLICENSE](https://img.shields.io/badge/License-UNLICENSE-blue.svg)
    
 # 👋 Hi! I'm Nick Stambaugh
-#### I work for [NxGen MDx](https://nxgenmdx.com/) as a data analyst and run a non-profit called [AccessGR](https://accessgr.vercel.app/).
+### I work for [NxGen MDx](https://nxgenmdx.com/) as a data analyst and run a non-profit called [AccessGR](https://accessgr.vercel.app/).
 
-## About Me
+# About Me
 I've spent 4+ years as an analyst/developer after finishing a BS in Economics & Philosophy.
 
 I've built solutions for manufacturing, healthcare, and economic development. 
@@ -20,7 +18,7 @@ My long-term objective is to strategically lead the user experience of business-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
 [![Medium](https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@nick-stambaugh)
 
-### Want to Hire Me?
+## Want to Hire Me?
 [![Email](https://img.shields.io/badge/Send_Me_An_Email-purple?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:nickstambaugh@proton.me)
 </div>
 
