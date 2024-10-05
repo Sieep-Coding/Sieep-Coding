@@ -1,9 +1,6 @@
  <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=alteryx-motives&color=orange&style=flat&base=6000&abbreviated=true) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
-   
-# 👋 Hi! I'm Nick Stambaugh
-### I work for [NxGen MDx](https://nxgenmdx.com/) as a data analyst and run a non-profit called [AccessGR](https://accessgr.vercel.app/).
 
 # About Me
 I've spent 4+ years as an analyst/developer after finishing a BS in Economics & Philosophy.
