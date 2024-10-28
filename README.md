@@ -152,7 +152,7 @@ hobbies: ["Gaming", "Music Production", "Running", "Reading"]
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sieep-coding&theme=gruvbox)](https://git.io/streak-stats)
 
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieep-coding&show_icons=true&theme=gruvbox&hide=contribs,prs&rank_icon=github)
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieep-coding&show_icons=true&theme=gruvbox&hide=contribs,prs)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sieep-coding&theme=gruvbox&title=MultiLanguage,Stars,Commits,Repositories,PullRequest,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
