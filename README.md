@@ -27,10 +27,8 @@ education: ["Bachelor's in Economics and Philosophy
 company: Freelance
 fields_of_interests: ["Data Analysis", "Business Intelligence", "Systems Design & Engineering",
                       "Full-Stack Development", "Cross-Platform Development", and "Tooling"]
-
 technical_background: ["Python", "Go", "Lua", "Tableau/PowerBI/Qlik",
                        "TypeScript w/ Astro, React, Nextjs"]
-
 currently_learning: ["Docker", "C++", "Test Driven Development"]
 will_learn: ["Low-level programming"]
 hobbies: ["Gaming", "Running", "Reading"]
