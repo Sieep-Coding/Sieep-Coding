@@ -1,13 +1,10 @@
  <div align="center">
 
+ <p align="center">
+  <img src="https://socialify.git.ci/sieep-coding/sieep-coding/image?font=Source%20Code%20Pro&forks=0&issues=0&language=1&name=1&owner=1&pattern=Plus&pulls=0&stargazers=0&theme=Dark" alt="guilyx" width="700" height="300" />
+</p>
+
 ![](https://komarev.com/ghpvc/?username=alteryx-motives&color=orange&style=flat&base=6000&abbreviated=true) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
-
-# About Me
-I've spent 4+ years as an analyst/developer after finishing a BS in Economics & Philosophy.
-
-I've built solutions for manufacturing, healthcare, and economic development. 
-
-My long-term objective is to strategically lead the user experience of business-critical applications.
 
 [![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=About.me&logoColor=white)](https://nickstambaugh.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-purple?style=for-the-badge&logo=ProtonDrive&logoColor=white)](https://github.com/Sieep-Coding/sieep-coding.github.io/blob/main/public/resume.pdf)
@@ -15,9 +12,29 @@ My long-term objective is to strategically lead the user experience of business-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
 [![Medium](https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@nick-stambaugh)
 
-## Want to Hire Me?
+#### Hire Me?
 [![Email](https://img.shields.io/badge/Send_Me_An_Email-purple?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:nickstambaugh@proton.me)
 </div>
+
+# About Me
+
+```yaml
+name: Nick Stambaugh
+located_in: Grand Rapids, MI
+job: Data analyst and software developer
+education: ["Bachelor's in Economics and Philosophy
+            from Grand Valley State University (2019 - 2022)"]
+company: Freelance
+fields_of_interests: ["Data Analysis", "Business Intelligence", "Systems Design & Engineering",
+                      "Full-Stack Development", "Cross-Platform Development", and "Tooling"]
+
+technical_background: ["Python", "Go", "Lua", "Tableau/PowerBI/Qlik",
+                       "TypeScript w/ Astro, React, Nextjs"]
+
+currently_learning: ["Docker", "C++", "Test Driven Development"]
+will_learn: ["Low-level programming"]
+hobbies: ["Gaming", "Running", "Reading"]
+```
 
 <details>
 
