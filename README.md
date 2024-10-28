@@ -31,8 +31,10 @@ technical_background: ["Python", "Go", "Lua", "Tableau/PowerBI/Qlik",
                        "TypeScript w/ Astro, React, Nextjs"]
 currently_learning: ["Docker", "C++", "Test Driven Development"]
 will_learn: ["Low-level programming"]
-hobbies: ["Gaming", "Running", "Reading"]
+hobbies: ["Gaming", "Music Production", "Running", "Reading"]
 ```
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31vvlos4gz23niyxpy34zuqkff6u&count=5">
+
 
 <details>
 
