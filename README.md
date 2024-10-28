@@ -1,5 +1,4 @@
  <div align="center">
-
  <p align="center">
   <img src="https://socialify.git.ci/sieep-coding/sieep-coding/image?font=Source%20Code%20Pro&forks=0&issues=0&language=1&name=1&owner=1&pattern=Plus&pulls=0&stargazers=0&theme=Dark" alt="guilyx" width="700" height="300" />
 </p>
@@ -11,13 +10,11 @@
 [![Steam](https://img.shields.io/badge/steam-white?style=for-the-badge&logo=steam&logoColor=black)](https://steamcommunity.com/id/fieaoe98034512u5901)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
 [![Medium](https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@nick-stambaugh)
-
 #### Hire Me?
 [![Email](https://img.shields.io/badge/Send_Me_An_Email-purple?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:nickstambaugh@proton.me)
 </div>
 
 # About Me
-
 ```yaml
 name: Nick Stambaugh
 located_in: Grand Rapids, MI
