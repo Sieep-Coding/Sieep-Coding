@@ -14,6 +14,10 @@
 [![Email](https://img.shields.io/badge/Send_Me_An_Email-purple?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:nickstambaugh@proton.me)
 </div>
 
+  <a href="https://github.com/Sieep-Coding">
+    <img alt="Sieep-Coding's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sieep-Coding&theme=rogue&hide_border=true&area=true&area_color=c924b6">
+  </a>
+
 # About Me
 ```yaml
 name: Nick Stambaugh
@@ -127,19 +131,6 @@ hobbies: ["Gaming", "Music Production", "Running", "Reading"]
 </details>
 
 <details>
-
-<summary><b>Currently... ⏰</b></summary>
-<br>
-
-```
-- A data analyst in Grand Rapids.
-- Studying for my Master's in Computer Science.
-- Looking for new opportunities in software development. 
-```
-
-</details>
-
-<details>
 <summary><b> Data Cards 📈 </b></summary>
 <br>
  
@@ -153,8 +144,6 @@ hobbies: ["Gaming", "Music Production", "Running", "Reading"]
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sieep-coding&theme=gruvbox)](https://git.io/streak-stats)
 
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieep-coding&show_icons=true&theme=gruvbox&hide=contribs,prs)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sieep-coding&theme=gruvbox&title=MultiLanguage,Stars,Commits,Repositories,PullRequest,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![roadmap.sh](https://roadmap.sh/card/wide/667b1494c19525099e698db6?variant=dark)](https://roadmap.sh/u/nicks)
 
@@ -174,16 +163,6 @@ hobbies: ["Gaming", "Music Production", "Running", "Reading"]
     <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sieep-coding&theme=gruvbox">
     <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sieep-coding&theme=gruvbox">
   </picture>
-</details>
-
-<details>
-  <summary><b> Latest Activity Graph 📈 </b></summary>
-  <br>
-  <h2 align="center">Latest Contribution</h2>
-  <a href="https://github.com/Sieep-Coding">
-    <img alt="Sieep-Coding's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sieep-Coding&theme=rogue&hide_border=true&area=true&area_color=c924b6">
-  </a>
-  <br>
 </details>
 
 <details>
