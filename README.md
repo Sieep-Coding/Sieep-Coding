@@ -36,8 +36,6 @@ hobbies: ["Gaming", "Music Production", "Running", "Reading"]
 ```
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vvlos4gz23niyxpy34zuqkff6u&count=5">
 
-
-
 ## Details
 <details>
 
