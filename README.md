@@ -33,6 +33,8 @@ hobbies: ["Gaming", "Music Production", "Running", "Reading"]
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vvlos4gz23niyxpy34zuqkff6u&count=5">
 
 
+
+## Details
 <details>
 
 <summary><b>Top Projects 🥇 </b></summary>
@@ -101,8 +103,6 @@ hobbies: ["Gaming", "Music Production", "Running", "Reading"]
 ![Zoho](https://img.shields.io/badge/Zoho-E42527?style=for-the-badge&logo=Zoho&logoColor=white)
 
 </details>
-
-### More about me
 
 <details>
 
