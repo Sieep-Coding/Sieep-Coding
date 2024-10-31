@@ -55,10 +55,11 @@ hobbies: ["Gaming", "Music Production", "Running", "Reading"]
 <summary><b>Tech I Enjoy A Lot 💻 </b></summary>
 <br>
 
+![Linux Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C](https://img.shields.io/badge/astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![Go](https://img.shields.io/badge/Linux_Mint-86BE43?style=for-the-badge&logo=Linux-Mint&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-86BE43?style=for-the-badge&logo=Linux-Mint&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
