@@ -20,7 +20,6 @@
 
 # About Me
 ```yaml
-name: Nick Stambaugh
 located_in: Grand Rapids, MI
 job: Data analyst and software developer
 education: ["Bachelor's in Economics and Philosophy
@@ -31,7 +30,7 @@ fields_of_interests: ["Data Analysis", "Business Intelligence", "Systems Design 
 technical_background: ["Python", "Go", "Lua", "Tableau/PowerBI/Qlik",
                        "TypeScript w/ Astro, React, Nextjs"]
 currently_learning: ["Docker", "C++", "Test Driven Development"]
-will_learn: ["Low-level programming"]
+will_learn: ["Low-level programming", "Linux"]
 hobbies: ["Gaming", "Music Production", "Running", "Reading"]
 ```
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vvlos4gz23niyxpy34zuqkff6u&count=5">
