@@ -68,7 +68,7 @@ hobbies: ["Gaming", "Music Production", "Running", "Reading"]
 
 <details>
    
-<summary><b> Tech I've Worked With In The Past 🔄 </b></summary>
+<summary><b>Tech I've Worked With In The Past 🔄 </b></summary>
 <br>
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
@@ -129,7 +129,7 @@ hobbies: ["Gaming", "Music Production", "Running", "Reading"]
 </details>
 
 <details>
-<summary><b> Data Cards 📈 </b></summary>
+<summary><b>Data Cards 📈 </b></summary>
 <br>
  
 <picture>
@@ -143,13 +143,13 @@ hobbies: ["Gaming", "Music Production", "Running", "Reading"]
 
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieep-coding&show_icons=true&theme=gruvbox&hide=contribs,prs)
 
-[![roadmap.sh](https://roadmap.sh/card/wide/667b1494c19525099e698db6?variant=dark)](https://roadmap.sh/u/nicks)
+[![roadmap.sh](https://roadmap.sh/card/tall/667b1494c19525099e698db6?variant=dark&roadmaps=sql%2Ccomputer-science%2Ccpp%2Cgolang)](https://roadmap.sh/u/nicks)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sieep-coding?theme=dark)
 </details>
 
 <details>
-  <summary><b> Languages stats 📈 </b></summary>
+  <summary><b>Languages stats 📈 </b></summary>
   <br/>
   <picture align="left">
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sieep-coding&theme=gruvbox">
@@ -164,7 +164,7 @@ hobbies: ["Gaming", "Music Production", "Running", "Reading"]
 </details>
 
 <details>
-<summary><b> Always down to chat ☕ </b></summary>
+<summary><b>Always down to chat ☕ </b></summary>
 <br>
 
    ```
