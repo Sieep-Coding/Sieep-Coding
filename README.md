@@ -1,6 +1,6 @@
  <div align="center">
   
- ![Sieep-Coding](https://socialify.git.ci/Sieep-Coding/Sieep-Coding/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Charlie%20Brown&theme=Dark)
+ ![Sieep-Coding](https://socialify.git.ci/Sieep-Coding/Sieep-Coding/image?font=Source%20Code%20Pro&language=1&name=1&pattern=Charlie%20Brown&theme=Dark)
 
 ![](https://komarev.com/ghpvc/?username=alteryx-motives&color=orange&style=flat&base=6000&abbreviated=true) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
 
