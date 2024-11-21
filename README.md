@@ -16,20 +16,12 @@
 </div>
 
 # About Me
-```yaml
-located_in: Grand Rapids, MI
-job: Data analyst and software developer
-education: ["Bachelor's in Economics and Philosophy
-            from Grand Valley State University (2019 - 2022)"]
-company: Freelance
-fields_of_interests: ["Data Analysis", "Business Intelligence", "Systems Design & Engineering",
-                      "Full-Stack Development", "Cross-Platform Development", and "Tooling"]
-technical_background: ["Python", "Go", "Lua", "Tableau/PowerBI/Qlik",
-                       "TypeScript w/ Astro, React, Nextjs"]
-currently_learning: ["Docker", "C++", "Test Driven Development"]
-will_learn: ["Low-level programming", "Linux"]
-hobbies: ["Gaming", "Music Production", "Running", "Reading"]
-```
+**\>\_** I’m all about **TypeScript, Go, C/C++, Python, Lua,** and building cool things in **Neovim.** I enjoy working in **Linux (Debian/Mint)** environments. I have over **4 years** of experience using **SQL, PowerBI, and Tableau** at the _enterprise_ level for **dashboards and automated reports.**
+
+If you have **job-related** inquiries, please don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/nick-s-694241139/).
+
+**~** [_visit my website_](https://nickstambaugh.vercel.app/)
+
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vvlos4gz23niyxpy34zuqkff6u&count=5">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=square&theme=dracula&border=true&quote=LeetCode%20doesn%E2%80%99t%20support%20Lua%3F%20Give%20me%20the%20source%20code%2C%20I%E2%80%99ll%20add%20it%20myself.)](https://github.com/piyushsuthar/github-readme-quotes)
@@ -37,6 +29,7 @@ hobbies: ["Gaming", "Music Production", "Running", "Reading"]
 <a href="https://github.com/Sieep-Coding">
     <img alt="Sieep-Coding's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sieep-Coding&theme=dracula&hide_border=true&area=true&area_color=c924b6">
   </a>
+<br>
 
 ## Details
 <details>
