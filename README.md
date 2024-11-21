@@ -31,7 +31,7 @@ If you have **job-related** inquiries, please don't hesitate to connect with me 
   </a>
 <br>
 
-## Details
+## Dive Deeper 🤿
 <details>
 
 <summary><b>Top Projects 🥇 </b></summary>
