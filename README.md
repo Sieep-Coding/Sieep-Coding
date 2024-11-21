@@ -15,7 +15,7 @@
 </div>
 
   <a href="https://github.com/Sieep-Coding">
-    <img alt="Sieep-Coding's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sieep-Coding&theme=rogue&hide_border=true&area=true&area_color=c924b6">
+    <img alt="Sieep-Coding's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sieep-Coding&theme=dracula&hide_border=true&area=true&area_color=c924b6">
   </a>
 
 # About Me
@@ -35,16 +35,18 @@ hobbies: ["Gaming", "Music Production", "Running", "Reading"]
 ```
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vvlos4gz23niyxpy34zuqkff6u&count=5">
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=square&theme=dracula&border=true&quote=LeetCode%20doesn%E2%80%99t%20support%20Lua%3F%20Give%20me%20the%20source%20code%2C%20I%E2%80%99ll%20add%20it%20myself.)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ## Details
 <details>
 
 <summary><b>Top Projects 🥇 </b></summary>
 <br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=snow-simulation&theme=gruvbox)](https://github.com/Sieep-Coding/snow-simulation)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=todo-htmx-alpine-go&theme=gruvbox)](https://github.com/Sieep-Coding/todo-htmx-alpine-go)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=notezone&theme=gruvbox)](https://github.com/Sieep-Coding/notezone/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=game-of-life-lua&theme=gruvbox)](https://github.com/Sieep-Coding/game-of-life-lua)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=snow-simulation&theme=dracula)](https://github.com/Sieep-Coding/snow-simulation)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=todo-htmx-alpine-go&theme=dracula)](https://github.com/Sieep-Coding/todo-htmx-alpine-go)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=notezone&theme=dracula)](https://github.com/Sieep-Coding/notezone/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=game-of-life-lua&theme=dracula)](https://github.com/Sieep-Coding/game-of-life-lua)
 
 </details>
 
@@ -107,60 +109,34 @@ hobbies: ["Gaming", "Music Production", "Running", "Reading"]
 </details>
 
 <details>
-
-
-<summary><b>Value I Offer 🖱️ </b></summary>
-<br>
-
-```
-   I can...
-
-   - Develop web applications using React.js, TypeScript, Go, SQL, and PHP, meeting tight deadlines.
-   - Write scripts in Lua and Python.
-   - Build cross-platform apps with Dart and C.
-   - Perform data analysis with Python, R, SAS, and advanced regression techniques for strategic initiatives.
-   - Create enterprise dashboards in Qlik Sense, Tableau, and PowerBI.
-   - Lead analyst teams on SQL and PowerBI projects, ensuring effective delivery.
-   - Automate ETL pipelines with Python and SQL to improve report generation efficiency.
-   - Present business intelligence insights to executives, fostering data-driven decisions.
-
-```
-
-</details>
-
-<details>
 <summary><b>Data Cards 📈 </b></summary>
 <br>
+
+  <picture align="left">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sieep-coding&theme=dracula">
+    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sieep-coding&theme=dracula">
+    <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sieep-coding&theme=dracula">
+  </picture>
+  <picture align="right">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sieep-coding&theme=dracula">
+    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sieep-coding&theme=dracula">
+    <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sieep-coding&theme=dracula">
+  </picture>
  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sieep-coding&theme=gruvbox">
-  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sieep-coding&theme=gruvbox">
-  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sieep-Coding&theme=gruvbox">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sieep-coding&theme=dracula">
+  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sieep-coding&theme=dracula">
+  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sieep-Coding&theme=dracula">
 </picture>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sieep-coding&theme=gruvbox)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sieep-coding&theme=dracula)](https://git.io/streak-stats)
 
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieep-coding&show_icons=true&theme=gruvbox&hide=contribs,prs)
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieep-coding&show_icons=true&theme=dracula&hide=contribs,prs)
 
 [![roadmap.sh](https://roadmap.sh/card/tall/667b1494c19525099e698db6?variant=dark&roadmaps=sql%2Ccomputer-science%2Ccpp%2Cgolang)](https://roadmap.sh/u/nicks)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sieep-coding?theme=dark)
-</details>
-
-<details>
-  <summary><b>Languages stats 📈 </b></summary>
-  <br/>
-  <picture align="left">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sieep-coding&theme=gruvbox">
-    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sieep-coding&theme=gruvbox">
-    <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sieep-coding&theme=gruvbox">
-  </picture>
-  <picture align="right">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sieep-coding&theme=gruvbox">
-    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sieep-coding&theme=gruvbox">
-    <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sieep-coding&theme=gruvbox">
-  </picture>
 </details>
 
 <details>
@@ -186,7 +162,7 @@ xwD+LRNaGutsoVoKVf+rLmBgAA3DSwsvAY8aJwDVV6gJjWQA/jgFrZz+qFEH
 qhfXtaR2I05GW/po8vxdkJOmQg485ksE
 =uykQ
 
------END PGP PUBLIC KEY BLOCK-----
+-----END PGP PUBLIC KEY BLOCK----
    ```
 </details>
 
