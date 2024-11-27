@@ -16,7 +16,7 @@
 </div>
 
 # About Me
-**\>\_** I’m all about **TypeScript, Go, C/C++, Python, Lua,** and building cool things in **Neovim.** I enjoy working in **Linux (Debian/Mint)** environments. I have over **4 years** of experience using **SQL, PowerBI, and Tableau** at the _enterprise_ level for **dashboards and automated reports.**
+**\>\_** I’m all about **TypeScript, Go, C/C++, Python, Lua,** and building cool things in **Neovim.** I enjoy working in **Linux (Debian/Mint)** environments. I have over **4 years** of experience using **SQL, PowerBI, and Tableau** at the enterprise level for **dashboards and automated reports.**
 
 If you have **job-related** inquiries, please don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/nick-s-694241139/).
 
