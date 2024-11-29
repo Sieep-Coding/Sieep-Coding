@@ -95,7 +95,11 @@ If you have **job-related** inquiries, please don't hesitate to connect with me 
 
 <details>
 <summary><b>Data Cards 📈 </b></summary>
-<br>
+<be>
+
+<a href="https://github.com/Sieep-Coding">
+    <img alt="Sieep-Coding's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sieep-Coding&theme=dracula&hide_border=true&area=true&area_color=c924b6">
+  </a>
 
   <picture align="left">
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sieep-coding&theme=dracula">
@@ -158,10 +162,6 @@ qhfXtaR2I05GW/po8vxdkJOmQg485ksE
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=square&theme=dracula&border=true&quote=LeetCode%20doesn%E2%80%99t%20support%20Lua%3F%20Give%20me%20the%20source%20code%2C%20I%E2%80%99ll%20add%20it%20myself.)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<a href="https://github.com/Sieep-Coding">
-    <img alt="Sieep-Coding's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sieep-Coding&theme=dracula&hide_border=true&area=true&area_color=c924b6">
-  </a>
-<br>
 </details>
 
 <p align="center">
