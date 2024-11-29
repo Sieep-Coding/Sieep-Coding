@@ -22,15 +22,6 @@ If you have **job-related** inquiries, please don't hesitate to connect with me 
 
 **~** [_visit my website_](https://nickstambaugh.vercel.app/)
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31vvlos4gz23niyxpy34zuqkff6u&count=5">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=square&theme=dracula&border=true&quote=LeetCode%20doesn%E2%80%99t%20support%20Lua%3F%20Give%20me%20the%20source%20code%2C%20I%E2%80%99ll%20add%20it%20myself.)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<a href="https://github.com/Sieep-Coding">
-    <img alt="Sieep-Coding's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sieep-Coding&theme=dracula&hide_border=true&area=true&area_color=c924b6">
-  </a>
-<br>
-
 ## Dive Deeper 🤿
 <details>
 
@@ -158,6 +149,19 @@ qhfXtaR2I05GW/po8vxdkJOmQg485ksE
 
 -----END PGP PUBLIC KEY BLOCK----
    ```
+</details>
+
+<details>
+ <summary><b>Extra</b> </summary>
+ <br>
+ <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vvlos4gz23niyxpy34zuqkff6u&count=5">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=square&theme=dracula&border=true&quote=LeetCode%20doesn%E2%80%99t%20support%20Lua%3F%20Give%20me%20the%20source%20code%2C%20I%E2%80%99ll%20add%20it%20myself.)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<a href="https://github.com/Sieep-Coding">
+    <img alt="Sieep-Coding's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sieep-Coding&theme=dracula&hide_border=true&area=true&area_color=c924b6">
+  </a>
+<br>
 </details>
 
 <p align="center">
