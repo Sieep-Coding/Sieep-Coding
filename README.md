@@ -5,8 +5,10 @@ If you have **job-related** inquiries, please don't hesitate to connect with me 
 
 **~** [_visit my website_](https://nickstambaugh.vercel.app/)
 
-## Dive Deeper 🤿
 <details>
+  <summary><h2>Dive Deeper 🤿</h2></summary>
+  <br>
+  <details>
  <summary><b>Socials and Contact 📨</b></summary>
  <br>
  
@@ -169,7 +171,7 @@ qhfXtaR2I05GW/po8vxdkJOmQg485ksE
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=square&theme=dracula&border=true&quote=LeetCode%20doesn%E2%80%99t%20support%20Lua%3F%20Give%20me%20the%20source%20code%2C%20I%E2%80%99ll%20add%20it%20myself.)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </details>
-
+</details>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
