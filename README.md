@@ -1,4 +1,16 @@
- <div align="center">
+# About Me
+**\>\_** I’m all about **TypeScript, Go, C/C++, Python, Lua,** and building cool things in **Neovim.** I enjoy working in **Linux (Debian/Mint)** environments. I have over **4 years** of experience using **SQL, PowerBI, and Tableau** at the enterprise level for **dashboards and automated reports.**
+
+If you have **job-related** inquiries, please don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/nick-s-694241139/).
+
+**~** [_visit my website_](https://nickstambaugh.vercel.app/)
+
+## Dive Deeper 🤿
+<details>
+ <summary><b>Socials and Contact 📨</b></summary>
+ <br>
+ 
+  <div align="center">
   
  ![Sieep-Coding](https://socialify.git.ci/Sieep-Coding/Sieep-Coding/image?font=Source%20Code%20Pro&language=1&name=1&pattern=Charlie%20Brown&theme=Dark)
 
@@ -14,15 +26,9 @@
 #### Contact Me:
 [![Email](https://img.shields.io/badge/Send_Me_An_Email-purple?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:nickstambaugh@proton.me)
 </div>
+ 
+</details>
 
-# About Me
-**\>\_** I’m all about **TypeScript, Go, C/C++, Python, Lua,** and building cool things in **Neovim.** I enjoy working in **Linux (Debian/Mint)** environments. I have over **4 years** of experience using **SQL, PowerBI, and Tableau** at the enterprise level for **dashboards and automated reports.**
-
-If you have **job-related** inquiries, please don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/nick-s-694241139/).
-
-**~** [_visit my website_](https://nickstambaugh.vercel.app/)
-
-## Dive Deeper 🤿
 <details>
 
 <summary><b>Top Projects 🥇 </b></summary>
@@ -163,6 +169,7 @@ qhfXtaR2I05GW/po8vxdkJOmQg485ksE
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=square&theme=dracula&border=true&quote=LeetCode%20doesn%E2%80%99t%20support%20Lua%3F%20Give%20me%20the%20source%20code%2C%20I%E2%80%99ll%20add%20it%20myself.)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </details>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
