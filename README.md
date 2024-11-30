@@ -173,5 +173,5 @@ qhfXtaR2I05GW/po8vxdkJOmQg485ksE
 </details>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&width=100&color=gradient&text=Sieep%20Coding&reversal=true&section=footer&fontAlign=50&fontAlignY=77&animation=twinkling"/>
 </p>
