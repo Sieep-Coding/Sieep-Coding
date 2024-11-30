@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=165&color=gradient&text=About%20Me&reversal=true&section=header&fontAlign=50&fontAlignY=44&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=About%20Me&reversal=false&section=header&fontAlign=50&fontAlignY=44&animation=twinkling"/>
 </p>
 
 **\>\_** I’m all about **TypeScript, Go, C/C++, Python, Lua,** and building cool things in **Neovim.** I enjoy working in **Linux (Debian/Mint)** environments. I have over **4 years** of experience using **SQL, PowerBI, and Tableau** at the enterprise level for **dashboards and automated reports.**
