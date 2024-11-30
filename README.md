@@ -4,9 +4,8 @@
 If you have **job-related** inquiries, please don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/nick-s-694241139/).
 
 **~** [_visit my website_](https://nickstambaugh.vercel.app/)
-
 <details>
-  <summary><h2>Dive Deeper 🤿</h2></summary>
+  <summary><h3>Dive Deeper 🤿</h3></summary>
   <br>
   <details>
  <summary><b>Socials and Contact 📨</b></summary>
