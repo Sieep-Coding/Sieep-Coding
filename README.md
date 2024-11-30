@@ -5,7 +5,7 @@ If you have **job-related** inquiries, please don't hesitate to connect with me 
 
 **~** [_visit my website_](https://nickstambaugh.vercel.app/)
 <details>
-  <summary><h3>Dive Deeper 🤿</h3></summary>
+  <summary><h4><b> Dive Deeper 🤿 </b></h4></summary>
   <br>
   <details>
  <summary><b>Socials and Contact 📨</b></summary>
