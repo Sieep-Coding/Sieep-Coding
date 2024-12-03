@@ -128,9 +128,6 @@ If you have **job-related** inquiries, please don't hesitate to connect with me 
   <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sieep-Coding&theme=dracula">
 </picture>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sieep-coding&theme=dracula)](https://git.io/streak-stats)
-
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieep-coding&show_icons=true&theme=dracula&hide=contribs,prs)
 
 [![roadmap.sh](https://roadmap.sh/card/tall/667b1494c19525099e698db6?variant=dark&roadmaps=sql%2Ccomputer-science%2Ccpp%2Cgolang)](https://roadmap.sh/u/nicks)
