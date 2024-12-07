@@ -4,26 +4,26 @@
 
 <h3><b>Hi, I am a Software Developer located in Michigan</b>.</h3>
 
-**~** I’m all about **TypeScript, Go, C/C++, Python, Lua,** and building cool things in **Neovim.** 
+**~** I’m all about **TypeScript, Go, C/C++, Python, Lua,** and building cool things with *Neovim.*
 
 **~** I enjoy working in **Linux (Debian/Mint)** environments. 
 
-**~** I have over **4 years** of experience using **SQL, PowerBI, and Tableau** at the enterprise level for **dashboards and automated reports.**
+**~** I have over *4 years of experience* using **SQL, PowerBI, and Tableau** at the enterprise level for **dashboards and automated reports.**
+
+**~** I have over *2 years of experience* building enterprise applications with **Node.js and PHP.**
 
 **\>\_** If you have **job-related** inquiries, please don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/nick-s-694241139/).
 
 [_visit my website_](https://nickstambaugh.vercel.app/)
-<details>
-  <summary><h4><b> Dive Deeper 🤿 </b></h4></summary>
-  <br>
-  <details>
- <summary><b>Socials and Contact 📨</b></summary>
- <br>
- 
-  <div align="center">
-  
- ![Sieep-Coding](https://socialify.git.ci/Sieep-Coding/Sieep-Coding/image?font=Source%20Code%20Pro&language=1&name=1&pattern=Charlie%20Brown&theme=Dark)
 
+<details>
+<summary><h4><b> Dive Deeper 🤿 </b></h4></summary>
+<details>
+<summary><b>Socials and Contact 📨</b></summary>
+<br>
+<div align="center">
+    
+![Sieep-Coding](https://socialify.git.ci/Sieep-Coding/Sieep-Coding/image?font=Source%20Code%20Pro&language=1&name=1&pattern=Charlie%20Brown&theme=Dark)
 ![](https://komarev.com/ghpvc/?username=alteryx-motives&color=orange&style=flat&base=6000&abbreviated=true) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
 
 [![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=About.me&logoColor=white)](https://nickstambaugh.vercel.app/)
@@ -36,19 +36,15 @@
 #### Contact Me:
 [![Email](https://img.shields.io/badge/Send_Me_An_Email-purple?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:nickstambaugh@proton.me)
 </div>
- 
 </details>
-
 <details>
-
 <summary><b>Top Projects 🥇 </b></summary>
 <br>
-
+  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=snow-simulation&theme=dracula)](https://github.com/Sieep-Coding/snow-simulation)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=todo-htmx-alpine-go&theme=dracula)](https://github.com/Sieep-Coding/todo-htmx-alpine-go)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=notezone&theme=dracula)](https://github.com/Sieep-Coding/notezone/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sieep-coding&repo=game-of-life-lua&theme=dracula)](https://github.com/Sieep-Coding/game-of-life-lua)
-
 </details>
 
 <details>
