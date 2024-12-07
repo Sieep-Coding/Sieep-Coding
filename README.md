@@ -2,7 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=About%20Me&reversal=false&section=header&fontAlign=50&fontAlignY=44&animation=twinkling"/>
 </p>
 
-<h3><b>Hi, I am a Software Developer located in Michigan</b>.</h3>
+<p align="center">
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+GitHub+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
+</p>
+
+<h3><b>I am a Software Developer located in Michigan</b>.</h3>
 
 **~** I’m all about **TypeScript, Go, C/C++, Python, Lua,** and building cool things with *Neovim.*
 
@@ -112,6 +116,8 @@
 <a href="https://github.com/Sieep-Coding">
     <img alt="Sieep-Coding's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sieep-Coding&theme=dracula&hide_border=true&area=true&area_color=c924b6">
   </a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=dracula&hide=HTML)
 
   <picture align="left">
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sieep-coding&theme=dracula&exclude=HTML">
