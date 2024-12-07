@@ -17,7 +17,7 @@
 [_visit my website_](https://nickstambaugh.vercel.app/)
 
 <details>
-<summary><h4><b> Dive Deeper 🤿 </b></h4></summary>
+<summary><h3><b> Dive Deeper 🤿 </b></h3></summary>
 <details>
 <summary><b>Socials and Contact 📨</b></summary>
 <br>
