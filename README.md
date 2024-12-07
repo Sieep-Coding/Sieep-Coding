@@ -129,9 +129,10 @@
   <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sieep-Coding&theme=dracula">
 </picture>
 
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieep-coding&show_icons=true&theme=dracula&hide=contribs,prs)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sieep-coding&theme=dracula&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sieep-coding&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sieep-coding&theme=dracula&utcOffset=8) 
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieep-coding&show_icons=true&theme=dracula&hide=contribs,prs)
 
 [![roadmap.sh](https://roadmap.sh/card/tall/667b1494c19525099e698db6?variant=dark&roadmaps=sql%2Ccomputer-science%2Ccpp%2Cgolang)](https://roadmap.sh/u/nicks)
 
