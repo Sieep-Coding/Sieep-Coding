@@ -114,14 +114,14 @@
   </a>
 
   <picture align="left">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sieep-coding&theme=dracula">
-    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sieep-coding&theme=dracula">
-    <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sieep-coding&theme=dracula">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sieep-coding&theme=dracula&exclude=HTML">
+    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sieep-coding&theme=dracula&exclude=HTML">
+    <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sieep-coding&theme=dracula&exclude=HTML">
   </picture>
   <picture align="right">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sieep-coding&theme=dracula">
-    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sieep-coding&theme=dracula">
-    <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sieep-coding&theme=dracula">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sieep-coding&theme=dracula&exclude=HTML">
+    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sieep-coding&theme=dracula&exclude=HTML">
+    <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sieep-coding&theme=dracula&exclude=HTML">
   </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sieep-coding&theme=dracula">
