@@ -107,7 +107,7 @@
 
 <details>
 <summary><b>Data Cards 📈 </b></summary>
-<be>
+<br>
 
 <a href="https://github.com/Sieep-Coding">
     <img alt="Sieep-Coding's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sieep-Coding&theme=dracula&hide_border=true&area=true&area_color=c924b6">
@@ -173,7 +173,6 @@ qhfXtaR2I05GW/po8vxdkJOmQg485ksE
 
 </details>
 </details>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&width=100&color=gradient&text=Sieep%20Coding&reversal=true&section=footer&fontAlign=50&fontAlignY=70&animation=twinkling&desc=C,%20Go,%20Lua,%20and%20Python&descAlign=50&descAlignY=90"/>
 </p>
