@@ -146,33 +146,6 @@
 </details>
 
 <details>
-<summary><b>Always down to chat ☕ </b></summary>
-<br>
-
-   ```
-📧 nickstambaugh@proton.me
-
-Fingerprint: 7dcc436b63f4a6c7a771b2d17eb9bfb7287e5a40
-
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-xjMEZsCWCxYJKwYBBAHaRw8BAQdA+04wVDSUEcmRGxqjxSH/xPICaSGiDnpq
-754l8ueKRE/NMW5pY2tzdGFtYmF1Z2hAcHJvdG9uLm1lIDxuaWNrc3RhbWJh
-dWdoQHByb3Rvbi5tZT7CjwQTFggAQQUCZsCWCwkQfrm/tyh+WkAWIQR9zENr
-Y/Smx6dxstF+ub+3KH5aQAIbAwIeAQIZAQMLCQcCFQgDFgACBScJAgcCAADA
-TgD9Hgl5oNI3Tw1uUEJSHXKY51z84tkQ/Y1it/6YY4p4lw0A/jRwJv0c1ZJS
-ODufpBiB8ywE8YnFVfXOKHuEdoQDQLQFzjgEZsCWCxIKKwYBBAGXVQEFAQEH
-QGrQYOb+/kt4nOHVDjbH6TOJyXccHhQNsOhGjnqRgaIkAwEKCcJ4BBgWCAAq
-BQJmwJYLCRB+ub+3KH5aQBYhBH3MQ2tj9KbHp3Gy0X65v7coflpAAhsMAAAM
-xwD+LRNaGutsoVoKVf+rLmBgAA3DSwsvAY8aJwDVV6gJjWQA/jgFrZz+qFEH
-qhfXtaR2I05GW/po8vxdkJOmQg485ksE
-=uykQ
-
------END PGP PUBLIC KEY BLOCK----
-   ```
-</details>
-
-<details>
  <summary><b>Extra</b> </summary>
  <br>
  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vvlos4gz23niyxpy34zuqkff6u&count=5">
