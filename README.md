@@ -7,9 +7,9 @@
 <div align="center">
 <h3><b>I am a Software Developer located in Michigan.</b></h3>
 
-**►** I have over 4 years of experience using SQL, PowerBI, and Tableau.
+**►** I have over **4 years of experience** using **SQL, PowerBI, and Tableau.**
 
-**►** I’m all about TypeScript, Go, C/C++, Python, and building cool things primarily in Neovim.
+**►** I’m all about **TypeScript, Go, C/C++, Python,** and building cool things primarily in **Neovim.**
 
 **►** I enjoy working in **Linux (Debian/Mint)** environments.
 
