@@ -19,6 +19,8 @@
 
 [_visit my website_](https://nickstambaugh.vercel.app/)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vvlos4gz23niyxpy34zuqkff6u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=a037c8&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <details>
 <summary><h3><b> Dive Deeper 🤿 </b></h3></summary>
 <details>
@@ -147,6 +149,7 @@
 <details>
  <summary><b>Extra</b> </summary>
  <br>
+  
  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vvlos4gz23niyxpy34zuqkff6u&count=5">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=square&theme=dracula&border=true&quote=LeetCode%20doesn%E2%80%99t%20support%20Lua%3F%20Give%20me%20the%20source%20code%2C%20I%E2%80%99ll%20add%20it%20myself.)](https://github.com/piyushsuthar/github-readme-quotes)
