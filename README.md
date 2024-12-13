@@ -5,6 +5,8 @@
   <a href="#"><img width="750px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=ffffff&size=22&center=true&lines=Hey+there!+👋;Thanks+for+visiting+my+profile+🙏;Glad+you+stopped+by+🙂;Check+out+my+projects+✨;Let’s+connect++🤝;Have+a+fantastic+day!+🌟"></a>
 </p>
 <div align="center">
+
+[_visit my website_](https://nickstambaugh.vercel.app/) // [_read my blog_](https://nickstambaugh.vercel.app/posts)
 <h3><b>I am a Software Developer located in Michigan.</b></h3>
 
 **►** I have over **4 years of experience** using **SQL, PowerBI, and Tableau.**
@@ -15,8 +17,6 @@
 
 **\>\_** If you have **job-related** inquiries, please don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/nick-s-694241139/).
 
-[_visit my website_](https://nickstambaugh.vercel.app/)
-
 <h3><b>Tech I Love 💻</b></h3>
 
 ![Linux Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -24,14 +24,16 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-86BE43?style=for-the-badge&logo=Linux-Mint&logoColor=white)
-
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+<h4><b>Now Playing On Spotify 🎵</b></h4>
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vvlos4gz23niyxpy34zuqkff6u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=a037c8&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 </div>
 
 <details>
