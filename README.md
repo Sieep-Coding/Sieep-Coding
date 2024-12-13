@@ -47,10 +47,10 @@
 ![](https://komarev.com/ghpvc/?username=alteryx-motives&color=orange&style=flat&base=6000&abbreviated=true) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
 
 [![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=About.me&logoColor=white)](https://nickstambaugh.vercel.app/)
+[![Blog](https://img.shields.io/badge/Blog-white?style=for-the-badge&logoColor=black)](https://nickstambaugh.vercel.app/posts)
 [![Resume](https://img.shields.io/badge/Resume-purple?style=for-the-badge&logo=ProtonDrive&logoColor=white)](https://github.com/Sieep-Coding/sieep-coding.github.io/blob/main/public/resume.pdf)
 [![Steam](https://img.shields.io/badge/steam-white?style=for-the-badge&logo=steam&logoColor=black)](https://steamcommunity.com/id/fieaoe98034512u5901)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
-[![Medium](https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@nick-stambaugh)
 [![Discord](https://img.shields.io/badge/Discord:sieep00-5865F2?style=for-the-badge&logo=Discord&logoColor=white)]()
 
 #### Contact Me:
