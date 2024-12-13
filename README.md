@@ -17,8 +17,6 @@
 
 [_visit my website_](https://nickstambaugh.vercel.app/)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vvlos4gz23niyxpy34zuqkff6u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=a037c8&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 <h3><b>Tech I Love 💻</b></h3>
 
 ![Linux Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -33,6 +31,7 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vvlos4gz23niyxpy34zuqkff6u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=a037c8&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
 <details>
