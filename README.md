@@ -15,7 +15,7 @@
 
 **►** I enjoy working in **Linux (Debian/Mint)** environments.
 
-**\>\_** If you have **job-related** inquiries, please don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/nick-s-694241139/).
+**\>\_** Connect with me on [LinkedIn](https://www.linkedin.com/in/nick-s-694241139/).
 
 <h3><b>Tech I Love 💻</b></h3>
 
