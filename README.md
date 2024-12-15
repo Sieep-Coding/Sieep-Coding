@@ -16,8 +16,11 @@
 **►** I enjoy working in **Linux (Debian/Mint)** environments.
 
 **\>\_** Connect with me on [LinkedIn](https://www.linkedin.com/in/nick-s-694241139/).
+</div>
 
-<h3><b>Tech I Love 💻</b></h3>
+<details>
+<summary><b> Dive Deeper 🤿</b></summary>
+  <h3><b>Tech I Love 💻</b></h3>
 
 ![Linux Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white)
@@ -29,10 +32,6 @@
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-</div>
-
-<details>
-<summary><h3><b> Dive Deeper 🤿 </b></h3></summary>
 <details>
 <summary><b>Socials and Contact 📨</b></summary>
 <br>
@@ -108,6 +107,8 @@
 <details>
 <summary><b>Data Cards 📈 </b></summary>
 <br>
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sieep-Coding&theme=dracula&hide_border=true)
 
 <a href="https://github.com/Sieep-Coding">
     <img alt="Sieep-Coding's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sieep-Coding&theme=dracula&hide_border=true&area=true&area_color=c924b6">
