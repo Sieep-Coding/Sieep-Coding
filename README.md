@@ -29,11 +29,6 @@
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-<h4><b>Now Playing On Spotify 🎵</b></h4>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vvlos4gz23niyxpy34zuqkff6u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
 </div>
 
 <details>
@@ -42,8 +37,7 @@
 <summary><b>Socials and Contact 📨</b></summary>
 <br>
 <div align="center">
-    
-![Sieep-Coding](https://socialify.git.ci/Sieep-Coding/Sieep-Coding/image?font=Source%20Code%20Pro&language=1&name=1&pattern=Charlie%20Brown&theme=Dark)
+  
 ![](https://komarev.com/ghpvc/?username=alteryx-motives&color=orange&style=flat&base=6000&abbreviated=true) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
 
 [![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=About.me&logoColor=white)](https://nickstambaugh.vercel.app/)
@@ -52,6 +46,10 @@
 [![Steam](https://img.shields.io/badge/steam-white?style=for-the-badge&logo=steam&logoColor=black)](https://steamcommunity.com/id/fieaoe98034512u5901)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
 [![Discord](https://img.shields.io/badge/Discord:sieep00-5865F2?style=for-the-badge&logo=Discord&logoColor=white)]()
+
+<h4><b>Now Playing On Spotify 🎵</b></h4>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vvlos4gz23niyxpy34zuqkff6u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 #### Contact Me:
 [![Email](https://img.shields.io/badge/Send_Me_An_Email-purple?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:nickstambaugh@proton.me)
@@ -146,7 +144,8 @@
 <details>
  <summary><b>Extra</b> </summary>
  <br>
-  
+
+  ![Sieep-Coding](https://socialify.git.ci/Sieep-Coding/Sieep-Coding/image?font=Source%20Code%20Pro&language=1&name=1&pattern=Charlie%20Brown&theme=Dark)
  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vvlos4gz23niyxpy34zuqkff6u&count=5">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=square&theme=dracula&border=true&quote=LeetCode%20doesn%E2%80%99t%20support%20Lua%3F%20Give%20me%20the%20source%20code%2C%20I%E2%80%99ll%20add%20it%20myself.)](https://github.com/piyushsuthar/github-readme-quotes)
