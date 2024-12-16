@@ -137,7 +137,7 @@
 
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieep-coding&show_icons=true&theme=dracula&hide=contribs,prs)
 
-[![roadmap.sh](https://roadmap.sh/card/tall/667b1494c19525099e698db6?variant=dark&roadmaps=sql%2Ccomputer-science%2Ccpp%2Cgolang)](https://roadmap.sh/u/nicks)
+[![roadmap.sh](https://roadmap.sh/card/tall/667b1494c19525099e698db6?variant=dark&roadmaps=aspnet-core%2Ccpp%2Cgolang%2Csql)](https://roadmap.sh/u/nicks)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sieep-coding?theme=dark)
 </details>
