@@ -114,7 +114,7 @@
     <img alt="Sieep-Coding's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sieep-Coding&theme=dracula&hide_border=true&area=true&area_color=c924b6">
   </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=dracula&hide=HTML&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=dracula&hide=HTML&langs_count=10)
 
   <picture align="left">
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sieep-coding&theme=dracula&exclude=HTML">
