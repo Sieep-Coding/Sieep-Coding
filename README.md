@@ -126,7 +126,7 @@
     <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sieep-coding&theme=dracula&exclude=HTML">
     <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sieep-coding&theme=dracula&exclude=HTML">
   </picture>
-<picture
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sieep-coding&theme=dracula">
   <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sieep-coding&theme=dracula">
   <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sieep-Coding&theme=dracula">
