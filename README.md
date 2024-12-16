@@ -108,7 +108,7 @@
 <summary><b>Data Cards 📈 </b></summary>
 <br>
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sieep-Coding&theme=dracula&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sieep-Coding&theme=dracula&border_radius=7)](https://git.io/streak-stats)
 
 <a href="https://github.com/Sieep-Coding">
     <img alt="Sieep-Coding's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sieep-Coding&theme=dracula&hide_border=true&area=true&area_color=c924b6">
