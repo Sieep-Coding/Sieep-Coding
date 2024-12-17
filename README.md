@@ -17,9 +17,6 @@
 
 **\>\_** Connect with me on [LinkedIn](https://www.linkedin.com/in/nick-s-694241139/).
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 </div>
 
 <details>
@@ -145,6 +142,12 @@
 [![roadmap.sh](https://roadmap.sh/card/tall/667b1494c19525099e698db6?variant=dark&roadmaps=aspnet-core%2Csql%2Ccpp%2Cgolang)](https://roadmap.sh/u/nicks)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sieep-coding?theme=dark)
+
+<figure><embed src="https://wakatime.com/share/@2156ce13-ae9d-4c0e-a543-89b2bddcd2f6/7f12234b-ffa2-4808-859a-e19b25b2bb35.svg"></embed></figure>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </details>
 
 <details>
