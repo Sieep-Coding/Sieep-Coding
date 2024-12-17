@@ -145,21 +145,7 @@
 
 <figure><embed src="https://wakatime.com/share/@2156ce13-ae9d-4c0e-a543-89b2bddcd2f6/7f12234b-ffa2-4808-859a-e19b25b2bb35.svg"></embed></figure>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SieepCoding)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--START_SECTION:waka-->
-```text
-From: 16 December 2024 - To: 17 December 2024
-Total Time: 1 hr 2 mins
-Markdown        9 mins          >>>>---------------------   14.56 %
-Lua             6 mins          >>>----------------------   11.02 %
-C#              6 mins          >>>----------------------   10.79 %
-Bash            4 mins          >>-----------------------   07.15 %
-gitignore       2 mins          >------------------------   03.56 %
-gitattributes   1 min           >------------------------   02.84 %
-Astro           0 secs          -------------------------   00.91 %
-```
-<!--END_SECTION:waka-->
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SieepCoding\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
