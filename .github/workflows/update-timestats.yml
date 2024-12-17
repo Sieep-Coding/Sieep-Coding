@@ -1,9 +1,8 @@
 name: wakatime-stats
 
 on:
-  workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: '30 14 * * *' # runs at every 12AM UTC
+    - cron: '0 12 * * *'
 
 jobs:
   update-readme:
