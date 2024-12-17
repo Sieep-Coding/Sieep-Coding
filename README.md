@@ -145,7 +145,7 @@
 
 <figure><embed src="https://wakatime.com/share/@2156ce13-ae9d-4c0e-a543-89b2bddcd2f6/7f12234b-ffa2-4808-859a-e19b25b2bb35.svg"></embed></figure>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sieep-Codin)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sieep-Coding)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ```text
