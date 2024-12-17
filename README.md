@@ -7,6 +7,7 @@
 <div align="center">
 
 [_visit my website_](https://nickstambaugh.vercel.app/) // [_read my blog_](https://nickstambaugh.vercel.app/posts)
+
 <h3><b>I am a Software Developer located in Michigan.</b></h3>
 
 **►** I have over **4 years of experience** using **SQL, PowerBI, and Tableau.**
@@ -36,12 +37,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
 </details>
 <details>
 <summary><b>Trophies 🏆</b></summary>
 <br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sieep-coding&theme=dracula&title=MultiLanguage,Commits,Repositories,Stars)
+
 <details>
 </details>
 <summary><b>Socials and Contact 📨</b></summary>
@@ -62,7 +65,9 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vvlos4gz23niyxpy34zuqkff6u&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 #### Contact Me:
+
 [![Email](https://img.shields.io/badge/Send_Me_An_Email-purple?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:nickstambaugh@proton.me)
+
 </div>
 </details>
 <details>
@@ -143,7 +148,6 @@
   <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sieep-Coding&theme=dracula">
 </picture>
 
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sieep-coding&theme=dracula&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sieep-coding&theme=dracula)
 
@@ -155,7 +159,7 @@
 
 <figure><embed src="https://wakatime.com/share/@2156ce13-ae9d-4c0e-a543-89b2bddcd2f6/7f12234b-ffa2-4808-859a-e19b25b2bb35.svg"></embed></figure>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SieepCoding\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SieepCoding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
@@ -163,8 +167,8 @@
  <summary><b>Extra</b> </summary>
  <br>
 
-  ![Sieep-Coding](https://socialify.git.ci/Sieep-Coding/Sieep-Coding/image?font=Source%20Code%20Pro&language=1&name=1&pattern=Charlie%20Brown&theme=Dark)
- <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vvlos4gz23niyxpy34zuqkff6u&count=5">
+![Sieep-Coding](https://socialify.git.ci/Sieep-Coding/Sieep-Coding/image?font=Source%20Code%20Pro&language=1&name=1&pattern=Charlie%20Brown&theme=Dark)
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31vvlos4gz23niyxpy34zuqkff6u&count=5">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=square&theme=dracula&border=true&quote=LeetCode%20doesn%E2%80%99t%20support%20Lua%3F%20Give%20me%20the%20source%20code%2C%20I%E2%80%99ll%20add%20it%20myself.)](https://github.com/piyushsuthar/github-readme-quotes)
 
