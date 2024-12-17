@@ -16,6 +16,10 @@
 **►** I enjoy working in **Linux (Debian/Mint)** environments.
 
 **\>\_** Connect with me on [LinkedIn](https://www.linkedin.com/in/nick-s-694241139/).
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </div>
 
 <details>
@@ -131,10 +135,6 @@
   <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sieep-coding&theme=dracula">
   <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sieep-Coding&theme=dracula">
 </picture>
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sieep-coding&theme=dracula&utcOffset=8)
