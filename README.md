@@ -21,7 +21,10 @@
 
 <details>
 <summary><b> Dive Deeper 🤿</b></summary>
-  <h3><b>Tech I Love 💻</b></h3>
+<br>
+<details>
+<summary><b>Tech I Love 💻</b></summary>
+<br>
 
 ![C#](https://img.shields.io/badge/.NET_and_C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Linux Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -33,7 +36,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+</details>
 <details>
+<summary><b>Trophies 🏆</b></summary>
+<br>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=sieep-coding&theme=dracula&title=MultiLanguage,Commits,Repositories,Stars)
+<details>
+</details>
 <summary><b>Socials and Contact 📨</b></summary>
 <br>
 <div align="center">
