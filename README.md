@@ -44,9 +44,8 @@
 <br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sieep-coding&theme=dracula&title=MultiLanguage,Commits,Repositories,Stars)
-
-<details>
 </details>
+<details>
 <summary><b>Socials and Contact 📨</b></summary>
 <br>
 <div align="center">
