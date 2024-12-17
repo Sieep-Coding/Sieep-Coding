@@ -132,6 +132,22 @@
   <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sieep-Coding&theme=dracula">
 </picture>
 
+
+<!--START_SECTION:waka-simple-->
+
+```text
+From: 16 July 2020 - To: 15 December 2024
+
+Total Time: 1,857 hrs 26 mins
+
+C++                690 hrs 24 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.17 %
+Go                 313 hrs 18 mins ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.87 %
+Python             251 hrs 15 mins ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.53 %
+C                  144 hrs 59 mins ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.81 %
+Bash               85 hrs 50 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.62 %
+YAML               83 hrs 42 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.51 %
+```
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sieep-coding&theme=dracula&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sieep-coding&theme=dracula)
 
