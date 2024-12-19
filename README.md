@@ -16,7 +16,7 @@
 
 **►** I enjoy working in **Linux (Debian/Mint)** environments.
 
-**\>\_** Connect with me on [LinkedIn](https://www.linkedin.com/in/nick-s-694241139/).
+**\>\_** Connect with me on [LinkedIn](https://www.linkedin.com/in/nick-s-694241139/) or follow me on [Bluesky](https://nickstambaugh.bsky.social).
 
 </div>
 
