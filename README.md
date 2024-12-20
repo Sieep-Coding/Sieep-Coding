@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=About%20Me&reversal=false&section=header&fontAlign=50&fontAlignY=44&animation=twinkling"/>
 </p>
 <p align="center">
-  <a href="#"><img width="750px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=ffffff&size=22&center=true&lines=Hey+there!+👋;Thanks+for+visiting+my+profile+🙏;Glad+you+stopped+by+🙂;Check+out+my+projects+✨;Let’s+connect++🤝;Have+a+fantastic+day!+🌟"></a>
+  <a href="#"><img width="750px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=ffffff&size=22&center=true&lines=Hey+there!+👋;Thanks+for+visiting+my+profile+🙏;Check+out+my+projects+✨;Let’s+connect++🤝;Have+a+fantastic+day!+🌟"></a>
 </p>
 <div align="center">
 
