@@ -7,7 +7,6 @@
 <div align="center">
 
 [_visit my website_](https://nickstambaugh.vercel.app/) // [_read my blog_](https://nickstambaugh.vercel.app/posts)
-
 <h3><b>I am a Software Developer located in Michigan.</b></h3>
 
 **►** I have over **4 years of experience** using **SQL, PowerBI, and Tableau.**
