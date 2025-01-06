@@ -1,13 +1,13 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=About%20Me&reversal=false&section=header&fontAlign=50&fontAlignY=44&animation=twinkling"/>
 </p>
 <p align="center">
   <a href="#"><img width="750px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=ffffff&size=22&center=true&lines=Hey+there!+👋;Thanks+for+visiting+my+profile+🙏;Check+out+my+projects+✨;Let’s+connect++🤝;Have+a+fantastic+day!+🌟"></a>
 </p>
-<div align="center">
+<div align="center"> -->
 
 [_visit my website_](https://nickstambaugh.vercel.app/) // [_read my blog_](https://nickstambaugh.vercel.app/posts)
-<h3><b>I am a Software Developer located in Michigan.</b></h3>
+<!-- <h3><b>I am a Software Developer located in Michigan.</b></h3>
 
 **►** I have over **4 years of experience** using **SQL, PowerBI, and Tableau.**
 
@@ -17,7 +17,7 @@
 
 **\>\_** Connect with me on [LinkedIn](https://www.linkedin.com/in/nick-s-694241139/)
 
-</div>
+</div> -->
 
 <details>
 <summary><b> Dive Deeper 🤿</b></summary>
@@ -172,6 +172,6 @@
 
 </details>
 </details>
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&width=100&color=gradient&text=Sieep%20Coding&reversal=true&section=footer&fontAlign=50&fontAlignY=70&animation=twinkling&desc=C,%20Go,%20Lua,%20and%20Python&descAlign=50&descAlignY=90"/>
-</p>
+</p> -->
