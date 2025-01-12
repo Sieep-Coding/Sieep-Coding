@@ -8,7 +8,6 @@
 
 ![](https://komarev.com/ghpvc/?username=alteryx-motives&color=orange&style=flat&base=6000&abbreviated=true) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
 
-
 [![Email](https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:nickstambaugh@proton.me)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
 
@@ -23,8 +22,8 @@
 
 **\>\_** Connect with me on [LinkedIn](https://www.linkedin.com/in/nick-s-694241139/)
 
-</div> -->
-<details>
+</div>
+<!-- <details>
 <summary><b> Dive Deeper 🤿</b></summary>
 <br>
 <details>
@@ -175,6 +174,6 @@
 
 </details>
 </details>
-<!-- <p align="center">
+ <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&width=100&color=gradient&text=Sieep%20Coding&reversal=true&section=footer&fontAlign=50&fontAlignY=70&animation=twinkling&desc=C,%20Go,%20Lua,%20and%20Python&descAlign=50&descAlignY=90"/>
 </p> -->
