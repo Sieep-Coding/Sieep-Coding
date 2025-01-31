@@ -6,6 +6,8 @@
 </p>
 <div align="center"> -->
 
+Boring enterprise dev.
+
 ![](https://komarev.com/ghpvc/?username=alteryx-motives&color=orange&style=flat&base=6000&abbreviated=true) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
 
 [![Email](https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:nickstambaugh@proton.me)
