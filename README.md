@@ -9,7 +9,7 @@
 [_website_](https://nickstambaugh.vercel.app/) // [_blog_](https://nickstambaugh.vercel.app/posts)
 
 <details>
-<summary>Stats</summary>
+<summary><b>Stats Since Jan. 1st</b></summary>
 <br>
   
 ![](https://wakatime.com/share/@SieepCoding/7fcb8d18-084e-4491-806f-694095899671.svg)
