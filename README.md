@@ -7,14 +7,3 @@
 
 
 [_website_](https://nickstambaugh.vercel.app/) // [_blog_](https://nickstambaugh.vercel.app/posts)
-
-<details>
-<summary><b>Stats Since Jan. 1st</b></summary>
-<br>
-  
-![](https://wakatime.com/share/@SieepCoding/7fcb8d18-084e-4491-806f-694095899671.svg)
-
-![](https://wakatime.com/share/@SieepCoding/25328d8a-cd85-4cdf-bac9-0f2e66d8d0b4.svg)
-
-![](https://wakatime.com/share/@SieepCoding/c5c3428d-788f-4253-a625-269a18e10e41.svg)
-</details>
