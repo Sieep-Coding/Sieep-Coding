@@ -7,8 +7,6 @@
 
 [_website_](https://nickstambaugh.vercel.app/) // [_blog_](https://nickstambaugh.vercel.app/posts)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieep-coding&layout=compact&theme=dracula&langs_count=10)
-
 # Projects 🔍
 
 | Projects             | Stars ⭐ | Language |
@@ -17,3 +15,12 @@
 | [Sample Todo app in Go/Htmx](https://github.com/Sieep-Coding/todo-htmx-alpine-go) | 11 | Go/Htmx |
 | [Electron note-taking app](https://github.com/Sieep-Coding/notezone)   | 5 | JavaScript |
 | [Game of Life in Lua](https://github.com/Sieep-Coding/game-of-life-lua)   | 4 | Lua |
+
+# Languages ⚡
+[![My Skills](https://skillicons.dev/icons?i=cs,go,typescript,python,c)](https://skillicons.dev)
+
+# Frameworks 🏚️
+[![My Skills](https://skillicons.dev/icons?i=dotnet,react,tailwindcss,bootstrap,nextjs,django&perline=3)](https://skillicons.dev)
+
+# Tools ⚙️
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,sqlite,cmake,debian,mint,linux,powershell,bash,neovim,jquery,htmx,vscode,windows,vercel&perline=7)](https://skillicons.dev)
