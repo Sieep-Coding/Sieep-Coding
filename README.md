@@ -19,7 +19,7 @@
 # Languages ⚡
 [![My Skills](https://skillicons.dev/icons?i=cs,go,typescript,python,c)](https://skillicons.dev)
 
-# Frameworks 🏚️
+# Frameworks 🏘
 [![My Skills](https://skillicons.dev/icons?i=dotnet,react,tailwindcss,bootstrap,nextjs,django&perline=3)](https://skillicons.dev)
 
 # Tools ⚙️
