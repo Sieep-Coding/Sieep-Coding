@@ -17,7 +17,7 @@
 | [Game of Life in Lua](https://github.com/Sieep-Coding/game-of-life-lua)   | 4 | Lua |
 
 # Languages ⚡
-[![My Skills](https://skillicons.dev/icons?i=cs,go,typescript,python,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,go,typescript,python,c,lua)](https://skillicons.dev)
 
 # Frameworks 🏘
 [![My Skills](https://skillicons.dev/icons?i=dotnet,react,tailwindcss,bootstrap,nextjs,django&perline=3)](https://skillicons.dev)
