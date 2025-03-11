@@ -13,17 +13,17 @@ jobs:
         uses: actions/checkout@v4
       - name: Fetch Latest Blog Posts
         run: |
-          curl -s https://nickstambaugh.vercel.app/rss.xml | \
-          grep -E "<title>|<link>|<pubDate>" | \
-          sed -e 's/<title>//g' -e 's/<\/title>//g' \
-              -e 's/<link>//g' -e 's/<\/link>//g' \
-              -e 's/<pubDate>//g' -e 's/<\/pubDate>//g' | \
-          paste - - - | \
-          sort -k3,3r | \
-          head -n 5 | \
-          awk -F '\t' '{print "| " $3 " | **[" $1 "](" $2 ")** |"}' > latest-posts.md
+          sudo apt-get update && sudo apt-get install -y jq
+          pip install yq
+
+          curl -s https://sieep-coding.github.io/rss.xml | \
+          xq -r '.rss.channel.item | 
+            map({title: .title, link: (.link // .guid | sub("\\s+"; ""; "g")), date: .pubDate}) | 
+            sort_by(.date) | reverse[:5] | 
+            map("| " + .date[:16] + " | **[" + .title + "](" + .link + ")** |") | join("\n")' > latest-posts.md
 
           awk '/<!-- BLOG-POST-LIST:START -->/{print; print content; found=1; next} /<!-- BLOG-POST-LIST:END -->/{found=0} !found' content="$(cat latest-posts.md)" README.md > README.tmp && mv README.tmp README.md
+
 
 
       - name: Commit and Push Changes
