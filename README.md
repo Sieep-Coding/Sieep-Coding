@@ -18,13 +18,11 @@
 
 # Blog
 <!-- BLOG-POST-LIST:START -->
-| Date             | Blog  |
------------------- |--------
-| Fri, 27 Dec 2024 | **[A Simple Bar-Chart Console App in TypeScript](https://sieep-coding.github.io/posts/ascii-chart/)** |
-| Mon, 15 Jan 2024 | **[Why I Choose Linux Mint](https://sieep-coding.github.io/posts/buffer_overflow/)** |
-| Sat, 14 Sep 2024 | **[Why I Love Go](https://sieep-coding.github.io/posts/go/)** |
+| Wed, 16 Oct 2024 | **[The Importance of Merit in the Workplace](https://sieep-coding.github.io/posts/merit/)** |
+| Thu, 24 Oct 2024 | **[Using TDD in Go: Gain Confidence Through Testing](https://sieep-coding.github.io/posts/tdd-in-go/)** |
+| Thu, 17 Oct 2024 | **[The Value of Makefiles in Modern Development](https://sieep-coding.github.io/posts/makefile/)** |
+| Thu, 12 Dec 2024 | **[Python to C#: The Path to Becoming a Software Developer](https://sieep-coding.github.io/posts/python_to_csharp/)** |
 | Sun, 22 Sep 2024 | **[Creating a Game of Life Simulation in Lua](https://sieep-coding.github.io/posts/gol_lua/)** |
-| Mon, 01 Jan 2024 | **[Essential Shortcuts for Business Productivity](https://sieep-coding.github.io/posts/heap_exploitation/)** |
 <!-- BLOG-POST-LIST:END -->
 
 # Languages ⚡
