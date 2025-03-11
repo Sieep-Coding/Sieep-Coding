@@ -7,12 +7,9 @@
 
 [_website_](https://nickstambaugh.vercel.app/) // [_blog_](https://nickstambaugh.vercel.app/posts)
 
-# Projects 🔍
-
-# Projects 🔍
-
-| Projects | Stars ⭐ | Language |
-| --- | --- | --- |
+# Projects
+<!-- PROJECT-LIST:START -->
+<!-- PROJECT-LIST:END -->
 
 
 | Projects             | Stars ⭐ | Language |
