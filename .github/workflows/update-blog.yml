@@ -18,11 +18,17 @@ jobs:
 
           curl -s https://sieep-coding.github.io/rss.xml | \
           xq -r '.rss.channel.item | 
-            map({title: .title, link: (.link // .guid | sub("\\s+"; ""; "g")), date: .pubDate}) | 
+            map({
+              title: .title, 
+              link: (.link // .guid | sub("\\s+"; ""; "g")), 
+              date: (.pubDate | strptime("%a, %d %b %Y %H:%M:%S GMT") | mktime)
+            }) | 
             sort_by(.date) | reverse[:5] | 
-            map("| " + .date[:16] + " | **[" + .title + "](" + .link + ")** |") | join("\n")' > latest-posts.md
+            map("| " + (.date | strftime("%a, %d %b %Y")) + " | **[" + .title + "](" + .link + ")** |") | 
+            join("\n")' > latest-posts.md
 
           awk '/<!-- BLOG-POST-LIST:START -->/{print; print content; found=1; next} /<!-- BLOG-POST-LIST:END -->/{found=0} !found' content="$(cat latest-posts.md)" README.md > README.tmp && mv README.tmp README.md
+
 
 
 
