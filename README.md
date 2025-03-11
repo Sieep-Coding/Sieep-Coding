@@ -16,6 +16,10 @@
 | [Electron note-taking app](https://github.com/Sieep-Coding/notezone)   | 5 | JavaScript |
 | [Game of Life in Lua](https://github.com/Sieep-Coding/game-of-life-lua)   | 4 | Lua |
 
+# Blog
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 # Languages ⚡
 [![My Skills](https://skillicons.dev/icons?i=cs,go,typescript,python,c,lua&perline=3)](https://skillicons.dev)
 
