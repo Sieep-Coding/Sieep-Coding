@@ -2,7 +2,7 @@ name: Update README with Latest Blog Posts
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
+    - cron: '0 * * * *'  
   workflow_dispatch:
 
 jobs:
@@ -14,7 +14,7 @@ jobs:
       - name: Fetch Latest Blog Posts
         run: |
           sudo apt-get update && sudo apt-get install -y jq
-          pip install yq  # Install yq to use xq (XML processor)
+          pip install yq
           
           curl -s https://nickstambaugh.vercel.app/rss.xml | \
           xq -r '.rss.channel.item[:5] | map("| " + .pubDate[:16] + " | **[" + .title + "](" + .link + ")** |") | join("\n")' > latest-posts.md
