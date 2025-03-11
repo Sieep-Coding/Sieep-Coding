@@ -18,6 +18,8 @@
 
 # Blog
 <!-- BLOG-POST-LIST:START -->
+| Date             | Blog  |
+------------------ |--------
 | Fri, 27 Dec 2024 | **[A Simple Bar-Chart Console App in TypeScript](https://sieep-coding.github.io/posts/ascii-chart/)** |
 | Mon, 15 Jan 2024 | **[Why I Choose Linux Mint](https://sieep-coding.github.io/posts/buffer_overflow/)** |
 | Sat, 14 Sep 2024 | **[Why I Love Go](https://sieep-coding.github.io/posts/go/)** |
