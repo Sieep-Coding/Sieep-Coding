@@ -3,7 +3,7 @@ name: Update README with Latest Blog Posts
 on:
   schedule:
     - cron: '0 * * * *'  # Runs every hour
-  workflow_dispatch:  # Allows manual execution
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -11,9 +11,11 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-
       - name: Fetch Latest Blog Posts
         run: |
+          sudo apt-get update && sudo apt-get install -y jq
+          pip install yq  # Install yq to use xq (XML processor)
+          
           curl -s https://nickstambaugh.vercel.app/rss.xml | \
           xq -r '.rss.channel.item[:5] | map("| " + .pubDate[:16] + " | **[" + .title + "](" + .link + ")** |") | join("\n")' > latest-posts.md
 
