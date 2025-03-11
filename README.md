@@ -9,6 +9,12 @@
 
 # Projects 🔍
 
+# Projects 🔍
+
+| Projects | Stars ⭐ | Language |
+| --- | --- | --- |
+
+
 | Projects             | Stars ⭐ | Language |
 | -------------------- | ------- | ----------- |
 | [Snow Simulation in C](https://github.com/Sieep-Coding/snow-simulation) | 15 | C |
