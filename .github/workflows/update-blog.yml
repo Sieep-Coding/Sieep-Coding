@@ -16,10 +16,13 @@ jobs:
         run: |
           curl -s https://nickstambaugh.vercel.app/rss.xml | \
           xq -r '.rss.channel.item[:5] | map("| " + .pubDate[:16] + " | **[" + .title + "](" + .link + ")** |") | join("\n")' > latest-posts.md
-          echo -e "<!-- BLOG-POST-LIST:START -->\n$(cat latest-posts.md)\n<!-- BLOG-POST-LIST:END -->" > README.md
+
+          awk '/<!-- BLOG-POST-LIST:START -->/{print; print content; found=1; next} /<!-- BLOG-POST-LIST:END -->/{found=0} !found' content="$(cat latest-posts.md)" README.md > README.tmp && mv README.tmp README.md
 
       - name: Commit and Push Changes
-        uses: actions-js/push@v1.3.0
-        with:
-          message: "Updated latest blog posts"
-          branch: main
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated latest blog posts" || exit 0  # Avoid error if no changes
+          git push
