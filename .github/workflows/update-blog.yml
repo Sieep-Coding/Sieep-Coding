@@ -27,9 +27,13 @@ jobs:
             map("| " + (.date | strftime("%a, %d %b %Y")) + " | **[" + .title + "](" + .link + ")** |") | 
             join("\n")' > latest-posts.md
 
-          echo -e "# Blog\n\n<!-- BLOG-POST-LIST:START -->\n| Date | Title |\n| --- | --- |" > README.tmp
+          # Extract everything before and after the BLOG-POST-LIST section
+          sed '/<!-- BLOG-POST-LIST:START -->/q' README.md > README.tmp
+          echo -e "\n<!-- BLOG-POST-LIST:START -->\n| Date | Title |\n| --- | --- |" >> README.tmp
           cat latest-posts.md >> README.tmp
           echo -e "\n<!-- BLOG-POST-LIST:END -->" >> README.tmp
+          tail -n +$(($(grep -n "<!-- BLOG-POST-LIST:END -->" README.md | cut -d: -f1) + 1)) README.md >> README.tmp
+          
           mv README.tmp README.md
 
 
