@@ -15,11 +15,12 @@ jobs:
         run: |
           sudo apt-get update && sudo apt-get install -y jq
           pip install yq
-          
+
           curl -s https://nickstambaugh.vercel.app/rss.xml | \
-          xq -r '.rss.channel.item[:5] | map("| " + .pubDate[:16] + " | **[" + .title + "](" + .link + ")** |") | join("\n")' > latest-posts.md
+          xq -r '.rss.channel.item | sort_by(.pubDate) | reverse[:5] | map("| " + .pubDate[:16] + " | **[" + .title + "](" + .link + ")** |") | join("\n")' > latest-posts.md
 
           awk '/<!-- BLOG-POST-LIST:START -->/{print; print content; found=1; next} /<!-- BLOG-POST-LIST:END -->/{found=0} !found' content="$(cat latest-posts.md)" README.md > README.tmp && mv README.tmp README.md
+
 
       - name: Commit and Push Changes
         run: |
