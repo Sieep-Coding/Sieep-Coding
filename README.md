@@ -18,6 +18,11 @@
 
 # Blog
 <!-- BLOG-POST-LIST:START -->
+| Fri, 27 Dec 2024 | **[A Simple Bar-Chart Console App in TypeScript](https://sieep-coding.github.io/posts/ascii-chart/)** |
+| Mon, 15 Jan 2024 | **[Why I Choose Linux Mint](https://sieep-coding.github.io/posts/buffer_overflow/)** |
+| Sat, 14 Sep 2024 | **[Why I Love Go](https://sieep-coding.github.io/posts/go/)** |
+| Sun, 22 Sep 2024 | **[Creating a Game of Life Simulation in Lua](https://sieep-coding.github.io/posts/gol_lua/)** |
+| Mon, 01 Jan 2024 | **[Essential Shortcuts for Business Productivity](https://sieep-coding.github.io/posts/heap_exploitation/)** |
 <!-- BLOG-POST-LIST:END -->
 
 # Languages ⚡
