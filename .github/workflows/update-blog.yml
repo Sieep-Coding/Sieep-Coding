@@ -23,7 +23,7 @@ jobs:
               link: (.link // .guid | sub("\\s+"; ""; "g")), 
               date: (.pubDate | strptime("%a, %d %b %Y %H:%M:%S GMT") | mktime)
             }) | 
-            sort_by(.date) | reverse[:5] | 
+            sort_by(.date) | reverse[:7] | 
             map("| " + (.date | strftime("%a, %d %b %Y")) + " | **[" + .title + "](" + .link + ")** |") | 
             join("\n")' > latest-posts.md
 
