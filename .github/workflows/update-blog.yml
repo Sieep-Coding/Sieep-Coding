@@ -27,7 +27,10 @@ jobs:
             map("| " + (.date | strftime("%a, %d %b %Y")) + " | **[" + .title + "](" + .link + ")** |") | 
             join("\n")' > latest-posts.md
 
-          awk '/<!-- BLOG-POST-LIST:START -->/{print; print content; found=1; next} /<!-- BLOG-POST-LIST:END -->/{found=0} !found' content="$(cat latest-posts.md)" README.md > README.tmp && mv README.tmp README.md
+          echo -e "# Blog\n\n<!-- BLOG-POST-LIST:START -->\n| Date | Title |\n| --- | --- |" > README.tmp
+          cat latest-posts.md >> README.tmp
+          echo -e "\n<!-- BLOG-POST-LIST:END -->" >> README.tmp
+          mv README.tmp README.md
 
 
 
