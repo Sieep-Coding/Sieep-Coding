@@ -19,13 +19,13 @@
 <!-- BLOG-POST-LIST:START -->
 | Date | Title |
 | --- | --- |
+| Thu, 13 Mar 2025 | **[Adding Music To My Raylib App](https://sieep-coding.github.io/posts/adding-song-raylib-app/)** |
 | Sat, 22 Feb 2025 | **[Why I Love Houston As A Michigander](https://sieep-coding.github.io/posts/houston/)** |
 | Sun, 19 Jan 2025 | **[What I've Learned about LINQ and MVC](https://sieep-coding.github.io/posts/linq-and-entity/)** |
 | Fri, 03 Jan 2025 | **[[PART 1] Creating A SQL-Like Language in C#](https://sieep-coding.github.io/posts/sql_fun_pt1/)** |
 | Fri, 27 Dec 2024 | **[A Simple Bar-Chart Console App in TypeScript](https://sieep-coding.github.io/posts/ascii-chart/)** |
 | Sat, 14 Dec 2024 | **[Why I Chose Astro for My Portfolio](https://sieep-coding.github.io/posts/why-astro/)** |
 | Sat, 14 Dec 2024 | **[A New (Unfinished) React Subscribe Component](https://sieep-coding.github.io/posts/subscribe-component/)** |
-| Fri, 13 Dec 2024 | **[Lessons Learned from Cleaning Up Code](https://sieep-coding.github.io/posts/refactor/)** |
 
 <!-- BLOG-POST-LIST:END -->
 
