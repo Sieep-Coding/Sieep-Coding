@@ -30,10 +30,10 @@
 <!-- BLOG-POST-LIST:END -->
 
 # Languages ⚡
-[![My Skills](https://skillicons.dev/icons?i=cs,go,typescript,python,c,lua&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,go,typescript,python,c,lua)](https://skillicons.dev)
 
 # Frameworks 🏘
-[![My Skills](https://skillicons.dev/icons?i=dotnet,react,tailwindcss,bootstrap,nextjs,django&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,react,tailwindcss,bootstrap,nextjs,django)](https://skillicons.dev)
 
 # Tools ⚙️
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,sqlite,cmake,debian,mint,linux,powershell,bash,neovim,jquery,htmx,vscode,windows,vercel&perline=7)](https://skillicons.dev)
