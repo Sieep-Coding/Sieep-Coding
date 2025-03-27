@@ -6,16 +6,16 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
 
 # Projects
-| Projects             | Stars ⭐ | Language |
-| -------------------- | ------- | ----------- |
+| Projects | Stars ⭐ | Language |
+| --- | --- | --- |
 | [Snow Simulation in C](https://github.com/Sieep-Coding/snow-simulation) | 15 | C |
 | [Sample Todo app in Go/Htmx](https://github.com/Sieep-Coding/todo-htmx-alpine-go) | 11 | Go/Htmx |
 | [Electron note-taking app](https://github.com/Sieep-Coding/notezone)   | 5 | JavaScript |
 | [Game of Life in Lua](https://github.com/Sieep-Coding/game-of-life-lua)   | 4 | Lua |
+| [AccessGR](https://github.com/Sieep-Coding/accessGR-site) | 3 | Astro |
+| [Web Crawler](https://github.com/Sieep-Coding/web-crawler) | 2 | Go |
 
 # Blog
-<!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:START -->
 | Date | Title |
 | --- | --- |
