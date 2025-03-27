@@ -17,6 +17,8 @@
 
 # Blog
 <!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:START -->
 | Date | Title |
 | --- | --- |
 | Thu, 13 Mar 2025 | **[Adding Music To My Raylib App](https://sieep-coding.github.io/posts/adding-song-raylib-app/)** |
