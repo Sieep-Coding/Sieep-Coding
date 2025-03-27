@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:nickstambaugh@proton.me)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
 
-# Projects
+# Most Popular Projects
 | Projects | Stars ⭐ | Language |
 | --- | --- | --- |
 | [Snow Simulation in C](https://github.com/Sieep-Coding/snow-simulation) | 15 | C |
