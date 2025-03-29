@@ -5,8 +5,6 @@
 [![Email](https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:nickstambaugh@proton.me)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
 
-[![Update README with Latest Blog Posts](https://github.com/Sieep-Coding/Sieep-Coding/actions/workflows/update-blog.yml/badge.svg)](https://github.com/Sieep-Coding/Sieep-Coding/actions/workflows/update-blog.yml)
-
 # Most Popular Projects
 | Projects | Stars ⭐ | Language |
 | --- | --- | --- |
@@ -18,6 +16,7 @@
 | [Web Crawler](https://github.com/Sieep-Coding/web-crawler) | 2 | Go |
 
 # Blog
+[![Update README with Latest Blog Posts](https://github.com/Sieep-Coding/Sieep-Coding/actions/workflows/update-blog.yml/badge.svg)](https://github.com/Sieep-Coding/Sieep-Coding/actions/workflows/update-blog.yml)
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:START -->
