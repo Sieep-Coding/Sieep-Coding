@@ -1,3 +1,6 @@
+# Hello! 👋
+I am a full-stack software engineer specializing in creating enterprise software, data analytics/business intelligence, and building software architecture.
+
 [![wakatime](https://wakatime.com/badge/user/2156ce13-ae9d-4c0e-a543-89b2bddcd2f6.svg?style=flat-square)](https://wakatime.com/@2156ce13-ae9d-4c0e-a543-89b2bddcd2f6)
 [![github](https://img.shields.io/github/followers/sieep-coding?logo=github&style=flat-square)](https://github.com/sieep-coding?tab=followers)
 ![](https://komarev.com/ghpvc/?username=alteryx-motives&color=orange&style=flat-square&base=6000) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
