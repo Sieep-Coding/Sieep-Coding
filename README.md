@@ -39,7 +39,7 @@ I am a full-stack software engineer specializing in creating enterprise software
 [![My Skills](https://skillicons.dev/icons?i=cs,go,typescript,python,c,lua)](https://skillicons.dev)
 
 # Frameworks 🏘
-[![My Skills](https://skillicons.dev/icons?i=dotnet,react,tailwindcss,bootstrap,nextjs,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,react,tailwindcss,bootstrap,astro)](https://skillicons.dev)
 
 # Tools ⚙️
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,sqlite,cmake,debian,mint,linux,powershell,bash,neovim,jquery,htmx,vscode,windows,vercel&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,sqlite,cmake,debian,mint,linux,powershell,bash,neovim,jquery,htmx,vscode,windows,vercel)](https://skillicons.dev)
