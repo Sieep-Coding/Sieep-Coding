@@ -17,6 +17,7 @@ I am a full-stack software engineer specializing in creating enterprise software
 | [Game of Life in Lua](https://github.com/Sieep-Coding/game-of-life-lua)   | 4 | Lua |
 | [AccessGR](https://github.com/Sieep-Coding/accessGR-site) | 3 | Astro |
 | [Web Crawler](https://github.com/Sieep-Coding/web-crawler) | 2 | Go |
+| [Chat Server](https://github.com/Sieep-Coding/chatserver) | 2 | Go |
 
 # Blog
 <!-- BLOG-POST-LIST:START -->
