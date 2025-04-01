@@ -43,3 +43,5 @@ I am a full-stack software engineer specializing in creating enterprise software
 
 # Tools ⚙️
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,sqlite,cmake,debian,mint,linux,powershell,bash,neovim,jquery,htmx,vscode,windows,vercel)](https://skillicons.dev)
+
+![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
