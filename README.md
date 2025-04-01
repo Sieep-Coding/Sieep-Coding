@@ -19,7 +19,6 @@ I am a full-stack software engineer specializing in creating enterprise software
 | [Web Crawler](https://github.com/Sieep-Coding/web-crawler) | 2 | Go |
 
 # Blog
-[![Update README with Latest Blog Posts](https://github.com/Sieep-Coding/Sieep-Coding/actions/workflows/update-blog.yml/badge.svg)](https://github.com/Sieep-Coding/Sieep-Coding/actions/workflows/update-blog.yml)
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:START -->
@@ -34,6 +33,8 @@ I am a full-stack software engineer specializing in creating enterprise software
 | Fri, 27 Dec 2024 | **[A Simple Bar-Chart Console App in TypeScript](https://sieep-coding.github.io/posts/ascii-chart/)** |
 
 <!-- BLOG-POST-LIST:END -->
+
+[![Update README with Latest Blog Posts](https://github.com/Sieep-Coding/Sieep-Coding/actions/workflows/update-blog.yml/badge.svg)](https://github.com/Sieep-Coding/Sieep-Coding/actions/workflows/update-blog.yml)
 
 # Languages ⚡
 [![My Skills](https://skillicons.dev/icons?i=cs,go,typescript,python,c,lua)](https://skillicons.dev)
