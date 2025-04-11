@@ -1,7 +1,5 @@
 ![nickstambaugh.vercel.app](Sieep-Coding.png)
-## About Me
-I am a full-stack software engineer from Michigan doing enterprise development.
-
+#### About Me
 [![wakatime](https://wakatime.com/badge/user/2156ce13-ae9d-4c0e-a543-89b2bddcd2f6.svg?style=flat-square)](https://wakatime.com/@2156ce13-ae9d-4c0e-a543-89b2bddcd2f6)
 [![github](https://img.shields.io/github/followers/sieep-coding?logo=github&style=flat-square)](https://github.com/sieep-coding?tab=followers)
 ![](https://komarev.com/ghpvc/?username=alteryx-motives&color=orange&style=flat-square&base=6000) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
@@ -9,7 +7,7 @@ I am a full-stack software engineer from Michigan doing enterprise development.
 [![Email](https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:nickstambaugh@proton.me)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
 
-## Most Popular Projects
+#### Most Popular Projects
 | Projects | Stars ⭐ | Language |
 | --- | --- | --- |
 | [Snow Simulation in C](https://github.com/Sieep-Coding/snow-simulation) | 16 | C |
@@ -20,7 +18,7 @@ I am a full-stack software engineer from Michigan doing enterprise development.
 | [Web Crawler](https://github.com/Sieep-Coding/web-crawler) | 2 | Go |
 | [Chat Server](https://github.com/Sieep-Coding/chatserver) | 2 | Go |
 
-## Blog
+#### Blog
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:START -->
@@ -38,11 +36,11 @@ I am a full-stack software engineer from Michigan doing enterprise development.
 
 [![Update README with Latest Blog Posts](https://github.com/Sieep-Coding/Sieep-Coding/actions/workflows/update-blog.yml/badge.svg)](https://github.com/Sieep-Coding/Sieep-Coding/actions/workflows/update-blog.yml)
 
-### Languages ⚡
+#### Languages ⚡
 [![My Skills](https://skillicons.dev/icons?i=cs,go,typescript,python,c,lua)](https://skillicons.dev)
 
-### Frameworks 🏘
+#### Frameworks 🏘
 [![My Skills](https://skillicons.dev/icons?i=dotnet,react,tailwindcss,bootstrap,astro)](https://skillicons.dev)
 
-### Tools ⚙️
+#### Tools ⚙️
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,mint,debian,sqlite,linux,powershell,bash,neovim,vercel)](https://skillicons.dev)
