@@ -1,7 +1,6 @@
-![PNG](Sieep-Coding.png)
-
+![nickstambaugh.vercel.app](Sieep-Coding.png)
 ## About Me
-I am a full-stack software engineer specializing in creating enterprise software, data analytics/business intelligence, and building software architecture.
+I am a full-stack software engineer from Michigan doing enterprise development.
 
 [![wakatime](https://wakatime.com/badge/user/2156ce13-ae9d-4c0e-a543-89b2bddcd2f6.svg?style=flat-square)](https://wakatime.com/@2156ce13-ae9d-4c0e-a543-89b2bddcd2f6)
 [![github](https://img.shields.io/github/followers/sieep-coding?logo=github&style=flat-square)](https://github.com/sieep-coding?tab=followers)
@@ -46,4 +45,4 @@ I am a full-stack software engineer specializing in creating enterprise software
 [![My Skills](https://skillicons.dev/icons?i=dotnet,react,tailwindcss,bootstrap,astro)](https://skillicons.dev)
 
 ### Tools ⚙️
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,mint,debian,sqlite,cmake,linux,powershell,bash,neovim,htmx,vscode,windows,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,mint,debian,sqlite,linux,powershell,bash,neovim,vercel)](https://skillicons.dev)
