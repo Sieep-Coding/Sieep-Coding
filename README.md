@@ -1,3 +1,5 @@
+![PNG](Sieep-Coding.png)
+
 ## About Me
 I am a full-stack software engineer specializing in creating enterprise software, data analytics/business intelligence, and building software architecture.
 
