@@ -10,7 +10,7 @@
 ### Most Popular Projects
 | Projects | Stars ⭐ | Language |
 | --- | --- | --- |
-| [Snow Simulation in C](https://github.com/Sieep-Coding/snow-simulation) | 16 | C |
+| [Snow Simulation in C](https://github.com/Sieep-Coding/snow-simulation) | 17 | C |
 | [Sample Todo app in Go/Htmx](https://github.com/Sieep-Coding/todo-htmx-alpine-go) | 11 | Go |
 | [Electron note-taking app](https://github.com/Sieep-Coding/notezone)   | 5 | JavaScript |
 | [Game of Life in Lua](https://github.com/Sieep-Coding/game-of-life-lua)   | 4 | Lua |
