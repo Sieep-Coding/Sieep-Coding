@@ -4,8 +4,6 @@
 [![github](https://img.shields.io/github/followers/sieep-coding?logo=github&style=flat-square)](https://github.com/sieep-coding?tab=followers)
 ![](https://komarev.com/ghpvc/?username=alteryx-motives&color=orange&style=flat-square&base=6000) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
 
-![topson](https://steam-stat.vercel.app/api?profileName=fieaoe98034512u5901)
-
 #### Query Me
 [![Email](https://img.shields.io/badge/Email_Me-purple?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:nickstambaugh@proton.me)
 
