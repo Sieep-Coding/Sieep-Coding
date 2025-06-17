@@ -1,16 +1,15 @@
 ![nickstambaugh.vercel.app](Sieep-Coding.png)
-### About Me
+
 [![wakatime](https://wakatime.com/badge/user/2156ce13-ae9d-4c0e-a543-89b2bddcd2f6.svg?style=flat-square)](https://wakatime.com/@2156ce13-ae9d-4c0e-a543-89b2bddcd2f6)
 [![github](https://img.shields.io/github/followers/sieep-coding?logo=github&style=flat-square)](https://github.com/sieep-coding?tab=followers)
 ![](https://komarev.com/ghpvc/?username=alteryx-motives&color=orange&style=flat-square&base=6000) <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
 
-#### Query Me
 [![Email](https://img.shields.io/badge/Email_Me-purple?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:nickstambaugh@proton.me)
 
-### Most Popular Projects
+### Popular Projects
 | Projects | Stars ⭐ | Language |
 | --- | --- | --- |
-| [Snow Simulation in C](https://github.com/Sieep-Coding/snow-simulation) | 17 | C |
+| [Snow Simulation in C](https://github.com/Sieep-Coding/snow-simulation) | 16 | C |
 | [Sample Todo app in Go/Htmx](https://github.com/Sieep-Coding/todo-htmx-alpine-go) | 11 | Go |
 | [Electron note-taking app](https://github.com/Sieep-Coding/notezone)   | 5 | JavaScript |
 | [Game of Life in Lua](https://github.com/Sieep-Coding/game-of-life-lua)   | 4 | Lua |
