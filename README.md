@@ -6,10 +6,21 @@
 <a href="https://monkeytype.com/profile/sieep-coding" target="_blank"><img src="https://img.shields.io/badge/⌨️_Average_WPM-78+-darkgreen?&logo=keyboard&logoColor=white" alt="Typing Speed"/></a>
 <img src="https://img.shields.io/github/stars/sieep-coding?label=Stars" alt="stars">
 
-
 [![Email](https://img.shields.io/badge/Email_Me-purple?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:nickstambaugh@proton.me)
 
+### Sample Work
+
+These are snippets of code from professional work I've done.
+
+| Projects | Language |
+| --- | --- |
+| [Document Version Control for Enterprise](https://gist.github.com/Sieep-Coding/6692c1a888deae917d80de6b085ad7d9) | C#, JavaScript |
+| [Generic Notification System](https://gist.github.com/Sieep-Coding/ea637b985b1641c3f9f7bd4eef339ed4) | C# |
+
 ### Popular Projects
+
+My top open-source projects on Github.
+
 | Projects | Stars ⭐ | Language |
 | --- | --- | --- |
 | [Snow Simulation in C](https://github.com/Sieep-Coding/snow-simulation) | 16 | C |
@@ -21,6 +32,7 @@
 | [Chat Server](https://github.com/Sieep-Coding/chatserver) | 2 | Go |
 
 ### Blog
+View my latest blog post.
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:START -->
