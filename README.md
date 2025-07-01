@@ -9,9 +9,9 @@
 [![Email](https://img.shields.io/badge/Email_Me-purple?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:nickstambaugh@proton.me)
 
 ### Sample Work
+Snippets of code from professional work I've done.
 
-These are snippets of code from professional work I've done.
-
+These are **NOT** full projects.
 | Projects | Language |
 | --- | --- |
 | [Document Version Control for Enterprise](https://gist.github.com/Sieep-Coding/6692c1a888deae917d80de6b085ad7d9) | C#, JavaScript |
@@ -20,7 +20,7 @@ These are snippets of code from professional work I've done.
 
 ### Popular Projects
 
-My top open-source projects on Github.
+My top **open-source projects** on Github.
 
 | Projects | Stars ⭐ | Language |
 | --- | --- | --- |
@@ -33,7 +33,7 @@ My top open-source projects on Github.
 | [Chat Server](https://github.com/Sieep-Coding/chatserver) | 2 | Go |
 
 ### Blog
-View my latest blog post.
+View my latest **blog** post.
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:START -->
