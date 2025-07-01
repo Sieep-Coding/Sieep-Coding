@@ -16,6 +16,7 @@ These are snippets of code from professional work I've done.
 | --- | --- |
 | [Document Version Control for Enterprise](https://gist.github.com/Sieep-Coding/6692c1a888deae917d80de6b085ad7d9) | C#, JavaScript |
 | [Generic Notification System](https://gist.github.com/Sieep-Coding/ea637b985b1641c3f9f7bd4eef339ed4) | C# |
+| [Inventory Specification Sheet](https://gist.github.com/Sieep-Coding/53986ffc008e2dca96c524a3fed7e837) | C#, JavaScript |
 
 ### Popular Projects
 
