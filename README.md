@@ -30,8 +30,9 @@ My top **open-source projects** on Github.
 | [Electron note-taking app](https://github.com/Sieep-Coding/notezone)   | 5 | JavaScript |
 | [Game of Life in Lua](https://github.com/Sieep-Coding/game-of-life-lua)   | 4 | Lua |
 | [AccessGR](https://github.com/Sieep-Coding/accessGR-site) | 3 | Astro |
+| [Chat Server in C#](https://github.com/Sieep-Coding/simple-chat-csharp/)  | 2 | C# |
 | [Web Crawler](https://github.com/Sieep-Coding/web-crawler) | 2 | Go |
-| [Chat Server](https://github.com/Sieep-Coding/chatserver) | 2 | Go |
+| [Chat Server in Go](https://github.com/Sieep-Coding/chatserver) | 2 | Go |
 
 ### Blog
 View my latest **blog** post.
