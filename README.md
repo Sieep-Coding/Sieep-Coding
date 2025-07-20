@@ -63,3 +63,15 @@ View my latest **blog** post.
 
 #### Tools ⚙️
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,mint,debian,sqlite,linux,powershell,bash,neovim,vercel)](https://skillicons.dev)
+
+--->
+<details>
+<summary>Peripherals</summary>
+<br>
+  
+| Type | Device | Link |
+| --- | --- | --- |
+| **Keyboard** | **Logitech G715** | **https://www.logitechg.com/en-us/products/gaming-keyboards/g715-tkl-mechanical-wireless-keyboard.html** |
+| **Mouse** | **Razer DeathAdder V3 Pro** | **https://www.razer.com/gaming-mice/razer-deathadder-v3-pro** |
+  
+</details>
