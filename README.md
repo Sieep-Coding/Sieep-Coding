@@ -27,7 +27,7 @@ My top **open-source projects** on Github.
 | --- | --- | --- |
 | **[Snow Simulation in C](https://github.com/Sieep-Coding/snow-simulation)** | **17** | **C** |
 | **[Sample Todo app in Go/Htmx](https://github.com/Sieep-Coding/todo-htmx-alpine-go)** | **11** | **Go** |
-| **[Chat Server in C#](https://github.com/Sieep-Coding/simple-chat-csharp/)**  | **5** | **C#** |
+| **[Chat Server in C#](https://github.com/Sieep-Coding/simple-chat-csharp/)**  | **6** | **C#** |
 | **[Electron note-taking app](https://github.com/Sieep-Coding/notezone)**   | **5** | **JavaScript** |
 | **[Game of Life in Lua](https://github.com/Sieep-Coding/game-of-life-lua)**   | **4** | **Lua** |
 | **[AccessGR](https://github.com/Sieep-Coding/accessGR-site)**| **3** | **Astro** |
