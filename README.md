@@ -69,9 +69,9 @@ View my latest **blog** post.
 <summary>Peripherals</summary>
 <br>
   
-| Type | Device | Link |
-| --- | --- | --- |
-| **Keyboard** | **Logitech G715** | **https://www.logitechg.com/en-us/products/gaming-keyboards/g715-tkl-mechanical-wireless-keyboard.html** |
-| **Mouse** | **Razer DeathAdder V3 Pro** | **https://www.razer.com/gaming-mice/razer-deathadder-v3-pro** |
+| Type | Device | Link | Color |
+| --- | --- | --- | --- |
+| **Keyboard** | **Logitech G715** | **https://www.logitechg.com/en-us/products/gaming-keyboards/g715-tkl-mechanical-wireless-keyboard.html** | White |
+| **Mouse** | **Razer DeathAdder V3 Pro** | **https://www.razer.com/gaming-mice/razer-deathadder-v3-pro** | White |
   
 </details>
