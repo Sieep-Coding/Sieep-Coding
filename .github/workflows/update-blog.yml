@@ -16,7 +16,7 @@ jobs:
           sudo apt-get update && sudo apt-get install -y jq
           pip install yq
 
-          curl -s https://sieep-coding.github.io/rss.xml | \
+          curl -s https://nickstambaugh.dev/rss.xml | \
           xq -r '.rss.channel.item | 
             map({
               title: .title, 
