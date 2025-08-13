@@ -1,3 +1,8 @@
+> [!WARNING]  
+> I am not active here due to [recent changes in the GitHub corporate structure](https://www.tomshardware.com/software/programming/github-folds-into-microsoft-following-ceo-resignation-once-independent-programming-site-now-part-of-coreai-team).
+> 
+> I am now using [GitLab](https://gitlab.com/Sieep-Coding).
+
 ![nickstambaugh.vercel.app](Sieep-Coding.png)
 
 [![wakatime](https://wakatime.com/badge/user/2156ce13-ae9d-4c0e-a543-89b2bddcd2f6.svg?style=flat-square)](https://wakatime.com/@2156ce13-ae9d-4c0e-a543-89b2bddcd2f6)
@@ -21,7 +26,7 @@ These are **NOT** full projects.
 -->
 ### Popular Projects
 
-My top **open-source projects** on Github.
+My top **open-source projects** on GitHub.
 
 | Projects | Stars ⭐ | Language |
 | --- | --- | --- |
