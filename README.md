@@ -46,13 +46,13 @@ View my latest **blog** post.
 <!-- BLOG-POST-LIST:START -->
 | Date | Title |
 | --- | --- |
+| Sat, 27 Sep 2025 | **[Impressions of CachyOS](https://sieep-coding.github.io/posts/cachyos-impressions/)** |
 | Wed, 16 Jul 2025 | **[AI: Bullshit-As-A-Service](https://sieep-coding.github.io/posts/bullshit-as-a-service/)** |
 | Sun, 13 Jul 2025 | **['Utility First' Thinking in JavaScript](https://sieep-coding.github.io/posts/luniv-strings/)** |
 | Sun, 20 Apr 2025 | **[LINQ and Learning To Be Declarative](https://sieep-coding.github.io/posts/LINQ-and-being-declarative/)** |
 | Mon, 31 Mar 2025 | **[Thoughts on Pop!_OS](https://sieep-coding.github.io/posts/pop-os-is-a-great-os/)** |
 | Wed, 19 Mar 2025 | **[Why Micromanagement Kills Innovation](https://sieep-coding.github.io/posts/Why-Micromanagement-Kills-Innovation/)** |
 | Thu, 13 Mar 2025 | **[Adding Music To My Raylib App](https://sieep-coding.github.io/posts/adding-song-raylib-app/)** |
-| Sat, 22 Feb 2025 | **[Why I Love Houston As A Michigander](https://sieep-coding.github.io/posts/houston/)** |
 
 <!-- BLOG-POST-LIST:END -->
 
