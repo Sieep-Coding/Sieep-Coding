@@ -74,7 +74,7 @@ View my latest **blog** post.
   
 | Type | Device | Link | Color |
 | --- | --- | --- | --- |
-| **Keyboard (Gaming / Programming)** | **Logitech G715** | **https://www.logitechg.com/en-us/products/gaming-keyboards/g715-tkl-mechanical-wireless-keyboard.html** | White |
+| **Keyboard (Gaming)** | **Logitech G715** | **https://www.logitechg.com/en-us/products/gaming-keyboards/g715-tkl-mechanical-wireless-keyboard.html** | White |
 | **Keyboard (Programming)** | **Royal Kludge RK61** | **https://rkgamingstore.com/products/rk61-60-percent-keyboard** | Black |
 | **Mouse** | **Razer DeathAdder V3 Pro** | **https://www.razer.com/gaming-mice/razer-deathadder-v3-pro** | White |
 | **Headphones** | **Beats Studio<sup>3</sup>** | **https://www.amazon.com/Beats-Studio3-Wireless-Over%E2%80%91Ear-Headphones/dp/B085296FLT** | Black and Gold |
