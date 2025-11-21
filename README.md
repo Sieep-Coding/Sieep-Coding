@@ -1,5 +1,7 @@
 > [!NOTE]  
-> Founder of [luniv.tech](https://luniv.tech) and [michigan-pulse.com](https://michigan-pulse) <sup>btw i use arch linux</sup>
+> Software Engineer @ [luniv.tech](https://luniv.tech) and [michigan-pulse.com](https://michigan-pulse.com) <sup>btw i use arch linux</sup>
+>
+> [personal blog](https://nickstambaugh.dev)
 
 ![nickstambaugh.dev](Sieep-Coding.png)
 
