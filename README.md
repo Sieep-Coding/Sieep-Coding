@@ -47,13 +47,13 @@ View my latest **blog** post.
 <!-- BLOG-POST-LIST:START -->
 | Date | Title |
 | --- | --- |
+| Wed, 19 Nov 2025 | **[Forget About FAANG - By The Numbers](https://nickstambaugh.dev/posts/forget-about-faang/)** |
 | Tue, 18 Nov 2025 | **[Astro/JS Randomized Banner Icons](https://nickstambaugh.dev/posts/random-banner-icons/)** |
 | Mon, 17 Nov 2025 | **[Luniv Site Update v1.3](https://nickstambaugh.dev/posts/luniv-site-update/)** |
 | Sat, 27 Sep 2025 | **[Impressions of CachyOS](https://nickstambaugh.dev/posts/cachyos-impressions/)** |
 | Wed, 16 Jul 2025 | **[AI: Bullshit-As-A-Service](https://nickstambaugh.dev/posts/bullshit-as-a-service/)** |
 | Sun, 13 Jul 2025 | **['Utility First' Thinking in JavaScript](https://nickstambaugh.dev/posts/luniv-strings/)** |
 | Sun, 20 Apr 2025 | **[LINQ and Learning To Be Declarative](https://nickstambaugh.dev/posts/LINQ-and-being-declarative/)** |
-| Mon, 31 Mar 2025 | **[Thoughts on Pop!_OS](https://nickstambaugh.dev/posts/pop-os-is-a-great-os/)** |
 
 <!-- BLOG-POST-LIST:END -->
 
