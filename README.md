@@ -1,5 +1,5 @@
 > [!NOTE]  
-> Founder of [luniv.tech](https://luniv.tech) and [michigan-pulse.com](https://michigan-pulse)
+> Founder of [luniv.tech](https://luniv.tech) and [michigan-pulse.com](https://michigan-pulse) <sup>btw i use arch linux</sup>
 
 ![nickstambaugh.dev](Sieep-Coding.png)
 
@@ -23,7 +23,7 @@ These are **NOT** full projects.
 | [Inventory Specification Sheet](https://gist.github.com/Sieep-Coding/53986ffc008e2dca96c524a3fed7e837) | C#, JavaScript |
 -->
 #### Languages
-[![My Skills](https://skillicons.dev/icons?i=cs,go,elixir,lua,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,cs,go,elixir,lua,javascript)](https://skillicons.dev)
 
 ### Popular Projects
 
@@ -77,5 +77,6 @@ View my latest **blog** post.
 | **Keyboard (Gaming / Programming)** | **Logitech G715** | **https://www.logitechg.com/en-us/products/gaming-keyboards/g715-tkl-mechanical-wireless-keyboard.html** | White |
 | **Keyboard (Programming)** | **Royal Kludge RK61** | **https://rkgamingstore.com/products/rk61-60-percent-keyboard** | Black |
 | **Mouse** | **Razer DeathAdder V3 Pro** | **https://www.razer.com/gaming-mice/razer-deathadder-v3-pro** | White |
+| **Headphones** | **Beats Studio<sup>3</sup>** | **https://www.amazon.com/Beats-Studio3-Wireless-Over%E2%80%91Ear-Headphones/dp/B085296FLT** | Black and Gold |
   
 </details>
