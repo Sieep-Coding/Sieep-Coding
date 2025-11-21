@@ -1,9 +1,7 @@
-> [!WARNING]  
-> I am not active here due to [recent changes in the GitHub corporate structure](https://www.tomshardware.com/software/programming/github-folds-into-microsoft-following-ceo-resignation-once-independent-programming-site-now-part-of-coreai-team).
-> 
-> I am now using [GitLab](https://gitlab.com/Sieep-Coding).
+> [!NOTE]  
+> Founder of [luniv.tech](https://luniv.tech) and [michigan-pulse.com](https://michigan-pulse)
 
-![nickstambaugh.vercel.app](Sieep-Coding.png)
+![nickstambaugh.dev](Sieep-Coding.png)
 
 [![wakatime](https://wakatime.com/badge/user/2156ce13-ae9d-4c0e-a543-89b2bddcd2f6.svg?style=flat-square)](https://wakatime.com/@2156ce13-ae9d-4c0e-a543-89b2bddcd2f6)
 [![github](https://img.shields.io/github/followers/sieep-coding?logo=github&style=flat-square)](https://github.com/sieep-coding?tab=followers)
@@ -58,10 +56,9 @@ View my latest **blog** post.
 
 [![Update README with Latest Blog Posts](https://github.com/Sieep-Coding/Sieep-Coding/actions/workflows/update-blog.yml/badge.svg)](https://github.com/Sieep-Coding/Sieep-Coding/actions/workflows/update-blog.yml)
 
+#### Languages
+[![My Skills](https://skillicons.dev/icons?i=cs,go,elixir,lua,javascript)](https://skillicons.dev)
 <!---
-### Skills
-#### Languages ⚡
-[![My Skills](https://skillicons.dev/icons?i=cs,go,typescript,python,c,lua)](https://skillicons.dev)
 
 #### Frameworks 🏘
 [![My Skills](https://skillicons.dev/icons?i=dotnet,react,tailwindcss,bootstrap,astro)](https://skillicons.dev)
@@ -76,7 +73,8 @@ View my latest **blog** post.
   
 | Type | Device | Link | Color |
 | --- | --- | --- | --- |
-| **Keyboard** | **Logitech G715** | **https://www.logitechg.com/en-us/products/gaming-keyboards/g715-tkl-mechanical-wireless-keyboard.html** | White |
+| **Keyboard (Gaming / Programming)** | **Logitech G715** | **https://www.logitechg.com/en-us/products/gaming-keyboards/g715-tkl-mechanical-wireless-keyboard.html** | White |
+| **Keyboard (Programming)** | **Royal Kludge RK61** | **https://rkgamingstore.com/products/rk61-60-percent-keyboard** | Black |
 | **Mouse** | **Razer DeathAdder V3 Pro** | **https://www.razer.com/gaming-mice/razer-deathadder-v3-pro** | White |
   
 </details>
