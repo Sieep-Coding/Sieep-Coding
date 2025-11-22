@@ -1,7 +1,7 @@
 > [!NOTE]  
 > Software Engineer @ [luniv.tech](https://luniv.tech) and [michigan-pulse.com](https://michigan-pulse.com)
 >
-> [personal blog](https://nickstambaugh.dev) <sup>btw i use arch linux</sup>
+> [personal blog](https://nickstambaugh.dev) <sup>btw i use arch</sup>
 
 <!-- ![nickstambaugh.dev](Sieep-Coding.png) -->
 
