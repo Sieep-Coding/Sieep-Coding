@@ -22,10 +22,10 @@ These are **NOT** full projects.
 | [Generic Notification System](https://gist.github.com/Sieep-Coding/ea637b985b1641c3f9f7bd4eef339ed4) | C# |
 | [Inventory Specification Sheet](https://gist.github.com/Sieep-Coding/53986ffc008e2dca96c524a3fed7e837) | C#, JavaScript |
 -->
-#### Languages
-[![My Skills](https://skillicons.dev/icons?i=arch,cs,go,elixir,lua,javascript)](https://skillicons.dev)
+## Tech I like
+[![My Skills](https://skillicons.dev/icons?i=arch,cs,dotnet,go,elixir,lua,javascript)](https://skillicons.dev)
 
-### Popular Projects
+## Popular Projects
 
 My top **open-source projects** on GitHub.
 
@@ -40,8 +40,8 @@ My top **open-source projects** on GitHub.
 | **[Web Crawler](https://github.com/Sieep-Coding/web-crawler)** | **2** | **Go** |
 | **[Chat Server in Go](https://github.com/Sieep-Coding/chatserver)** | **2** | **Go** |
 
-### Blog
-View my latest **blog** post.
+## Blog
+View my latest **blog** posts at [https://nickstambaugh.dev/posts](https://nickstambaugh.dev/posts)
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:START -->
@@ -68,6 +68,7 @@ View my latest **blog** post.
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,mint,debian,sqlite,linux,powershell,bash,neovim,vercel)](https://skillicons.dev)
 
 --->
+## Extras
 <details>
 <summary>Peripherals</summary>
 <br>
@@ -78,3 +79,15 @@ View my latest **blog** post.
 | **Keyboard (Programming)** | **Royal Kludge RK61** | **https://rkgamingstore.com/products/rk61-60-percent-keyboard** | Black |
 | **Mouse** | **Razer DeathAdder V3 Pro** | **https://www.razer.com/gaming-mice/razer-deathadder-v3-pro** | White |
 | **Headphones** | **Beats Studio<sup>3</sup>** | **https://www.amazon.com/Beats-Studio3-Wireless-Over%E2%80%91Ear-Headphones/dp/B085296FLT** | Black and Gold |
+</details>
+<details>
+<summary>Contact Me</summary>
+<br>
+
+| Type | Link |
+| --- | --- |
+| **Email** | [nick@luniv.tech](mailto:nick@luniv.tech) |
+| **LinkedIn** | [https://www.linkedin.com/in/nick-s-694241139/](https://www.linkedin.com/in/nick-s-694241139/) |
+| **Website** | [https://nickstambaugh.dev/posts](https://nickstambaugh.dev/) |
+
+</details>
