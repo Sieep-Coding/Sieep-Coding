@@ -1,9 +1,10 @@
 > [!NOTE]
-> Creator of [LunivCore](https://lunivcore.vercel.app/), the C/Lua powered BI-As-Code platform
 > 
 > Software Engineer @ [luniv.tech](https://luniv.tech) and [michigan-pulse.com](https://michigan-pulse.com)
 >
 > [personal blog](https://nickstambaugh.dev) <sup>btw i use arch</sup>
+>
+> Creator of [LunivCore](https://lunivcore.vercel.app/), the C/Lua powered BI-As-Code platform
 
 <!-- ![nickstambaugh.dev](Sieep-Coding.png) -->
 
