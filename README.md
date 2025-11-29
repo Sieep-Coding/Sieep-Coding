@@ -26,7 +26,7 @@ These are **NOT** full projects.
 | [Inventory Specification Sheet](https://gist.github.com/Sieep-Coding/53986ffc008e2dca96c524a3fed7e837) | C#, JavaScript |
 -->
 ## Tech I like
-[![My Skills](https://skillicons.dev/icons?i=arch,cs,dotnet,go,elixir,lua,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,cs,dotnet,go,elixir,lua,javascript,c)](https://skillicons.dev)
 
 ## Popular Projects
 
