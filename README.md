@@ -4,7 +4,7 @@
 >
 > [personal blog](https://nickstambaugh.dev) <sup>btw i use arch</sup>
 >
-> Creator of [LunivCore](https://lunivcore.vercel.app/), the C/Lua powered BI-As-Code platform
+> Creator of [LunivCore](https://github.com/Sieep-Coding/LunivCore), the C/Lua BI-as-code framework
 
 <!-- ![nickstambaugh.dev](Sieep-Coding.png) -->
 
