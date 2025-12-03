@@ -2,7 +2,7 @@
 > 
 > Software Engineer @ [luniv.tech](https://luniv.tech) and [michigan-pulse.com](https://michigan-pulse.com)
 >
-> [personal blog](https://nickstambaugh.dev) <sup>btw i use arch</sup>
+> [personal blog](https://nickstambaugh.dev)
 >
 > Creator of [LunivCore](https://github.com/Sieep-Coding/LunivCore), the C/Lua BI-as-code framework
 
