@@ -91,6 +91,6 @@ View my latest **blog** posts at [https://nickstambaugh.dev/posts](https://nicks
 | --- | --- |
 | **Email** | [nick@luniv.tech](mailto:nick@luniv.tech) |
 | **LinkedIn** | [https://www.linkedin.com/in/nick-s-694241139/](https://www.linkedin.com/in/nick-s-694241139/) |
-| **Website** | [https://nickstambaugh.dev/posts](https://nickstambaugh.dev/) |
+| **Website** | [https://nickstambaugh.dev/](https://nickstambaugh.dev/) |
 
 </details>
