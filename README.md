@@ -1,6 +1,6 @@
 > [!NOTE]
 > 
-> Software Engineer @ [luniv.tech](https://luniv.tech) and [michigan-pulse.com](https://michigan-pulse.com)
+> Software Engineer @ [luniv.tech](https://luniv.tech)
 >
 > [personal blog](https://nickstambaugh.dev)
 >
