@@ -71,7 +71,31 @@ View my latest **blog** posts at [https://nickstambaugh.dev/posts](https://nicks
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,mint,debian,sqlite,linux,powershell,bash,neovim,vercel)](https://skillicons.dev)
 
 --->
+## Data
+
+<a href="https://dervex.dev/">
+	<div align='center'>
+		<picture>
+			<source media='(prefers-color-scheme: light)' srcset='https://dervex-readme-stats.vercel.app/api/top-langs?username=sieep-coding&theme=light'/>
+			<img src='https://dervex-readme-stats.vercel.app/api/top-langs?username=sieep-coding' width='49%'/>
+		</picture>
+		<picture>
+			<source media='(prefers-color-scheme: light)' srcset='https://dervex-readme-stats.vercel.app/api?username=sieep-coding&theme=light'/>
+			<img src='https://dervex-readme-stats.vercel.app/api?username=sieep-coding' width='49%'/>
+		</picture>
+	</div>
+</a>
+<a href="https://wakatime.com/@LunivConsulting">
+	<div align='center'>
+		<picture>
+			<source media='(prefers-color-scheme: light)' srcset='https://dervex-readme-stats.vercel.app/api/wakatime?username=LunivConsulting&theme=light'/>
+			<img src='https://dervex-readme-stats.vercel.app/api/wakatime?username=LunivConsulting' width='98.5%'/>
+		</picture>
+	</div>
+</a>
+
 ## Extras
+
 <details>
 <summary>Peripherals</summary>
 <br>
