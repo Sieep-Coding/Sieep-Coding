@@ -73,7 +73,7 @@ View my latest **blog** posts at [https://nickstambaugh.dev/posts](https://nicks
 --->
 ## Data
 
-<a href="https://dervex.dev/">
+<a href="https://nickstambaugh.dev/">
 	<div align='center'>
 		<picture>
 			<source media='(prefers-color-scheme: light)' srcset='https://dervex-readme-stats.vercel.app/api/top-langs?username=sieep-coding&theme=light'/>
