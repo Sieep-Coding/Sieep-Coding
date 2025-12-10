@@ -25,7 +25,7 @@ These are **NOT** full projects.
 | [Generic Notification System](https://gist.github.com/Sieep-Coding/ea637b985b1641c3f9f7bd4eef339ed4) | C# |
 | [Inventory Specification Sheet](https://gist.github.com/Sieep-Coding/53986ffc008e2dca96c524a3fed7e837) | C#, JavaScript |
 -->
-## Tech I like
+## Tech I like and use
 [![My Skills](https://skillicons.dev/icons?i=arch,cs,dotnet,go,elixir,lua,javascript,c,astro,bash,bootstrap,tailwind,bitbucket,gitlab,github,md,mint,nodejs,obsidian,postgres,sqlite)](https://skillicons.dev)
 
 ## Popular Projects
