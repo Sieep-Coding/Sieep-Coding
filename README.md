@@ -117,7 +117,7 @@ View my latest **blog** posts at [https://nickstambaugh.dev/posts](https://nicks
 | **LinkedIn** | [https://www.linkedin.com/in/nick-s-694241139/](https://www.linkedin.com/in/nick-s-694241139/) |
 | **Website** | [https://nickstambaugh.dev/](https://nickstambaugh.dev/) |
 
-[Send me encrypted emails](https://pr.tn/ref/X0J3A3B2)
+[Send me encrypted emails through Proton](https://pr.tn/ref/X0J3A3B2)
 
 Email PGP:
 ```txt
