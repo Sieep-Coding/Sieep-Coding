@@ -2,9 +2,8 @@
 > 
 > Software Engineer @ [luniv.tech](https://luniv.tech)
 >
-> [personal blog](https://nickstambaugh.dev)
+> [website](https://nickstambaugh.dev)
 >
-> Creator of [LunivCore](https://github.com/Sieep-Coding/LunivCore), the C/Lua BI-as-code framework
 
 <!-- ![nickstambaugh.dev](Sieep-Coding.png) -->
 
