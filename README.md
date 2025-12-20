@@ -41,6 +41,61 @@ My top **open-source projects** on GitHub.
 View my latest **blog** posts at [https://nickstambaugh.dev/posts](https://nickstambaugh.dev/posts)
 <!-- BLOG-POST-LIST:START -->
 
+<!-- BLOG-POST-LIST:START -->
+| Date | Title |
+| --- | --- |
+| Fri, 05 Dec 2025 | **[LunivCore: BI As Code](https://nickstambaugh.dev/posts/lunivcore-bi-as-code/)** |
+| Tue, 18 Nov 2025 | **[Astro/JS Randomized Banner Icons](https://nickstambaugh.dev/posts/random-banner-icons/)** |
+| Mon, 17 Nov 2025 | **[Luniv Site Update v1.3](https://nickstambaugh.dev/posts/luniv-site-update/)** |
+| Sat, 27 Sep 2025 | **[Impressions of CachyOS](https://nickstambaugh.dev/posts/cachyos-impressions/)** |
+| Wed, 16 Jul 2025 | **[AI: Bullshit-As-A-Service](https://nickstambaugh.dev/posts/bullshit-as-a-service/)** |
+| Sun, 13 Jul 2025 | **['Utility First' Thinking in JavaScript](https://nickstambaugh.dev/posts/luniv-strings/)** |
+| Sun, 20 Apr 2025 | **[LINQ and Learning To Be Declarative](https://nickstambaugh.dev/posts/LINQ-and-being-declarative/)** |
+
+<!-- BLOG-POST-LIST:END -->
+# Nick Stambaugh
+
+Software Engineer @ [Luniv Technology](https://luniv.tech). 
+
+We provide Elixir, Go, and .NET solutions, cloud/devops, managed IT, and business intelligence.
+
+
+<!-- ![nickstambaugh.dev](Sieep-Coding.png) -->
+
+<!--
+### Sample Work
+Snippets of code from professional work I've done.
+
+These are **NOT** full projects.
+| Projects | Language |
+| --- | --- |
+| [Document Version Control for Enterprise](https://gist.github.com/Sieep-Coding/6692c1a888deae917d80de6b085ad7d9) | C#, JavaScript |
+| [Generic Notification System](https://gist.github.com/Sieep-Coding/ea637b985b1641c3f9f7bd4eef339ed4) | C# |
+| [Inventory Specification Sheet](https://gist.github.com/Sieep-Coding/53986ffc008e2dca96c524a3fed7e837) | C#, JavaScript |
+-->
+<!--
+## Tech I like and use
+[![My Skills](https://skillicons.dev/icons?i=arch,cs,dotnet,go,elixir,lua,javascript,c,astro,bash,bootstrap,tailwind,bitbucket,gitlab,github,md,mint,nodejs,obsidian,postgres,sqlite)](https://skillicons.dev)
+
+## Popular Projects
+
+My top **open-source projects** on GitHub.
+
+| Projects | Stars ⭐ | Language |
+| --- | --- | --- |
+| **[Snow Simulation in C](https://github.com/Sieep-Coding/snow-simulation)** | **17** | **C** |
+| **[Sample Todo app in Go/Htmx](https://github.com/Sieep-Coding/todo-htmx-alpine-go)** | **12** | **Go** |
+| **[Chat Server in C#](https://github.com/Sieep-Coding/simple-chat-csharp/)**  | **8** | **C#** |
+| **[Electron note-taking app](https://github.com/Sieep-Coding/notezone)**   | **5** | **JavaScript** |
+| **[Game of Life in Lua](https://github.com/Sieep-Coding/game-of-life-lua)**   | **4** | **Lua** |
+| **[AccessGR](https://github.com/Sieep-Coding/accessGR-site)**| **3** | **Astro** |
+| **[Web Crawler](https://github.com/Sieep-Coding/web-crawler)** | **2** | **Go** |
+| **[Chat Server in Go](https://github.com/Sieep-Coding/chatserver)** | **2** | **Go** |
+
+## Blog
+View my latest **blog** posts at [https://nickstambaugh.dev/posts](https://nickstambaugh.dev/posts)
+<!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:START
 | Date | Title |
 | --- | --- |
