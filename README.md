@@ -64,6 +64,7 @@ BLOG-POST-LIST:END -->
 #### Tools ⚙️
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,mint,debian,sqlite,linux,powershell,bash,neovim,vercel)](https://skillicons.dev)
 
+--->
 ## Data
 
 
@@ -82,7 +83,7 @@ BLOG-POST-LIST:END -->
 		<picture>
 			<source media='(prefers-color-scheme: light)' srcset='https://dervex-readme-stats.vercel.app/api?username=sieep-coding&theme=light'/>
 			<img src='https://dervex-readme-stats.vercel.app/api?username=sieep-coding' width='49%'/>
-		</picture>As far as I'm concerned this is roughly comparable to the time you spend debugging RDS connec
+		</picture>
 	</div>
 </a>
 <a href="https://wakatime.com/@LunivConsulting">
@@ -121,27 +122,6 @@ Not affiliate links
 
 [Send me encrypted emails through Proton (affiliate)](https://pr.tn/ref/X0J3A3B2)
 
-Email PGP:
-```txt
-
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-xjMEZsCWCxYJKwYBBAHaRw8BAQdA+04wVDSUEcmRGxqjxSH/xPICaSGiDnpq
-754l8ueKRE/NMW5pY2tzdGFtYmF1Z2hAcHJvdG9uLm1lIDxuaWNrc3RhbWJh
-dWdoQHByb3Rvbi5tZT7CjwQTFggAQQUCZsCWCwkQfrm/tyh+WkAWIQR9zENr
-Y/Smx6dxstF+ub+3KH5aQAIbAwIeAQIZAQMLCQcCFQgDFgACBScJAgcCAADA
-TgD9Hgl5oNI3Tw1uUEJSHXKY51z84tkQ/Y1it/6YY4p4lw0A/jRwJv0c1ZJS
-ODufpBiB8ywE8YnFVfXOKHuEdoQDQLQFzjgEZsCWCxIKKwYBBAGXVQEFAQEH
-QGrQYOb+/kt4nOHVDjbH6TOJyXccHhQNsOhGjnqRgaIkAwEKCcJ4BBgWCAAq
-BQJmwJYLCRB+ub+3KH5aQBYhBH3MQ2tj9KbHp3Gy0X65v7coflpAAhsMAAAM
-xwD+LRNaGutsoVoKVf+rLmBgAA3DSwsvAY8aJwDVV6gJjWQA/jgFrZz+qFEH
-qhfXtaR2I05GW/po8vxdkJOmQg485ksE
-=uykQ
-
------END PGP PUBLIC KEY BLOCK-----
-
-```
-
 </details>
 
 <details>
@@ -156,4 +136,3 @@ qhfXtaR2I05GW/po8vxdkJOmQg485ksE
 #### [Status Page](https://luniv.betteruptime.com/)
 </details>
 
---->
