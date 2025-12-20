@@ -37,6 +37,7 @@ My top **open-source projects** on GitHub.
 | **[Web Crawler](https://github.com/Sieep-Coding/web-crawler)** | **2** | **Go** |
 | **[Chat Server in Go](https://github.com/Sieep-Coding/chatserver)** | **2** | **Go** |
 
+--->
 ## Blog
 View my latest **blog** posts at [https://nickstambaugh.dev/posts](https://nickstambaugh.dev/posts)
 <!-- BLOG-POST-LIST:START -->
@@ -64,7 +65,6 @@ BLOG-POST-LIST:END -->
 #### Tools ⚙️
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,mint,debian,sqlite,linux,powershell,bash,neovim,vercel)](https://skillicons.dev)
 
---->
 ## Data
 
 
