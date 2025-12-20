@@ -1,9 +1,9 @@
-> [!NOTE]
-> 
-> Software Engineer @ [luniv.tech](https://luniv.tech)
->
-> [website](https://nickstambaugh.dev)
->
+# Nick Stambaugh
+
+Software Engineer @ [Luniv Technology](https://luniv.tech). 
+
+We are the premier Elixir and Go shop in Michigan. We also provide .NET solutions, cloud/devops, and business intelligence.
+
 
 <!-- ![nickstambaugh.dev](Sieep-Coding.png) -->
 
@@ -18,6 +18,7 @@ These are **NOT** full projects.
 | [Generic Notification System](https://gist.github.com/Sieep-Coding/ea637b985b1641c3f9f7bd4eef339ed4) | C# |
 | [Inventory Specification Sheet](https://gist.github.com/Sieep-Coding/53986ffc008e2dca96c524a3fed7e837) | C#, JavaScript |
 -->
+<!--
 ## Tech I like and use
 [![My Skills](https://skillicons.dev/icons?i=arch,cs,dotnet,go,elixir,lua,javascript,c,astro,bash,bootstrap,tailwind,bitbucket,gitlab,github,md,mint,nodejs,obsidian,postgres,sqlite)](https://skillicons.dev)
 
@@ -40,7 +41,7 @@ My top **open-source projects** on GitHub.
 View my latest **blog** posts at [https://nickstambaugh.dev/posts](https://nickstambaugh.dev/posts)
 <!-- BLOG-POST-LIST:START -->
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START
 | Date | Title |
 | --- | --- |
 | Fri, 05 Dec 2025 | **[LunivCore: BI As Code](https://nickstambaugh.dev/posts/lunivcore-bi-as-code/)** |
@@ -51,11 +52,11 @@ View my latest **blog** posts at [https://nickstambaugh.dev/posts](https://nicks
 | Sun, 13 Jul 2025 | **['Utility First' Thinking in JavaScript](https://nickstambaugh.dev/posts/luniv-strings/)** |
 | Sun, 20 Apr 2025 | **[LINQ and Learning To Be Declarative](https://nickstambaugh.dev/posts/LINQ-and-being-declarative/)** |
 
-<!-- BLOG-POST-LIST:END -->
+BLOG-POST-LIST:END -->
 
-[![Update README with Latest Blog Posts](https://github.com/Sieep-Coding/Sieep-Coding/actions/workflows/update-blog.yml/badge.svg)](https://github.com/Sieep-Coding/Sieep-Coding/actions/workflows/update-blog.yml)
 
 <!---
+[![Update README with Latest Blog Posts](https://github.com/Sieep-Coding/Sieep-Coding/actions/workflows/update-blog.yml/badge.svg)](https://github.com/Sieep-Coding/Sieep-Coding/actions/workflows/update-blog.yml)
 
 #### Frameworks 🏘
 [![My Skills](https://skillicons.dev/icons?i=dotnet,react,tailwindcss,bootstrap,astro)](https://skillicons.dev)
@@ -63,7 +64,6 @@ View my latest **blog** posts at [https://nickstambaugh.dev/posts](https://nicks
 #### Tools ⚙️
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,mint,debian,sqlite,linux,powershell,bash,neovim,vercel)](https://skillicons.dev)
 
---->
 ## Data
 
 
@@ -82,7 +82,7 @@ View my latest **blog** posts at [https://nickstambaugh.dev/posts](https://nicks
 		<picture>
 			<source media='(prefers-color-scheme: light)' srcset='https://dervex-readme-stats.vercel.app/api?username=sieep-coding&theme=light'/>
 			<img src='https://dervex-readme-stats.vercel.app/api?username=sieep-coding' width='49%'/>
-		</picture>
+		</picture>As far as I'm concerned this is roughly comparable to the time you spend debugging RDS connec
 	</div>
 </a>
 <a href="https://wakatime.com/@LunivConsulting">
@@ -155,3 +155,5 @@ qhfXtaR2I05GW/po8vxdkJOmQg485ksE
 
 #### [Status Page](https://luniv.betteruptime.com/)
 </details>
+
+--->
