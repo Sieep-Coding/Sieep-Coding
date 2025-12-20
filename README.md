@@ -42,7 +42,7 @@ My top **open-source projects** on GitHub.
 View my latest **blog** posts at [https://nickstambaugh.dev/posts](https://nickstambaugh.dev/posts)
 <!-- BLOG-POST-LIST:START -->
 
-<!-- BLOG-POST-LIST:START
+<!-- BLOG-POST-LIST:START -->
 | Date | Title |
 | --- | --- |
 | Fri, 05 Dec 2025 | **[LunivCore: BI As Code](https://nickstambaugh.dev/posts/lunivcore-bi-as-code/)** |
@@ -53,7 +53,7 @@ View my latest **blog** posts at [https://nickstambaugh.dev/posts](https://nicks
 | Sun, 13 Jul 2025 | **['Utility First' Thinking in JavaScript](https://nickstambaugh.dev/posts/luniv-strings/)** |
 | Sun, 20 Apr 2025 | **[LINQ and Learning To Be Declarative](https://nickstambaugh.dev/posts/LINQ-and-being-declarative/)** |
 
-BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 
 <!---
