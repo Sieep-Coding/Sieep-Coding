@@ -2,7 +2,7 @@
 
 Software Engineer @ [Luniv Technology](https://luniv.tech). 
 
-We are the premier Elixir and Go shop in Michigan. We also provide .NET solutions, cloud/devops, and business intelligence.
+We provide Elixir, Go, and .NET solutions, cloud/devops, managed IT, and business intelligence.
 
 
 <!-- ![nickstambaugh.dev](Sieep-Coding.png) -->
