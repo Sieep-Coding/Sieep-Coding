@@ -45,13 +45,13 @@ View my latest **blog** posts at [https://nickstambaugh.dev/posts](https://nicks
 <!-- BLOG-POST-LIST:START -->
 | Date | Title |
 | --- | --- |
+| Thu, 25 Dec 2025 | **[Software Can Stop Losing You Money](https://nickstambaugh.dev/posts/software-can-stop-losing-you-money/)** |
 | Fri, 05 Dec 2025 | **[LunivCore: BI As Code](https://nickstambaugh.dev/posts/lunivcore-bi-as-code/)** |
 | Tue, 18 Nov 2025 | **[Astro/JS Randomized Banner Icons](https://nickstambaugh.dev/posts/random-banner-icons/)** |
 | Mon, 17 Nov 2025 | **[Luniv Site Update v1.3](https://nickstambaugh.dev/posts/luniv-site-update/)** |
 | Sat, 27 Sep 2025 | **[Impressions of CachyOS](https://nickstambaugh.dev/posts/cachyos-impressions/)** |
 | Wed, 16 Jul 2025 | **[AI: Bullshit-As-A-Service](https://nickstambaugh.dev/posts/bullshit-as-a-service/)** |
 | Sun, 13 Jul 2025 | **['Utility First' Thinking in JavaScript](https://nickstambaugh.dev/posts/luniv-strings/)** |
-| Sun, 20 Apr 2025 | **[LINQ and Learning To Be Declarative](https://nickstambaugh.dev/posts/LINQ-and-being-declarative/)** |
 
 <!-- BLOG-POST-LIST:END -->
 
