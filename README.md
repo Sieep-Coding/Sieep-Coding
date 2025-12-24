@@ -12,6 +12,9 @@ We provide Elixir, Go, and .NET solutions, cloud/devops, managed IT, and busines
 <a href="https://monkeytype.com/profile/sieep-coding" target="_blank"><img src="https://img.shields.io/badge/⌨️_Average_WPM-80+-blue?&logo=keyboard&logoColor=white" alt="Typing Speed"/></a>
 [![wakatime](https://wakatime.com/badge/user/2156ce13-ae9d-4c0e-a543-89b2bddcd2f6.svg?style=flat-square)](https://wakatime.com/@2156ce13-ae9d-4c0e-a543-89b2bddcd2f6)
 
+<a href="https://www.buymeacoffee.com/nickstambaugh">
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=nickstambaugh&button_colour=1b64da&font_colour=ffffff&font_family=Comic&outline_colour=ffffff&coffee_colour=FFDD00"/>
+</a>
 
 ## Noteable Projects
 ### Elixir
