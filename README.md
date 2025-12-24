@@ -4,6 +4,19 @@ Software Engineer @ [Luniv Technology](https://luniv.tech).
 
 We provide Elixir, Go, and .NET solutions, cloud/devops, managed IT, and business intelligence.
 
+## Noteable Projects
+### Elixir
+[Static Site Generator](https://github.com/Sieep-Coding/project-ssg) - Elixir based static site generator
+
+[Michigan Pulse](https://michigan-pulse.gigalixirapp.com/) - Centralized resource for Michigan’s technology ecosystem. Discover companies, incubators, educational resources, and career opportunities. 
+
+### C#
+[Terminal Chat Server](https://github.com/Sieep-Coding/simple-chat-csharp) - Small, proof-of-concept terminal chat server
+
+### C and Lua
+[BI-as-Code Framework](https://github.com/Sieep-Coding/LunivCore) - Low level BI-as-code framework for terminal notebooks with a custom DSL and Lua support.
+
+[Snow Simulation](https://github.com/Sieep-Coding/snow-simulation) - Snow simulator desktop app using C and raylib.
 
 <!-- ![nickstambaugh.dev](Sieep-Coding.png) -->
 
