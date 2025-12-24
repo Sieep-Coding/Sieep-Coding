@@ -19,7 +19,7 @@ We provide Elixir, Go, and .NET solutions, cloud/devops, managed IT, and busines
 [Snow Simulation](https://github.com/Sieep-Coding/snow-simulation) - Snow simulator desktop app using C and raylib.
 
 ### Python
-[Lightweight Relationship Tracking](https://github.com/Sieep-Coding/spark) - Small desktop app to manage business data utilizing TKinter and SQLite
+[Business Data Manager](https://github.com/Sieep-Coding/spark) - Desktop GUI to manage essential business data. Utilizing TKinter and SQLite.
 
 <!-- ![nickstambaugh.dev](Sieep-Coding.png) -->
 
