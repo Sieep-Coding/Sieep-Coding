@@ -30,6 +30,11 @@ We provide Elixir, Go, and .NET solutions, cloud/devops, managed IT, and busines
 ### Python
 [Business Data Manager](https://github.com/Sieep-Coding/spark) - Desktop GUI to manage essential business data. Utilizing TKinter and SQLite.
 
+# Donate
+My projects are compiled in my free-time at no charge to you. 
+
+Consider [donating $10](https://buymeacoffee.com/nickstambaugh) to support my work.
+
 <!-- ![nickstambaugh.dev](Sieep-Coding.png) -->
 
 <!--
