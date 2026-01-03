@@ -11,10 +11,6 @@ We provide Elixir, Go, and .NET solutions, cloud/devops, managed IT, and busines
 <a href="https://monkeytype.com/profile/sieep-coding" target="_blank"><img src="https://img.shields.io/badge/⌨️_Average_WPM-80+-blue?&logo=keyboard&logoColor=white" alt="Typing Speed"/></a>
 [![wakatime](https://wakatime.com/badge/user/2156ce13-ae9d-4c0e-a543-89b2bddcd2f6.svg?style=flat-square)](https://wakatime.com/@2156ce13-ae9d-4c0e-a543-89b2bddcd2f6)
 
-<a href="https://www.buymeacoffee.com/nickstambaugh">
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=nickstambaugh&button_colour=1b64da&font_colour=ffffff&font_family=Comic&outline_colour=ffffff&coffee_colour=FFDD00"/>
-</a>
-
 ## Noteable Projects
 ### Elixir
 [Static Site Generator](https://github.com/Sieep-Coding/project-ssg) - Elixir based static site generator
@@ -36,6 +32,11 @@ We provide Elixir, Go, and .NET solutions, cloud/devops, managed IT, and busines
 [Michigan Guide](https://michigan-guide.vercel.app/) - Free guides for assimilating and moving to Michigan.
 
 ## Donate
+
+<a href="https://www.buymeacoffee.com/nickstambaugh">
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=nickstambaugh&button_colour=1b64da&font_colour=ffffff&font_family=Comic&outline_colour=ffffff&coffee_colour=FFDD00"/>
+</a>
+
 My projects are compiled in my free-time at no charge to you. 
 
 Consider [donating $10](https://buymeacoffee.com/nickstambaugh) to support my work.
@@ -91,8 +92,8 @@ View my latest **blog** posts at [https://nickstambaugh.dev/posts](https://nicks
 <!-- BLOG-POST-LIST:END -->
 
 
-<!---
 [![Update README with Latest Blog Posts](https://github.com/Sieep-Coding/Sieep-Coding/actions/workflows/update-blog.yml/badge.svg)](https://github.com/Sieep-Coding/Sieep-Coding/actions/workflows/update-blog.yml)
+<!---
 
 #### Frameworks 🏘
 [![My Skills](https://skillicons.dev/icons?i=dotnet,react,tailwindcss,bootstrap,astro)](https://skillicons.dev)
