@@ -81,13 +81,13 @@ View my latest **blog** posts at [https://nickstambaugh.dev/posts](https://nicks
 <!-- BLOG-POST-LIST:START -->
 | Date | Title |
 | --- | --- |
+| Tue, 06 Jan 2026 | **[Why I Let GitHub Actions Maintain My GitHub Profile README](https://nickstambaugh.dev/posts/Why-I-Let-GitHub-Actions-Maintain-My-GitHub-Profile-README/)** |
 | Thu, 25 Dec 2025 | **[Software Can Stop Losing You Money](https://nickstambaugh.dev/posts/software-can-stop-losing-you-money/)** |
 | Thu, 25 Dec 2025 | **[Why Your Astro JavaScript Works in Chrome but Breaks in Firefox](https://nickstambaugh.dev/posts/Why-Your-Astro-JavaScript-Works-in-Chrome-but-Breaks-in-Firefox/)** |
 | Fri, 05 Dec 2025 | **[LunivCore: BI As Code](https://nickstambaugh.dev/posts/lunivcore-bi-as-code/)** |
 | Tue, 18 Nov 2025 | **[Astro/JS Randomized Banner Icons](https://nickstambaugh.dev/posts/random-banner-icons/)** |
 | Mon, 17 Nov 2025 | **[Luniv Site Update v1.3](https://nickstambaugh.dev/posts/luniv-site-update/)** |
 | Sat, 27 Sep 2025 | **[Impressions of CachyOS](https://nickstambaugh.dev/posts/cachyos-impressions/)** |
-| Wed, 16 Jul 2025 | **[AI: Bullshit-As-A-Service](https://nickstambaugh.dev/posts/bullshit-as-a-service/)** |
 
 <!-- BLOG-POST-LIST:END -->
 
