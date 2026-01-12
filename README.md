@@ -1,8 +1,8 @@
 # Nick Stambaugh
 
-Software Engineer @ [Luniv Technology](https://luniv.tech). 
+Software Engineer @ [Luniv Technology](https://luniv.tech)
 
-We provide Elixir, Go, and .NET solutions, cloud/devops, managed IT, and business intelligence.
+We provide Elixir, Go, and .NET solutions, cloud/devops, managed IT, and business intelligence
 
 ### 📊 Stats & Activity
 [![github](https://img.shields.io/github/followers/sieep-coding?logo=github&style=flat-square)](https://github.com/sieep-coding?tab=followers)
