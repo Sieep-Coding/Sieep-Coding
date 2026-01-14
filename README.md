@@ -92,14 +92,14 @@ View my latest **blog** posts at [https://nickstambaugh.dev/posts](https://nicks
 
 
 ## Donate
+My projects are compiled in my free-time at no charge to you. 
+
+Consider [donating $10](https://buymeacoffee.com/nickstambaugh) to support my work.
 
 <a href="https://www.buymeacoffee.com/nickstambaugh">
 <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=nickstambaugh&button_colour=1b64da&font_colour=ffffff&font_family=Comic&outline_colour=ffffff&coffee_colour=FFDD00"/>
 </a>
 
-My projects are compiled in my free-time at no charge to you. 
-
-Consider [donating $10](https://buymeacoffee.com/nickstambaugh) to support my work.
 <!---
 
 #### Frameworks 🏘
