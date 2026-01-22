@@ -18,10 +18,14 @@ We provide Elixir, Go, and .NET solutions, cloud/devops, managed IT, and busines
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-stambaugh-694241139/)
 
 ## Noteable Projects
+Some of these projects are a work in progress, created to investigate specific technologies or ideas.
+
 ### JavaScript
-[Michigan Guide](https://michigan-guide.vercel.app/) - Free guides for assimilating and moving to Michigan.
+[Michigan Guide](https://michigan-guide.vercel.app/) - Free guides and resources for relocating to and assimilating in Michigan.
 
 [CS2 Lab](https://cs2-lab.vercel.app/) - CS2 Lab is an independent platform focused on the analysis of the counter strike pro scene, map meta, and gameplay trends.
+
+[Personal Website](https://nickstambaugh.dev/) - Personal portfolio and blog showcasing projects, writing, and experiments.
 
 ### Elixir
 [Static Site Generator](https://github.com/Sieep-Coding/project-ssg) - Elixir based static site generator
@@ -34,10 +38,10 @@ We provide Elixir, Go, and .NET solutions, cloud/devops, managed IT, and busines
 ### C and Lua
 [BI-as-Code Framework](https://github.com/Sieep-Coding/LunivCore) - Low level BI-as-code framework for terminal notebooks with a custom DSL and Lua support.
 
-[Snow Simulation](https://github.com/Sieep-Coding/snow-simulation) - Snow simulator desktop app using C and raylib.
+[Snow Simulation](https://github.com/Sieep-Coding/snow-simulation) - Desktop snow simulation application built in C using raylib.
 
 ### Python
-[Business Data Manager](https://github.com/Sieep-Coding/spark) - Desktop GUI to manage essential business data. Utilizing TKinter and SQLite.
+[Business Data Manager](https://github.com/Sieep-Coding/spark) - Desktop GUI application for managing essential business data, built with Tkinter and SQLite.
 
 <!-- ![nickstambaugh.dev](Sieep-Coding.png) -->
 
