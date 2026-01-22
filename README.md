@@ -39,9 +39,6 @@ We provide Elixir, Go, and .NET solutions, cloud/devops, managed IT, and busines
 ### Python
 [Business Data Manager](https://github.com/Sieep-Coding/spark) - Desktop GUI to manage essential business data. Utilizing TKinter and SQLite.
 
-### JavaScript
-[Michigan Guide](https://michigan-guide.vercel.app/) - Free guides for assimilating and moving to Michigan.
-
 <!-- ![nickstambaugh.dev](Sieep-Coding.png) -->
 
 <!--
