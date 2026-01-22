@@ -18,6 +18,11 @@ We provide Elixir, Go, and .NET solutions, cloud/devops, managed IT, and busines
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-stambaugh-694241139/)
 
 ## Noteable Projects
+### JavaScript
+[Michigan Guide](https://michigan-guide.vercel.app/) - Free guides for assimilating and moving to Michigan.
+
+[CS2 Lab](https://cs2-lab.vercel.app/) - CS2 Lab is an independent platform focused on the analysis of the counter strike pro scene, map meta, and gameplay trends.
+
 ### Elixir
 [Static Site Generator](https://github.com/Sieep-Coding/project-ssg) - Elixir based static site generator
 
