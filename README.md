@@ -23,7 +23,7 @@ Some of these projects are a work in progress, created to investigate specific t
 ### JavaScript
 [Michigan Guide](https://michigan-guide.vercel.app/) - Free guides and resources for relocating to and assimilating in Michigan.
 
-[counterstrike.blog](https://counterstrike.blog) - CS2 Lab is an independent platform focused on the analysis of the counter strike pro scene, map meta, and gameplay trends.
+[counterstrike.blog](https://counterstrike.blog) - counterstrike.blog is an independent platform focused on the analysis of the counter strike pro scene, map meta, and gameplay trends.
 
 [Personal Website](https://nickstambaugh.dev/) - Personal portfolio and blog showcasing projects, writing, and experiments.
 
