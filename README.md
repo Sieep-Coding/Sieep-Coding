@@ -14,8 +14,6 @@ We provide Elixir, Go, and .NET solutions, cloud/devops, managed IT, and busines
 
 ### 🔗 Connect With Me
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:nickstambaugh@proton.me)
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/fieaoe98034512u5901/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-stambaugh-694241139/)
 
 ## Noteable Projects
 Some of these projects are a work in progress, created to investigate specific technologies or ideas.
@@ -159,7 +157,6 @@ Not affiliate links
 | Type | Link |
 | --- | --- |
 | **Email** | [nick@luniv.tech](mailto:nick@luniv.tech) |
-| **LinkedIn** | [https://www.linkedin.com/in/nick-s-694241139/](https://www.linkedin.com/in/nick-s-694241139/) |
 | **Website** | [https://nickstambaugh.dev/](https://nickstambaugh.dev/) |
 
 [Send me encrypted emails through Proton (affiliate)](https://pr.tn/ref/X0J3A3B2)
