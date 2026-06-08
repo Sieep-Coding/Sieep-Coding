@@ -1,7 +1,5 @@
 ## [Nick Stambaugh](https://www.nickstambaugh.dev/)
 
-SWE at [Luniv](https://luniv.tech)
-
 ### Recent Posts
 <!-- BLOG-POST-LIST:START -->
 
@@ -20,7 +18,8 @@ SWE at [Luniv](https://luniv.tech)
 
 [![Update README with Latest Blog Posts](https://github.com/Sieep-Coding/Sieep-Coding/actions/workflows/update-blog.yml/badge.svg)](https://github.com/Sieep-Coding/Sieep-Coding/actions/workflows/update-blog.yml)
 
-[Learn how I made this](https://www.nickstambaugh.dev/posts/Why-I-Let-GitHub-Actions-Maintain-My-GitHub-Profile-README) or copy the [workflow yourself](https://github.com/Sieep-Coding/Sieep-Coding/blob/main/.github/workflows/update-blog.yml).
+> [!TIP]
+> [Learn how I made this](https://www.nickstambaugh.dev/posts/Why-I-Let-GitHub-Actions-Maintain-My-GitHub-Profile-README) or copy the [workflow yourself](https://github.com/Sieep-Coding/Sieep-Coding/blob/main/.github/workflows/update-blog.yml).
 
 ### 📊 Stats
 [![github](https://img.shields.io/github/followers/sieep-coding?logo=github&style=flat-square)](https://github.com/sieep-coding?tab=followers)
