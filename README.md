@@ -14,4 +14,16 @@ SWE at [Luniv](https://luniv.tech)
 [![Update README with Latest Blog Posts](https://github.com/Sieep-Coding/Sieep-Coding/actions/workflows/update-blog.yml/badge.svg)](https://github.com/Sieep-Coding/Sieep-Coding/actions/workflows/update-blog.yml)
 
 <!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:START -->
+| Date | Title |
+| --- | --- |
+| Mon, 08 Jun 2026 | **[Space Cowboys: A Review of Cowboy Bebop (Eps 1-4)](https://nickstambaugh.dev/posts/cowboy-bebop-ep1-to-ep4/)** |
+| Sun, 07 Jun 2026 | **[How to Hibernate Your LinkedIn Account](https://nickstambaugh.dev/posts/how-to-hibernate-your-linkedin-account/)** |
+| Sun, 07 Jun 2026 | **[Why I Love Chicago As A Michigander](https://nickstambaugh.dev/posts/chicago/)** |
+| Sun, 17 May 2026 | **[Learn Lua With Tests](https://nickstambaugh.dev/posts/learn-lua-with-tdd/)** |
+| Fri, 15 May 2026 | **[Selling an html file for a few grand](https://nickstambaugh.dev/posts/selling-html-file-for-a-few-grand/)** |
+| Fri, 15 May 2026 | **[On Brevity](https://nickstambaugh.dev/posts/on-brevity/)** |
+| Thu, 09 Apr 2026 | **[I Don't Follow, I Subscribe](https://nickstambaugh.dev/posts/I-Dont-Follow-I-Subscribe/)** |
+
 <!-- BLOG-POST-LIST:END -->
