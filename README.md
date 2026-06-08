@@ -3,7 +3,7 @@
 SWE at [Luniv](https://luniv.tech)
 
 
-#### 📊 Stats
+### 📊 Stats
 [![github](https://img.shields.io/github/followers/sieep-coding?logo=github&style=flat-square)](https://github.com/sieep-coding?tab=followers)
 ![GitHub User's stars](https://img.shields.io/github/stars/sieep-coding?style=flat-square)
 ![](https://komarev.com/ghpvc/?username=alteryx-motives&color=blue&style=flat-square&base=6000)
