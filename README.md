@@ -6,13 +6,13 @@
 <!-- BLOG-POST-LIST:START -->
 | Date | Title |
 | --- | --- |
+| Sat, 13 Jun 2026 | **[Lessons from the Pitch](https://nickstambaugh.dev/posts/Lessons-from-the-Pitch/)** |
 | Tue, 09 Jun 2026 | **[Update: Still Running CachyOS](https://nickstambaugh.dev/posts/still-running-cachyos/)** |
 | Tue, 09 Jun 2026 | **[A Look at Ghost Rider Epic Collection Vol. 1](https://nickstambaugh.dev/posts/a-look-at-ghost-rider-epic-collction-volume-1/)** |
 | Mon, 08 Jun 2026 | **[The Umpire Method](https://nickstambaugh.dev/posts/the-umpire-method/)** |
 | Mon, 08 Jun 2026 | **[People Should Have Learned the Computer Through Linux](https://nickstambaugh.dev/posts/people-should-have-learned-the-computer-through-linux/)** |
 | Mon, 08 Jun 2026 | **[Space Cowboys: A Review of Cowboy Bebop (Eps 1-4)](https://nickstambaugh.dev/posts/cowboy-bebop-ep1-to-ep4/)** |
 | Sun, 07 Jun 2026 | **[How to Hibernate Your LinkedIn Account](https://nickstambaugh.dev/posts/how-to-hibernate-your-linkedin-account/)** |
-| Sun, 07 Jun 2026 | **[Why I Love Chicago As A Michigander](https://nickstambaugh.dev/posts/chicago/)** |
 
 <!-- BLOG-POST-LIST:END -->
 
