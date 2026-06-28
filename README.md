@@ -6,13 +6,13 @@
 <!-- BLOG-POST-LIST:START -->
 | Date | Title |
 | --- | --- |
+| Sat, 27 Jun 2026 | **[Remembering and Discussing Pravda Vodka Bar](https://nickstambaugh.dev/posts/remembering-and-discussing-pravda-vodka-bar/)** |
+| Sat, 27 Jun 2026 | **[My Thoughts On Soccer and Why It Is The Best Sport](https://nickstambaugh.dev/posts/my-thoughts-on-soccer/)** |
 | Sat, 13 Jun 2026 | **[Lessons from the Pitch](https://nickstambaugh.dev/posts/Lessons-from-the-Pitch/)** |
 | Tue, 09 Jun 2026 | **[Update: Still Running CachyOS](https://nickstambaugh.dev/posts/still-running-cachyos/)** |
 | Tue, 09 Jun 2026 | **[A Look at Ghost Rider Epic Collection Vol. 1](https://nickstambaugh.dev/posts/a-look-at-ghost-rider-epic-collction-volume-1/)** |
 | Mon, 08 Jun 2026 | **[The Umpire Method](https://nickstambaugh.dev/posts/the-umpire-method/)** |
 | Mon, 08 Jun 2026 | **[People Should Have Learned the Computer Through Linux](https://nickstambaugh.dev/posts/people-should-have-learned-the-computer-through-linux/)** |
-| Mon, 08 Jun 2026 | **[Space Cowboys: A Review of Cowboy Bebop (Eps 1-4)](https://nickstambaugh.dev/posts/cowboy-bebop-ep1-to-ep4/)** |
-| Sun, 07 Jun 2026 | **[How to Hibernate Your LinkedIn Account](https://nickstambaugh.dev/posts/how-to-hibernate-your-linkedin-account/)** |
 
 <!-- BLOG-POST-LIST:END -->
 
