@@ -6,13 +6,13 @@
 <!-- BLOG-POST-LIST:START -->
 | Date | Title |
 | --- | --- |
+| Sat, 18 Jul 2026 | **[Making 'Kill Those Crows'](https://nickstambaugh.dev/posts/making-kill-those-crows/)** |
 | Tue, 14 Jul 2026 | **[Moving to nickstambaugh.com](https://nickstambaugh.dev/posts/moving-domains/)** |
 | Mon, 13 Jul 2026 | **[Making 'Be Yourself'](https://nickstambaugh.dev/posts/making-be-yourself/)** |
 | Sat, 11 Jul 2026 | **[Switching Back To FL Studio](https://nickstambaugh.dev/posts/switching-back-to-fl-studio/)** |
 | Sat, 11 Jul 2026 | **[Making 'Normal Life'](https://nickstambaugh.dev/posts/making-normal-life/)** |
 | Thu, 09 Jul 2026 | **[Delete LinkedIn Forever](https://nickstambaugh.dev/posts/Delete-LinkedIn-Forever/)** |
 | Fri, 03 Jul 2026 | **[Potential Stoic and Platonic Views on Modern Technology](https://nickstambaugh.dev/posts/stoic-and-platonic-views-on-modern-technology/)** |
-| Sat, 27 Jun 2026 | **[Remembering and Discussing Pravda Vodka Bar](https://nickstambaugh.dev/posts/remembering-and-discussing-pravda-vodka-bar/)** |
 
 <!-- BLOG-POST-LIST:END -->
 
