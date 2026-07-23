@@ -6,13 +6,13 @@
 <!-- BLOG-POST-LIST:START -->
 | Date | Title |
 | --- | --- |
+| Thu, 23 Jul 2026 | **[Tinkering With the Site](https://nickstambaugh.dev/posts/tinkering-with-the-site/)** |
 | Mon, 20 Jul 2026 | **[Making 'Continue?'](https://nickstambaugh.dev/posts/making-continue/)** |
 | Sat, 18 Jul 2026 | **[Making 'Crows'](https://nickstambaugh.dev/posts/making-crows/)** |
 | Tue, 14 Jul 2026 | **[Moving to nickstambaugh.com](https://nickstambaugh.dev/posts/moving-domains/)** |
 | Mon, 13 Jul 2026 | **[Making 'Be Yourself'](https://nickstambaugh.dev/posts/making-be-yourself/)** |
 | Sat, 11 Jul 2026 | **[Switching Back To FL Studio](https://nickstambaugh.dev/posts/switching-back-to-fl-studio/)** |
 | Sat, 11 Jul 2026 | **[Making 'Normal Life'](https://nickstambaugh.dev/posts/making-normal-life/)** |
-| Thu, 09 Jul 2026 | **[Delete LinkedIn Forever](https://nickstambaugh.dev/posts/Delete-LinkedIn-Forever/)** |
 
 <!-- BLOG-POST-LIST:END -->
 
