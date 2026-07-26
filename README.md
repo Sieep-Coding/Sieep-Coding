@@ -6,13 +6,13 @@
 <!-- BLOG-POST-LIST:START -->
 | Date | Title |
 | --- | --- |
+| Sun, 26 Jul 2026 | **[Reddit Has a Bot Problem](https://nickstambaugh.dev/posts/reddit-has-a-bot-problem/)** |
 | Sat, 25 Jul 2026 | **[The Labor Force Never Fully Came Back](https://nickstambaugh.dev/posts/the-labor-force-never-fully-came-back/)** |
 | Fri, 24 Jul 2026 | **[Chopping Samples with Fruity Slicer 2](https://nickstambaugh.dev/posts/chopping-samples-with-fruity-slicer-2/)** |
 | Thu, 23 Jul 2026 | **[Tinkering With the Site](https://nickstambaugh.dev/posts/tinkering-with-the-site/)** |
 | Thu, 23 Jul 2026 | **[Moving More of My Digital Life Somewhere Less Creepy](https://nickstambaugh.dev/posts/moving-more-of-my-digital-life-somewhere-less-creepy/)** |
 | Mon, 20 Jul 2026 | **[Making 'Continue?'](https://nickstambaugh.dev/posts/making-continue/)** |
 | Sat, 18 Jul 2026 | **[Making 'Crows'](https://nickstambaugh.dev/posts/making-crows/)** |
-| Tue, 14 Jul 2026 | **[Moving to nickstambaugh.com](https://nickstambaugh.dev/posts/moving-domains/)** |
 
 <!-- BLOG-POST-LIST:END -->
 
