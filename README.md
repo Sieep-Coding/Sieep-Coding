@@ -6,13 +6,13 @@
 <!-- BLOG-POST-LIST:START -->
 | Date | Title |
 | --- | --- |
+| Tue, 04 Aug 2026 | **[Making 'Palm Smoke'](https://nickstambaugh.dev/posts/making-palm-smoke/)** |
 | Sun, 02 Aug 2026 | **[Making 'Side Streets'](https://nickstambaugh.dev/posts/making-side-streets/)** |
 | Sat, 01 Aug 2026 | **[Making 'Villains'](https://nickstambaugh.dev/posts/making-villains/)** |
 | Wed, 29 Jul 2026 | **[Integrating Myself With Wikipedia](https://nickstambaugh.dev/posts/integrating-myself-with-wikipedia/)** |
 | Sun, 26 Jul 2026 | **[Reddit Has a Bot Problem](https://nickstambaugh.dev/posts/reddit-has-a-bot-problem/)** |
 | Sun, 26 Jul 2026 | **[Creating My Own Social Feed](https://nickstambaugh.dev/posts/creating-my-own-social-feed/)** |
 | Sat, 25 Jul 2026 | **[The Labor Force Never Fully Came Back](https://nickstambaugh.dev/posts/the-labor-force-never-fully-came-back/)** |
-| Fri, 24 Jul 2026 | **[Chopping Samples with Fruity Slicer 2](https://nickstambaugh.dev/posts/chopping-samples-with-fruity-slicer-2/)** |
 
 <!-- BLOG-POST-LIST:END -->
 
