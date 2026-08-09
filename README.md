@@ -6,7 +6,7 @@
 <!-- BLOG-POST-LIST:START -->
 | Date | Title |
 | --- | --- |
-| Sun, 09 Aug 2026 | **[Reteaching You Supply and Demand Since You Forgot](https://nickstambaugh.dev/posts/reteaching-you-supply-and-demand-since-you-forgot/)** |
+| Sun, 09 Aug 2026 | **[Reteaching You 'Supply and Demand' Since You Forgot](https://nickstambaugh.dev/posts/reteaching-you-supply-and-demand-since-you-forgot/)** |
 | Fri, 07 Aug 2026 | **[Reflecting on Two Years as a Software Engineer in the Midwest](https://nickstambaugh.dev/posts/reflecting-on-two-years-as-a-software-engineer/)** |
 | Tue, 04 Aug 2026 | **[Making 'Palm Smoke'](https://nickstambaugh.dev/posts/making-palm-smoke/)** |
 | Sun, 02 Aug 2026 | **[Making 'Side Streets'](https://nickstambaugh.dev/posts/making-side-streets/)** |
