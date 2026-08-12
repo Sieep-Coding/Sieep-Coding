@@ -1,6 +1,6 @@
 # [Nick Stambaugh's](https://www.nickstambaugh.dev/) Github
 
-### Recent Posts
+### Recent Blog Entry
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:START -->
