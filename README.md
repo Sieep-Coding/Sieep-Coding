@@ -11,8 +11,8 @@
 | Thu, 13 Aug 2026 | **[The Rat Race & Social Media Consumption](https://nickstambaugh.dev/posts/the-rat-race-and-social-media-consumption/)** |
 | Thu, 13 Aug 2026 | **[Why SQLite Still Wins](https://nickstambaugh.dev/posts/SQLite-Still-Wins/)** |
 | Wed, 12 Aug 2026 | **[The Best Revenge Is Living Well](https://nickstambaugh.dev/posts/the-best-revenge-is-living-well/)** |
-| Tue, 11 Aug 2026 | **[It's Time for Europeans to Pay the Piper](https://nickstambaugh.dev/posts/Its-Time-for-Europeans-to-Pay-the-Piper/)** |
-| Sun, 09 Aug 2026 | **[Reteaching You 'Supply and Demand' Since You Forgot](https://nickstambaugh.dev/posts/reteaching-you-supply-and-demand-since-you-forgot/)** |
+| Tue, 11 Aug 2026 | **[Reteaching You 'Supply and Demand' Since You Forgot](https://nickstambaugh.dev/posts/reteaching-you-supply-and-demand-since-you-forgot/)** |
+| Tue, 11 Aug 2026 | **[Just Use AI](https://nickstambaugh.dev/posts/just-use-ai/)** |
 
 <!-- BLOG-POST-LIST:END -->
 
