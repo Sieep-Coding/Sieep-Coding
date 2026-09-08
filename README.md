@@ -1,4 +1,4 @@
-# [Nick Stambaugh's](https://www.nickstambaugh.dev/) Github
+## [Nick Stambaugh's](https://www.nickstambaugh.dev/) Github
 
 ### Recent Blog Entry
 <!-- BLOG-POST-LIST:START -->
