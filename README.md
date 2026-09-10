@@ -6,13 +6,13 @@
 <!-- BLOG-POST-LIST:START -->
 | Date | Title |
 | --- | --- |
+| Wed, 09 Sep 2026 | **[Using Go (+ FFmpeg) to Edit Videos Fast AF](https://nickstambaugh.dev/posts/using-go-ffmpeg-to-edit-videos-fast-af/)** |
 | Tue, 08 Sep 2026 | **[Making 'Velvet'](https://nickstambaugh.dev/posts/making-velvet/)** |
 | Tue, 01 Sep 2026 | **[Making 'Midnight'](https://nickstambaugh.dev/posts/making-midnight/)** |
 | Mon, 31 Aug 2026 | **[Making 'Smokin' Syncopation'](https://nickstambaugh.dev/posts/making-smokin-syncopation/)** |
 | Thu, 13 Aug 2026 | **[The Rat Race & Social Media Consumption](https://nickstambaugh.dev/posts/the-rat-race-and-social-media-consumption/)** |
 | Thu, 13 Aug 2026 | **[Why SQLite Still Wins](https://nickstambaugh.dev/posts/SQLite-Still-Wins/)** |
 | Wed, 12 Aug 2026 | **[The Best Revenge Is Living Well](https://nickstambaugh.dev/posts/the-best-revenge-is-living-well/)** |
-| Tue, 11 Aug 2026 | **[Reteaching You 'Supply and Demand' Since You Forgot](https://nickstambaugh.dev/posts/reteaching-you-supply-and-demand-since-you-forgot/)** |
 
 <!-- BLOG-POST-LIST:END -->
 
