@@ -1,4 +1,4 @@
-### Latest blog enteries
+### Latest blog entries
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:START -->
