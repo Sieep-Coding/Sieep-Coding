@@ -18,6 +18,6 @@
 
 
 ### Listen to my music
-[![Music Website](https://img.shields.io/badge/Music_Site-003333?style=flat-square&logo=applemusic&logoColor=white)](https://www.nickstambaugh.dev/music)
+[![Music Website](https://img.shields.io/badge/Music_Site-003333?style=flat-square&logo=applemusic&logoColor=white)](https://www.nickstambaugh.com/music)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@sieep00)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=flat-square&logo=soundcloud&logoColor=white)](https://soundcloud.com/sieep00)
