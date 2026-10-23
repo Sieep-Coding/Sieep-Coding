@@ -6,13 +6,13 @@
 <!-- BLOG-POST-LIST:START -->
 | Date | Title |
 | --- | --- |
+| Thu, 22 Oct 2026 | **[Making 'Isotope'](https://nickstambaugh.dev/posts/making-isotope/)** |
 | Sun, 11 Oct 2026 | **[Making 'Micaela'](https://nickstambaugh.dev/posts/making-micaela/)** |
 | Thu, 08 Oct 2026 | **[Making 'Cross Rhodes'](https://nickstambaugh.dev/posts/making-cross-rhodes/)** |
 | Mon, 28 Sep 2026 | **[Making 'Shootout'](https://nickstambaugh.dev/posts/making-shootout/)** |
 | Wed, 09 Sep 2026 | **[Using Go (+ FFmpeg) to Edit Videos Fast AF](https://nickstambaugh.dev/posts/using-go-ffmpeg-to-edit-videos-fast-af/)** |
 | Tue, 08 Sep 2026 | **[Making 'Velvet'](https://nickstambaugh.dev/posts/making-velvet/)** |
 | Tue, 01 Sep 2026 | **[Making 'Midnight'](https://nickstambaugh.dev/posts/making-midnight/)** |
-| Mon, 31 Aug 2026 | **[Making 'Smokin' Syncopation'](https://nickstambaugh.dev/posts/making-smokin-syncopation/)** |
 
 <!-- BLOG-POST-LIST:END -->
 
