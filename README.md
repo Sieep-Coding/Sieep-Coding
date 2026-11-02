@@ -6,13 +6,13 @@
 <!-- BLOG-POST-LIST:START -->
 | Date | Title |
 | --- | --- |
+| Sun, 01 Nov 2026 | **[Making 'Last Known Location'](https://nickstambaugh.dev/posts/making-last-known-location/)** |
 | Sat, 24 Oct 2026 | **[Getting GTA IV Running on CachyOS (Without the Rockstar Launcher)](https://nickstambaugh.dev/posts/gta-iv-cachyos/)** |
 | Thu, 22 Oct 2026 | **[Making 'Isotope'](https://nickstambaugh.dev/posts/making-isotope/)** |
 | Sun, 11 Oct 2026 | **[Making 'Micaela'](https://nickstambaugh.dev/posts/making-micaela/)** |
 | Thu, 08 Oct 2026 | **[Making 'Cross Rhodes'](https://nickstambaugh.dev/posts/making-cross-rhodes/)** |
 | Mon, 28 Sep 2026 | **[Making 'Shootout'](https://nickstambaugh.dev/posts/making-shootout/)** |
 | Wed, 09 Sep 2026 | **[Using Go (+ FFmpeg) to Edit Videos Fast AF](https://nickstambaugh.dev/posts/using-go-ffmpeg-to-edit-videos-fast-af/)** |
-| Tue, 08 Sep 2026 | **[Making 'Velvet'](https://nickstambaugh.dev/posts/making-velvet/)** |
 
 <!-- BLOG-POST-LIST:END -->
 
